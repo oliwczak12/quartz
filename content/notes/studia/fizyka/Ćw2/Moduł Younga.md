@@ -1,0 +1,1 @@
+cecha sprężystości która określa opór który stawia materiał poddany ściskaniu oraz rozciąganiu
