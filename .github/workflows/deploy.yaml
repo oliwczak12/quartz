@@ -12,6 +12,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - name: hugo-obsidian
+        uses: jackyzha0/hugo-obsidian@v2.18
 
       - name: Build Link Index
         uses: jackyzha0/hugo-obsidian@v2.18
