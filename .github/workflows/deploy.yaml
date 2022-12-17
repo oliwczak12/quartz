@@ -26,6 +26,8 @@ jobs:
         with:
           hugo-version: '0.96.0'
           extended: true
+      - name: hugo-obsidian
+      uses: jackyzha0/hugo-obsidian@v2.18
 
       - name: Build
         run: hugo --minify

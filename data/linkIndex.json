@@ -1,0 +1,188 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/notes/studia/fizyka/fizyka",
+          "text": "fizyka"
+        },
+        {
+          "source": "/",
+          "target": "/notes/studia/Wdi/wprowadzenie-do-informatyki",
+          "text": "wprowadzenie do informatyki"
+        }
+      ],
+      "/notes/mno%C5%BCenie": [
+        {
+          "source": "/notes/mno%C5%BCenie",
+          "target": "/dodawanie",
+          "text": "dodawanie"
+        }
+      ],
+      "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga": [
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/Napr%C4%99%C5%BCenia-w-cia%C5%82ach-sta%C5%82ych",
+          "text": "Naprężenia w ciałach stałych"
+        },
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/rodzaje-odkszta%C5%82ce%C5%84-spr%C4%99%C5%BCystych",
+          "text": "rodzaje odkształceń sprężystych"
+        },
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/Prawo-Hookea",
+          "text": "Prawo Hooke’a"
+        },
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/plastyczno%C5%9B%C4%87",
+          "text": "plastyczność"
+        },
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/wytrzyma%C5%82o%C5%9B%C4%87-na-zerwanie",
+          "text": "wytrzymałość na zerwanie"
+        },
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/Modu%C5%82-Younga",
+          "text": "Moduł Younga"
+        }
+      ],
+      "/notes/studia/fizyka/fizyka": [
+        {
+          "source": "/notes/studia/fizyka/fizyka",
+          "target": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "text": "Wyznaczanie modulu younga"
+        }
+      ]
+    },
+    "backlinks": {
+      "/dodawanie": [
+        {
+          "source": "/notes/mno%C5%BCenie",
+          "target": "/dodawanie",
+          "text": "dodawanie"
+        }
+      ],
+      "/notes/studia/Wdi/wprowadzenie-do-informatyki": [
+        {
+          "source": "/",
+          "target": "/notes/studia/Wdi/wprowadzenie-do-informatyki",
+          "text": "wprowadzenie do informatyki"
+        }
+      ],
+      "/notes/studia/fizyka/%C4%86w2/Modu%C5%82-Younga": [
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/Modu%C5%82-Younga",
+          "text": "Moduł Younga"
+        }
+      ],
+      "/notes/studia/fizyka/%C4%86w2/Napr%C4%99%C5%BCenia-w-cia%C5%82ach-sta%C5%82ych": [
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/Napr%C4%99%C5%BCenia-w-cia%C5%82ach-sta%C5%82ych",
+          "text": "Naprężenia w ciałach stałych"
+        }
+      ],
+      "/notes/studia/fizyka/%C4%86w2/Prawo-Hookea": [
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/Prawo-Hookea",
+          "text": "Prawo Hooke’a"
+        }
+      ],
+      "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga": [
+        {
+          "source": "/notes/studia/fizyka/fizyka",
+          "target": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "text": "Wyznaczanie modulu younga"
+        }
+      ],
+      "/notes/studia/fizyka/%C4%86w2/plastyczno%C5%9B%C4%87": [
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/plastyczno%C5%9B%C4%87",
+          "text": "plastyczność"
+        }
+      ],
+      "/notes/studia/fizyka/%C4%86w2/rodzaje-odkszta%C5%82ce%C5%84-spr%C4%99%C5%BCystych": [
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/rodzaje-odkszta%C5%82ce%C5%84-spr%C4%99%C5%BCystych",
+          "text": "rodzaje odkształceń sprężystych"
+        }
+      ],
+      "/notes/studia/fizyka/%C4%86w2/wytrzyma%C5%82o%C5%9B%C4%87-na-zerwanie": [
+        {
+          "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+          "target": "/notes/studia/fizyka/%C4%86w2/wytrzyma%C5%82o%C5%9B%C4%87-na-zerwanie",
+          "text": "wytrzymałość na zerwanie"
+        }
+      ],
+      "/notes/studia/fizyka/fizyka": [
+        {
+          "source": "/",
+          "target": "/notes/studia/fizyka/fizyka",
+          "text": "fizyka"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/",
+      "target": "/notes/studia/fizyka/fizyka",
+      "text": "fizyka"
+    },
+    {
+      "source": "/",
+      "target": "/notes/studia/Wdi/wprowadzenie-do-informatyki",
+      "text": "wprowadzenie do informatyki"
+    },
+    {
+      "source": "/notes/mno%C5%BCenie",
+      "target": "/dodawanie",
+      "text": "dodawanie"
+    },
+    {
+      "source": "/notes/studia/fizyka/fizyka",
+      "target": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+      "text": "Wyznaczanie modulu younga"
+    },
+    {
+      "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+      "target": "/notes/studia/fizyka/%C4%86w2/Napr%C4%99%C5%BCenia-w-cia%C5%82ach-sta%C5%82ych",
+      "text": "Naprężenia w ciałach stałych"
+    },
+    {
+      "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+      "target": "/notes/studia/fizyka/%C4%86w2/rodzaje-odkszta%C5%82ce%C5%84-spr%C4%99%C5%BCystych",
+      "text": "rodzaje odkształceń sprężystych"
+    },
+    {
+      "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+      "target": "/notes/studia/fizyka/%C4%86w2/Prawo-Hookea",
+      "text": "Prawo Hooke’a"
+    },
+    {
+      "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+      "target": "/notes/studia/fizyka/%C4%86w2/plastyczno%C5%9B%C4%87",
+      "text": "plastyczność"
+    },
+    {
+      "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+      "target": "/notes/studia/fizyka/%C4%86w2/wytrzyma%C5%82o%C5%9B%C4%87-na-zerwanie",
+      "text": "wytrzymałość na zerwanie"
+    },
+    {
+      "source": "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
+      "target": "/notes/studia/fizyka/%C4%86w2/Modu%C5%82-Younga",
+      "text": "Moduł Younga"
+    }
+  ]
+}

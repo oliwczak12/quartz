@@ -1,0 +1,86 @@
+{
+  "/": {
+    "title": "index",
+    "content": "[fizyka](notes/studia/fizyka/fizyka.md)\nlkjhasdflkjhasdflkjhasdf\nfdsafdsfdsaf\ndfsafdasfdsafds\n\n\ndfasfsdfaf\n\n[wprowadzenie do informatyki](notes/studia/Wdi/wprowadzenie%20do%20informatyki.md)\n",
+    "lastmodified": "2022-12-17T12:28:48.2103606+01:00",
+    "tags": null
+  },
+  "/notes/dodawanie": {
+    "title": "",
+    "content": "",
+    "lastmodified": "2022-12-13T18:35:15.2822313+01:00",
+    "tags": null
+  },
+  "/notes/mno%C5%BCenie": {
+    "title": "",
+    "content": "potrzebujesz [[dodawanie]]",
+    "lastmodified": "2022-12-13T18:35:10.6528858+01:00",
+    "tags": null
+  },
+  "/notes/studia/Wdi/wprowadzenie-do-informatyki": {
+    "title": "wprowadzenie do informatyki",
+    "content": "przedmiot fajny i wogóle\n",
+    "lastmodified": "2022-12-17T12:41:57.0217546+01:00",
+    "tags": null
+  },
+  "/notes/studia/fizyka/%C4%86w2/Modu%C5%82-Younga": {
+    "title": "",
+    "content": "title: \"fizyka\"\ntag:\n- fizyka\nweight: -1\n---\n\ncecha sprężystości która określa opór który stawia materiał poddany ściskaniu oraz rozciąganiu",
+    "lastmodified": "2022-12-17T12:41:21.0985898+01:00",
+    "tags": null
+  },
+  "/notes/studia/fizyka/%C4%86w2/Napr%C4%99%C5%BCenia-w-cia%C5%82ach-sta%C5%82ych": {
+    "title": "",
+    "content": "",
+    "lastmodified": "2022-11-22T22:12:17.6526179+01:00",
+    "tags": null
+  },
+  "/notes/studia/fizyka/%C4%86w2/Prawo-Hookea": {
+    "title": "",
+    "content": "zależność naprężenia od odkształcenia\n\nDla dostatecznie małych deformacji, siła potrzebna do odkształcenia jest wprost proporcjonalna do tego odkształcenia",
+    "lastmodified": "2022-12-12T19:29:14+01:00",
+    "tags": null
+  },
+  "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga": {
+    "title": "Example Title",
+    "content": "[Naprężenia w ciałach stałych](notes/studia/fizyka/Ćw2/Naprężenia%20w%20ciałach%20stałych.md)\n[rodzaje odkształceń sprężystych](notes/studia/fizyka/Ćw2/rodzaje%20odkształceń%20sprężystych.md)\n[Prawo Hooke’a](notes/studia/fizyka/Ćw2/Prawo%20Hooke’a.md)\n[plastyczność](notes/studia/fizyka/Ćw2/plastyczność.md)\n[wytrzymałość na zerwanie](notes/studia/fizyka/Ćw2/wytrzymałość%20na%20zerwanie.md)\n[Moduł Younga](notes/studia/fizyka/Ćw2/Moduł%20Younga.md)\n\n\n\n\n",
+    "lastmodified": "2022-12-17T12:41:07.2101635+01:00",
+    "tags": null
+  },
+  "/notes/studia/fizyka/%C4%86w2/plastyczno%C5%9B%C4%87": {
+    "title": "",
+    "content": "jest to nieodwracalne odkształcenie ciała stałego które zarazem nie powoduje jego zniszczenia",
+    "lastmodified": "2022-12-12T19:29:14+01:00",
+    "tags": null
+  },
+  "/notes/studia/fizyka/%C4%86w2/rodzaje-odkszta%C5%82ce%C5%84-spr%C4%99%C5%BCystych": {
+    "title": "",
+    "content": "Odkształceniem sprężystym nazywa się odkształcenie ciała ustępujące po usunięciu siły, która je spowodowała. \n\nNajczęściej spotykanymi układami takich sił są: **rozciąganie, ściskanie, skręcanie**.",
+    "lastmodified": "2022-12-12T19:29:14+01:00",
+    "tags": null
+  },
+  "/notes/studia/fizyka/%C4%86w2/wytrzyma%C5%82o%C5%9B%C4%87-na-zerwanie": {
+    "title": "",
+    "content": "Taka wartość naprężenia wewnętrznego przy której zachodzi rozerwanie danego materiału.",
+    "lastmodified": "2022-12-12T19:29:14+01:00",
+    "tags": null
+  },
+  "/notes/studia/fizyka/fizyka": {
+    "title": "fizyka",
+    "content": "titiriririsarasrrsr\n\n[wprowadzenie do informatyki](notes/studia/Wdi/wprowadzenie%20do%20informatyki.m)\n[Wyznaczanie modulu younga](notes/studia/fizyka/Ćw2/Wyznaczanie%20modulu%20younga.md)\n",
+    "lastmodified": "2022-12-17T12:41:03.1102939+01:00",
+    "tags": null
+  },
+  "/private/private-note": {
+    "title": "Private Stuff",
+    "content": "\nThis page doesn't get published!",
+    "lastmodified": "2022-12-17T02:08:54.7249213+01:00",
+    "tags": null
+  },
+  "/templates/post": {
+    "title": "{{title}}",
+    "content": "",
+    "lastmodified": "2022-12-17T02:08:57.4243852+01:00",
+    "tags": null
+  }
+}
