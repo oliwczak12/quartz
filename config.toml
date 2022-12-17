@@ -1,3 +1,4 @@
+baseURL = "https://oliwczak12.github.io/quartz/"
 languageCode = "pl"
 relativeURLs = false
 disablePathToLower = true
