@@ -1,86 +1,110 @@
 {
   "/": {
-    "title": "index",
-    "content": "[fizyka](notes/studia/fizyka/fizyka.md)\r\nlkjhasdflkjhasdflkjhasdf\r\nfdsafdsfdsaf\r\ndfsafdasfdsafds\r\n\r\n\r\ndfasfsdfaf\r\n\r\n[wprowadzenie do informatyki](notes/studia/Wdi/wprowadzenie%20do%20informatyki.md)\r\n",
-    "lastmodified": "2022-12-17T13:14:10.976878+01:00",
+    "title": "🪴 My digital garden 🪴",
+    "content": "## Opis\nTo mój cyfrowy ogród  w którym znajdują się moje notatki ze studiów.\n\n## Jak używać\n#### Jest kilka sposobów na poruszanie się po ogrodzie:\n\n- Przechodzenie od nagłówka do nagłówka \n- Graf który zawsze znajduje się na końcu strony\n- Wyszukiwarka\n- Tagi znajdujące się na początku każdej notatki\n\n",
+    "lastmodified": "2022-12-17T23:15:14.5425091+01:00",
     "tags": null
   },
-  "/notes/dodawanie": {
-    "title": "",
+  "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry": {
+    "title": "Amzea",
+    "content": "## Zagadnienia z przedmiotu\n\n### Zagadnienia do pierwszego kolokwium\n\n### Zagadnienia do drugiego kolokwium\n\n[[I semestr/Amzea/II kolokwium/Pochodne]]\n",
+    "lastmodified": "2022-12-17T18:17:48.8690091+01:00",
+    "tags": null
+  },
+  "/I-semestr/Amzea/II-kolokwium/Pochodne": {
+    "title": "Pochodne",
+    "content": "tu coś jest",
+    "lastmodified": "2022-12-17T21:10:28.0005547+01:00",
+    "tags": null
+  },
+  "/I-semestr/Fizyka/%C4%86w2/Modu%C5%82-Younga": {
+    "title": "Moduł Younga",
+    "content": "\n\ncecha sprężystości która określa opór który stawia materiał poddany ściskaniu oraz rozciąganiu",
+    "lastmodified": "2022-12-17T18:31:41.6978115+01:00",
+    "tags": null
+  },
+  "/I-semestr/Fizyka/%C4%86w2/Napr%C4%99%C5%BCenia-w-cia%C5%82ach-sta%C5%82ych": {
+    "title": "Naprężenia w ciałach stałych",
     "content": "",
-    "lastmodified": "2022-12-17T13:14:10.97738+01:00",
+    "lastmodified": "2022-12-17T14:44:47.4697362+01:00",
     "tags": null
   },
-  "/notes/mno%C5%BCenie": {
-    "title": "",
-    "content": "potrzebujesz [[dodawanie]]",
-    "lastmodified": "2022-12-17T13:14:10.97738+01:00",
+  "/I-semestr/Fizyka/%C4%86w2/Prawo-Hookea": {
+    "title": "Prawo Hooke’a",
+    "content": "zależność naprężenia od odkształcenia\n\nDla dostatecznie małych deformacji, siła potrzebna do odkształcenia jest wprost proporcjonalna do tego odkształcenia",
+    "lastmodified": "2022-12-17T18:31:54.3765676+01:00",
     "tags": null
   },
-  "/notes/studia/Wdi/wprowadzenie-do-informatyki": {
-    "title": "wprowadzenie do informatyki",
-    "content": "przedmiot fajny i wogóle\r\n",
-    "lastmodified": "2022-12-17T13:14:10.9783813+01:00",
+  "/I-semestr/Fizyka/%C4%86w2/Wyznaczanie-modulu-younga": {
+    "title": "Wyznaczanie modułu younga",
+    "content": "[Naprężenia w ciałach stałych](I%20semestr/Fizyka/Ćw2/Naprężenia%20w%20ciałach%20stałych.md)\n[rodzaje odkształceń sprężystych](I%20semestr/Fizyka/Ćw2/rodzaje%20odkształceń%20sprężystych.md)\n[Prawo Hooke’a](I%20semestr/Fizyka/Ćw2/Prawo%20Hooke’a.md)\n[plastyczność](I%20semestr/Fizyka/Ćw2/plastyczność.md)\n[wytrzymałość na zerwanie](I%20semestr/Fizyka/Ćw2/wytrzymałość%20na%20zerwanie.md)\n[Moduł Younga](I%20semestr/Fizyka/Ćw2/Moduł%20Younga.md)\n\n\n\n\n",
+    "lastmodified": "2022-12-17T17:49:08.823141+01:00",
     "tags": null
   },
-  "/notes/studia/fizyka/%C4%86w2/Modu%C5%82-Younga": {
-    "title": "",
-    "content": "title: \"fizyka\"\r\ntag:\r\n- fizyka\r\nweight: -1\r\n---\r\n\r\ncecha sprężystości która określa opór który stawia materiał poddany ściskaniu oraz rozciąganiu",
-    "lastmodified": "2022-12-17T13:14:10.9793824+01:00",
-    "tags": null
-  },
-  "/notes/studia/fizyka/%C4%86w2/Napr%C4%99%C5%BCenia-w-cia%C5%82ach-sta%C5%82ych": {
-    "title": "",
-    "content": "",
-    "lastmodified": "2022-12-17T13:14:10.9793824+01:00",
-    "tags": null
-  },
-  "/notes/studia/fizyka/%C4%86w2/Prawo-Hookea": {
-    "title": "",
-    "content": "zależność naprężenia od odkształcenia\r\n\r\nDla dostatecznie małych deformacji, siła potrzebna do odkształcenia jest wprost proporcjonalna do tego odkształcenia",
-    "lastmodified": "2022-12-17T13:14:10.9793824+01:00",
-    "tags": null
-  },
-  "/notes/studia/fizyka/%C4%86w2/Wyznaczanie-modulu-younga": {
-    "title": "Example Title",
-    "content": "[Naprężenia w ciałach stałych](notes/studia/fizyka/Ćw2/Naprężenia%20w%20ciałach%20stałych.md)\r\n[rodzaje odkształceń sprężystych](notes/studia/fizyka/Ćw2/rodzaje%20odkształceń%20sprężystych.md)\r\n[Prawo Hooke’a](notes/studia/fizyka/Ćw2/Prawo%20Hooke’a.md)\r\n[plastyczność](notes/studia/fizyka/Ćw2/plastyczność.md)\r\n[wytrzymałość na zerwanie](notes/studia/fizyka/Ćw2/wytrzymałość%20na%20zerwanie.md)\r\n[Moduł Younga](notes/studia/fizyka/Ćw2/Moduł%20Younga.md)\r\n\r\n\r\n\r\n\r\n",
-    "lastmodified": "2022-12-17T13:14:10.9793824+01:00",
-    "tags": null
-  },
-  "/notes/studia/fizyka/%C4%86w2/plastyczno%C5%9B%C4%87": {
-    "title": "",
+  "/I-semestr/Fizyka/%C4%86w2/plastyczno%C5%9B%C4%87": {
+    "title": "plastyczność",
     "content": "jest to nieodwracalne odkształcenie ciała stałego które zarazem nie powoduje jego zniszczenia",
-    "lastmodified": "2022-12-17T13:14:10.9808873+01:00",
+    "lastmodified": "2022-12-17T18:31:49.4158536+01:00",
     "tags": null
   },
-  "/notes/studia/fizyka/%C4%86w2/rodzaje-odkszta%C5%82ce%C5%84-spr%C4%99%C5%BCystych": {
-    "title": "",
-    "content": "Odkształceniem sprężystym nazywa się odkształcenie ciała ustępujące po usunięciu siły, która je spowodowała. \r\n\r\nNajczęściej spotykanymi układami takich sił są: **rozciąganie, ściskanie, skręcanie**.",
-    "lastmodified": "2022-12-17T13:14:10.9808873+01:00",
+  "/I-semestr/Fizyka/%C4%86w2/rodzaje-odkszta%C5%82ce%C5%84-spr%C4%99%C5%BCystych": {
+    "title": "rodzaje odkształceń sprężystych",
+    "content": "Odkształceniem sprężystym nazywa się odkształcenie ciała ustępujące po usunięciu siły, która je spowodowała. \n\nNajczęściej spotykanymi układami takich sił są: **rozciąganie, ściskanie, skręcanie**.",
+    "lastmodified": "2022-12-17T18:31:59.2257765+01:00",
     "tags": null
   },
-  "/notes/studia/fizyka/%C4%86w2/wytrzyma%C5%82o%C5%9B%C4%87-na-zerwanie": {
-    "title": "",
+  "/I-semestr/Fizyka/%C4%86w2/wytrzyma%C5%82o%C5%9B%C4%87-na-zerwanie": {
+    "title": "wytrzymałość na zerwanie",
     "content": "Taka wartość naprężenia wewnętrznego przy której zachodzi rozerwanie danego materiału.",
-    "lastmodified": "2022-12-17T13:14:10.9808873+01:00",
+    "lastmodified": "2022-12-17T18:32:05.2269021+01:00",
     "tags": null
   },
-  "/notes/studia/fizyka/fizyka": {
+  "/I-semestr/Fizyka/fizyka": {
     "title": "fizyka",
-    "content": "labki i wykłady koniec egzamin jak narazie\r\n\r\n[wprowadzenie do informatyki](notes/studia/Wdi/wprowadzenie%20do%20informatyki.m)\r\n[Wyznaczanie modulu younga](notes/studia/fizyka/Ćw2/Wyznaczanie%20modulu%20younga.md)\r\n",
-    "lastmodified": "2022-12-17T13:14:10.9783813+01:00",
+    "content": "[Wyznaczanie modulu younga](I%20semestr/Fizyka/Ćw2/Wyznaczanie%20modulu%20younga.md)\n",
+    "lastmodified": "2022-12-17T18:34:09.0020289+01:00",
+    "tags": null
+  },
+  "/I-semestr/I-Semestr": {
+    "title": "I Semestr",
+    "content": "## Przedmioty\n### [Fizyka](I%20semestr/Fizyka/fizyka.md)\n### [Wdi](I%20semestr/Wdi/wprowadzenie%20do%20informatyki.md)\n### [Amzea](I%20semestr/Amzea/Analiza%20matematyczna%20z%20elementami%20algebry.md)\n",
+    "lastmodified": "2022-12-17T17:53:58.0636222+01:00",
+    "tags": null
+  },
+  "/I-semestr/Programowanie/Programowanie": {
+    "title": "Programowanie",
+    "content": "Są to dwa moduły ==Podstawy programowania== oraz ==Języki programowania==\n",
+    "lastmodified": "2022-12-17T18:41:14.0842974+01:00",
+    "tags": null
+  },
+  "/I-semestr/Wdi/Binarny/dodawanie": {
+    "title": "dodawanie",
+    "content": "",
+    "lastmodified": "2022-12-17T14:38:33.2027845+01:00",
+    "tags": null
+  },
+  "/I-semestr/Wdi/Binarny/mno%C5%BCenie": {
+    "title": "",
+    "content": "",
+    "lastmodified": "2022-12-17T15:38:44.7276256+01:00",
+    "tags": null
+  },
+  "/I-semestr/Wdi/wprowadzenie-do-informatyki": {
+    "title": "wprowadzenie do informatyki",
+    "content": "\n",
+    "lastmodified": "2022-12-17T15:12:32.4821844+01:00",
     "tags": null
   },
   "/private/private-note": {
     "title": "Private Stuff",
-    "content": "\r\nThis page doesn't get published!",
-    "lastmodified": "2022-12-17T13:14:10.9808873+01:00",
+    "content": "\nThis page doesn't get published!",
+    "lastmodified": "2022-12-17T15:39:03.635008+01:00",
     "tags": null
   },
   "/templates/post": {
     "title": "{{title}}",
     "content": "",
-    "lastmodified": "2022-12-17T13:14:10.9821636+01:00",
+    "lastmodified": "2022-12-17T18:45:28.4614614+01:00",
     "tags": null
   }
 }

@@ -1,7 +1,6 @@
-title: "fizyka"
-tag:
-- fizyka
-weight: -1
 ---
+title: "Moduł Younga"
+---
+
 
 cecha sprężystości która określa opór który stawia materiał poddany ściskaniu oraz rozciąganiu

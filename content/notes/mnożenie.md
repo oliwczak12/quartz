@@ -1,1 +1,0 @@
-potrzebujesz [[dodawanie]]
