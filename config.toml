@@ -1,5 +1,6 @@
 baseURL = "https://oliwczak12.github.io/quartz/"
 languageCode = "pl"
+googleAnalytics = "G-7GQ6RTSRW6"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
