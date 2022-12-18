@@ -1,11 +1,18 @@
 {
   "index": {
     "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/I-semestr/I-Semestr",
+          "text": "Notatki z I semestru"
+        }
+      ],
       "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry": [
         {
           "source": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
           "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
-          "text": "I semestr/Amzea/II kolokwium/Pochodne"
+          "text": "Pochodne"
         }
       ],
       "/I-semestr/Fizyka/%C4%86w2/Wyznaczanie-modulu-younga": [
@@ -62,6 +69,23 @@
           "source": "/I-semestr/I-Semestr",
           "target": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
           "text": "Amzea"
+        },
+        {
+          "source": "/I-semestr/I-Semestr",
+          "target": "/I-semestr/Programowanie/Programowanie",
+          "text": "Programowanie"
+        }
+      ],
+      "/I-semestr/Wdi/wprowadzenie-do-informatyki": [
+        {
+          "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "target": "/I-semestr/Wdi/Binarny/dodawanie",
+          "text": "dodawanie"
+        },
+        {
+          "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "target": "/I-semestr/Wdi/Binarny/mno%C5%BCenie",
+          "text": "mnożenie"
         }
       ]
     },
@@ -77,7 +101,7 @@
         {
           "source": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
           "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
-          "text": "I semestr/Amzea/II kolokwium/Pochodne"
+          "text": "Pochodne"
         }
       ],
       "/I-semestr/Fizyka/%C4%86w2/Modu%C5%82-Younga": [
@@ -136,6 +160,34 @@
           "text": "Fizyka"
         }
       ],
+      "/I-semestr/I-Semestr": [
+        {
+          "source": "/",
+          "target": "/I-semestr/I-Semestr",
+          "text": "Notatki z I semestru"
+        }
+      ],
+      "/I-semestr/Programowanie/Programowanie": [
+        {
+          "source": "/I-semestr/I-Semestr",
+          "target": "/I-semestr/Programowanie/Programowanie",
+          "text": "Programowanie"
+        }
+      ],
+      "/I-semestr/Wdi/Binarny/dodawanie": [
+        {
+          "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "target": "/I-semestr/Wdi/Binarny/dodawanie",
+          "text": "dodawanie"
+        }
+      ],
+      "/I-semestr/Wdi/Binarny/mno%C5%BCenie": [
+        {
+          "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "target": "/I-semestr/Wdi/Binarny/mno%C5%BCenie",
+          "text": "mnożenie"
+        }
+      ],
       "/I-semestr/Wdi/wprowadzenie-do-informatyki": [
         {
           "source": "/I-semestr/I-Semestr",
@@ -149,7 +201,7 @@
     {
       "source": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
       "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
-      "text": "I semestr/Amzea/II kolokwium/Pochodne"
+      "text": "Pochodne"
     },
     {
       "source": "/I-semestr/Fizyka/fizyka",
@@ -200,6 +252,26 @@
       "source": "/I-semestr/I-Semestr",
       "target": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
       "text": "Amzea"
+    },
+    {
+      "source": "/I-semestr/I-Semestr",
+      "target": "/I-semestr/Programowanie/Programowanie",
+      "text": "Programowanie"
+    },
+    {
+      "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+      "target": "/I-semestr/Wdi/Binarny/dodawanie",
+      "text": "dodawanie"
+    },
+    {
+      "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+      "target": "/I-semestr/Wdi/Binarny/mno%C5%BCenie",
+      "text": "mnożenie"
+    },
+    {
+      "source": "/",
+      "target": "/I-semestr/I-Semestr",
+      "text": "Notatki z I semestru"
     }
   ]
 }

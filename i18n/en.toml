@@ -14,7 +14,7 @@ other = "Ostatnio updatowane"
 other = "Notatki z tym tagiem"
 
 [first_10]
-other = "showing first 10 results"
+other = "Pokazuje pierwsze 10 wyników"
 
 [tag]
 other = "Tag"

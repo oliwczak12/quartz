@@ -10,4 +10,5 @@ tags:
 
 ### Zagadnienia do drugiego kolokwium:
 
-- [Pochodne](I%20semestr/Amzea/II%20kolokwium/Pochodne.md)
+- [Granica funkcji](I%20semestr/Amzea/II%20kolokwium/Granica%20funkcji.md)
+- 

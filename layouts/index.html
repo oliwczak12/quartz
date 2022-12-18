@@ -3,18 +3,19 @@
 {{ partial "head.html" . }}
 
 <body>
-{{partial "search.html" .}}
-<div class="singlePage">
+  {{partial "search.html" .}}
+  <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <article>
-        {{partial "toc.html" .}}
-        {{partial "textprocessing.html" . }}
-        {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
-        {{end}}
+      {{partial "toc.html" .}}
+      {{partial "textprocessing.html" . }}
+      {{if $.Site.Data.config.enableRecentNotes}}
+      {{partial "recent.html" . }}
+      {{end}}
     </article>
     {{partial "footerIndex.html" .}}
-</div>
+  </div>
 </body>
+
 </html>

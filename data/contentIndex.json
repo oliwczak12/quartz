@@ -1,20 +1,20 @@
 {
   "/": {
     "title": "🪴 My digital garden 🪴",
-    "content": "## Opis\nTo mój cyfrowy ogród  w którym znajdują się moje notatki ze studiów.\n\n## Jak używać\n#### Jest kilka sposobów na poruszanie się po ogrodzie:\n\n- Przechodzenie od nagłówka do nagłówka \n- Graf który zawsze znajduje się na końcu strony\n- Wyszukiwarka\n- Tagi znajdujące się na początku każdej notatki\n\n",
-    "lastmodified": "2022-12-17T23:15:14.5425091+01:00",
+    "content": "## **Opis**\nTo mój cyfrowy ogród w którym znajdują się moje notatki ze studiów.\n\n## Jak używać\n**Jest kilka sposobów na poruszanie się po ogrodzie:**\n\n- Przechodzenie od nagłówka do nagłówka \n- Graf który zawsze znajduje się na końcu strony\n- Wyszukiwarka\n- Tagi znajdujące się na początku każdej notatki\n## Notatki\n\n- ## [Notatki z I semestru](I%20semestr/I%20Semestr.md)\n",
+    "lastmodified": "2022-12-18T10:02:40.1660495+01:00",
     "tags": null
   },
   "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry": {
     "title": "Amzea",
-    "content": "## Zagadnienia z przedmiotu\n\n### Zagadnienia do pierwszego kolokwium\n\n### Zagadnienia do drugiego kolokwium\n\n[[I semestr/Amzea/II kolokwium/Pochodne]]\n",
-    "lastmodified": "2022-12-17T18:17:48.8690091+01:00",
+    "content": "## Zagadnienia z przedmiotu\n\n### Zagadnienia do pierwszego kolokwium\n\n### Zagadnienia do drugiego kolokwium:\n\n- [Pochodne](I%20semestr/Amzea/II%20kolokwium/Pochodne.md)\n",
+    "lastmodified": "2022-12-17T23:18:19.5922219+01:00",
     "tags": null
   },
   "/I-semestr/Amzea/II-kolokwium/Pochodne": {
     "title": "Pochodne",
-    "content": "tu coś jest",
-    "lastmodified": "2022-12-17T21:10:28.0005547+01:00",
+    "content": "$$\\begin{vmatrix}a \u0026 b\\\\ c \u0026 d \\end{vmatrix}=ad-bc$$\n$$\\displaystyle \\int_{-\\infty }^{\\infty}f(x)dx$$\n\n\n\n",
+    "lastmodified": "2022-12-18T02:44:23.3585205+01:00",
     "tags": null
   },
   "/I-semestr/Fizyka/%C4%86w2/Modu%C5%82-Younga": {
@@ -67,8 +67,8 @@
   },
   "/I-semestr/I-Semestr": {
     "title": "I Semestr",
-    "content": "## Przedmioty\n### [Fizyka](I%20semestr/Fizyka/fizyka.md)\n### [Wdi](I%20semestr/Wdi/wprowadzenie%20do%20informatyki.md)\n### [Amzea](I%20semestr/Amzea/Analiza%20matematyczna%20z%20elementami%20algebry.md)\n",
-    "lastmodified": "2022-12-17T17:53:58.0636222+01:00",
+    "content": "## Przedmioty\n### [Fizyka](I%20semestr/Fizyka/fizyka.md)\n### [Wdi](I%20semestr/Wdi/wprowadzenie%20do%20informatyki.md)\n### [Amzea](I%20semestr/Amzea/Analiza%20matematyczna%20z%20elementami%20algebry.md)\n### [Programowanie](I%20semestr/Programowanie/Programowanie.md)\n",
+    "lastmodified": "2022-12-18T10:03:44.0377475+01:00",
     "tags": null
   },
   "/I-semestr/Programowanie/Programowanie": {
@@ -80,19 +80,19 @@
   "/I-semestr/Wdi/Binarny/dodawanie": {
     "title": "dodawanie",
     "content": "",
-    "lastmodified": "2022-12-17T14:38:33.2027845+01:00",
+    "lastmodified": "2022-12-18T10:03:52.7313873+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Binarny/mno%C5%BCenie": {
-    "title": "",
+    "title": "mnożenie",
     "content": "",
-    "lastmodified": "2022-12-17T15:38:44.7276256+01:00",
+    "lastmodified": "2022-12-18T10:03:49.38378+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/wprowadzenie-do-informatyki": {
     "title": "wprowadzenie do informatyki",
-    "content": "\n",
-    "lastmodified": "2022-12-17T15:12:32.4821844+01:00",
+    "content": "\n## Zagadnienia\n\n- [dodawanie](I%20semestr/Wdi/Binarny/dodawanie.md)\n- [mnożenie](I%20semestr/Wdi/Binarny/mnożenie.md)\n- ",
+    "lastmodified": "2022-12-17T23:19:28.6905767+01:00",
     "tags": null
   },
   "/private/private-note": {
