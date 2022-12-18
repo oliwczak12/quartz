@@ -11,8 +11,8 @@
       "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry": [
         {
           "source": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
-          "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
-          "text": "Pochodne"
+          "target": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+          "text": "Granica funkcji"
         }
       ],
       "/I-semestr/Fizyka/%C4%86w2/Wyznaczanie-modulu-younga": [
@@ -76,6 +76,13 @@
           "text": "Programowanie"
         }
       ],
+      "/I-semestr/Programowanie/Programowanie": [
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/Zapis-do-pliku",
+          "text": "Zapis do pliku"
+        }
+      ],
       "/I-semestr/Wdi/wprowadzenie-do-informatyki": [
         {
           "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
@@ -97,11 +104,11 @@
           "text": "Amzea"
         }
       ],
-      "/I-semestr/Amzea/II-kolokwium/Pochodne": [
+      "/I-semestr/Amzea/II-kolokwium/Granica-funkcji": [
         {
           "source": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
-          "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
-          "text": "Pochodne"
+          "target": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+          "text": "Granica funkcji"
         }
       ],
       "/I-semestr/Fizyka/%C4%86w2/Modu%C5%82-Younga": [
@@ -174,6 +181,13 @@
           "text": "Programowanie"
         }
       ],
+      "/I-semestr/Programowanie/Zapis-do-pliku": [
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/Zapis-do-pliku",
+          "text": "Zapis do pliku"
+        }
+      ],
       "/I-semestr/Wdi/Binarny/dodawanie": [
         {
           "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
@@ -200,8 +214,8 @@
   "links": [
     {
       "source": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
-      "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
-      "text": "Pochodne"
+      "target": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+      "text": "Granica funkcji"
     },
     {
       "source": "/I-semestr/Fizyka/fizyka",
@@ -257,6 +271,11 @@
       "source": "/I-semestr/I-Semestr",
       "target": "/I-semestr/Programowanie/Programowanie",
       "text": "Programowanie"
+    },
+    {
+      "source": "/I-semestr/Programowanie/Programowanie",
+      "target": "/I-semestr/Programowanie/Zapis-do-pliku",
+      "text": "Zapis do pliku"
     },
     {
       "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",

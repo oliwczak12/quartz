@@ -7,8 +7,14 @@
   },
   "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry": {
     "title": "Amzea",
-    "content": "## Zagadnienia z przedmiotu\n\n### Zagadnienia do pierwszego kolokwium\n\n### Zagadnienia do drugiego kolokwium:\n\n- [Pochodne](I%20semestr/Amzea/II%20kolokwium/Pochodne.md)\n",
-    "lastmodified": "2022-12-17T23:18:19.5922219+01:00",
+    "content": "## Zagadnienia z przedmiotu\n\n### Zagadnienia do pierwszego kolokwium\n\n### Zagadnienia do drugiego kolokwium:\n\n- [Granica funkcji](I%20semestr/Amzea/II%20kolokwium/Granica%20funkcji.md)\n- ",
+    "lastmodified": "2022-12-18T14:28:27.849697+01:00",
+    "tags": null
+  },
+  "/I-semestr/Amzea/II-kolokwium/Granica-funkcji": {
+    "title": "Granica funkcji",
+    "content": "",
+    "lastmodified": "2022-12-18T14:28:36.8086597+01:00",
     "tags": null
   },
   "/I-semestr/Amzea/II-kolokwium/Pochodne": {
@@ -73,8 +79,14 @@
   },
   "/I-semestr/Programowanie/Programowanie": {
     "title": "Programowanie",
-    "content": "Są to dwa moduły ==Podstawy programowania== oraz ==Języki programowania==\n",
-    "lastmodified": "2022-12-17T18:41:14.0842974+01:00",
+    "content": "Są to dwa moduły ==Podstawy programowania== oraz ==Języki programowania==\nskładające sie z ćwiczeń i wykładów.\n\n## Zagadnienia \n- [Zapis do pliku](I%20semestr/Programowanie/Zapis%20do%20pliku.md)\n- ",
+    "lastmodified": "2022-12-18T12:27:20.83753+01:00",
+    "tags": null
+  },
+  "/I-semestr/Programowanie/Zapis-do-pliku": {
+    "title": "Zapis do pliku",
+    "content": "\n\n",
+    "lastmodified": "2022-12-18T11:02:58.0701282+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Binarny/dodawanie": {
