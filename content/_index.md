@@ -3,8 +3,8 @@ title: "🪴 My digital garden 🪴"
 date: 2022-12-17
 enableToc: false
 ---
-## Opis
-To mój cyfrowy ogród  w którym znajdują się moje notatki ze studiów.
+## **Opis**
+To mój cyfrowy ogród w którym znajdują się moje notatki ze studiów.
 
 ## Jak używać
 #### Jest kilka sposobów na poruszanie się po ogrodzie:

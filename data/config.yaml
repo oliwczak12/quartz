@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/oliwczak/quartz/tree/hugo/content
 search:
