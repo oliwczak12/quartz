@@ -2,7 +2,6 @@
 # A different set of Local Graphs will be shown on sub pages.
 # if false, Local Graph will be default on every page as usual
 enableGlobalGraph: true
-baseURL: https://github.com/oliwczak/quartz
 ### Local Graph ###
 
 localGraph:
