@@ -12,11 +12,6 @@
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta" id="dateId">
-        <script defer>
-          let = document.getElementsByClassName('meta');
-          console.log(let);
-          console.log("działa");
-        </script>
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}}
         {{ partial "github.html" . }}
       </p>

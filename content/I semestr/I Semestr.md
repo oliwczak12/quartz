@@ -1,7 +1,9 @@
 ---
 title: "I Semestr"
+enableToc: false
 tags:
-- strony-przedmitów
+- strony-przedmiotów
+- główne
 ---
 ## Przedmioty
 ### [Fizyka](I%20semestr/Fizyka/fizyka.md)

@@ -2,7 +2,7 @@
 title: "Rozbicie ze wzorów skróconego mnożenia"
 date: 2022-12-23
 tags:
--Amzea
+- amzea
 ---
 
 $$

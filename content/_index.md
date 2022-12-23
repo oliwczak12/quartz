@@ -1,7 +1,9 @@
 ---
 title: "🪴 My digital garden 🪴"
-date: 2022-12-17
+date: 23-12-2022
 enableToc: false
+tags:
+- główne
 ---
 ## **Opis**
 To mój cyfrowy ogród w którym znajdują się moje notatki ze studiów.

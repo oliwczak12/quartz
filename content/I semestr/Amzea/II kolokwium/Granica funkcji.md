@@ -2,8 +2,8 @@
 title: "Granica funkcji"
 date: 2022-12-23
 tags:
--Amzea
--Zagadnienia
+- amzea
+- zagadnienia
 ---
 
 

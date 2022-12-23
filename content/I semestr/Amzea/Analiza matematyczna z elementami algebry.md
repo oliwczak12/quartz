@@ -2,7 +2,8 @@
 title: "Amzea"
 enableToc: false
 tags:
-- Amzea
+- amzea
+- główne
 ---
 ## Zagadnienia z przedmiotu
 

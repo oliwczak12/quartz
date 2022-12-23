@@ -2,8 +2,8 @@
 title: "Przeciążenie"
 date: 2022-12-23
 tags:
--Amzea
--Przykłady
+- amzea
+- przykłady
 ---
 
 $$
