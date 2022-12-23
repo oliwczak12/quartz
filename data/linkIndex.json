@@ -15,6 +15,18 @@
           "text": "Granica funkcji"
         }
       ],
+      "/I-semestr/Amzea/II-kolokwium/Granica-funkcji": [
+        {
+          "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+          "target": "/I-semestr/Amzea/II-kolokwium/Przeci%C4%85%C5%BCenie",
+          "text": "Przeciążenie"
+        },
+        {
+          "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+          "target": "/I-semestr/Amzea/II-kolokwium/Rozbicie-ze-wzor%C3%B3w-skr%C3%B3conego-mno%C5%BCenia",
+          "text": "Rozbicie ze wzorów skróconego mnożenia"
+        }
+      ],
       "/I-semestr/Fizyka/%C4%86w2/Wyznaczanie-modulu-younga": [
         {
           "source": "/I-semestr/Fizyka/%C4%86w2/Wyznaczanie-modulu-younga",
@@ -62,7 +74,7 @@
         },
         {
           "source": "/I-semestr/I-Semestr",
-          "target": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "target": "/I-semestr/Wdi/Wdi",
           "text": "Wdi"
         },
         {
@@ -83,14 +95,14 @@
           "text": "Zapis do pliku"
         }
       ],
-      "/I-semestr/Wdi/wprowadzenie-do-informatyki": [
+      "/I-semestr/Wdi/Wdi": [
         {
-          "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Binarny/dodawanie",
           "text": "dodawanie"
         },
         {
-          "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Binarny/mno%C5%BCenie",
           "text": "mnożenie"
         }
@@ -109,6 +121,20 @@
           "source": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
           "target": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
           "text": "Granica funkcji"
+        }
+      ],
+      "/I-semestr/Amzea/II-kolokwium/Przeci%C4%85%C5%BCenie": [
+        {
+          "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+          "target": "/I-semestr/Amzea/II-kolokwium/Przeci%C4%85%C5%BCenie",
+          "text": "Przeciążenie"
+        }
+      ],
+      "/I-semestr/Amzea/II-kolokwium/Rozbicie-ze-wzor%C3%B3w-skr%C3%B3conego-mno%C5%BCenia": [
+        {
+          "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+          "target": "/I-semestr/Amzea/II-kolokwium/Rozbicie-ze-wzor%C3%B3w-skr%C3%B3conego-mno%C5%BCenia",
+          "text": "Rozbicie ze wzorów skróconego mnożenia"
         }
       ],
       "/I-semestr/Fizyka/%C4%86w2/Modu%C5%82-Younga": [
@@ -190,22 +216,22 @@
       ],
       "/I-semestr/Wdi/Binarny/dodawanie": [
         {
-          "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Binarny/dodawanie",
           "text": "dodawanie"
         }
       ],
       "/I-semestr/Wdi/Binarny/mno%C5%BCenie": [
         {
-          "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Binarny/mno%C5%BCenie",
           "text": "mnożenie"
         }
       ],
-      "/I-semestr/Wdi/wprowadzenie-do-informatyki": [
+      "/I-semestr/Wdi/Wdi": [
         {
           "source": "/I-semestr/I-Semestr",
-          "target": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+          "target": "/I-semestr/Wdi/Wdi",
           "text": "Wdi"
         }
       ]
@@ -216,6 +242,16 @@
       "source": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
       "target": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
       "text": "Granica funkcji"
+    },
+    {
+      "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+      "target": "/I-semestr/Amzea/II-kolokwium/Przeci%C4%85%C5%BCenie",
+      "text": "Przeciążenie"
+    },
+    {
+      "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+      "target": "/I-semestr/Amzea/II-kolokwium/Rozbicie-ze-wzor%C3%B3w-skr%C3%B3conego-mno%C5%BCenia",
+      "text": "Rozbicie ze wzorów skróconego mnożenia"
     },
     {
       "source": "/I-semestr/Fizyka/fizyka",
@@ -259,7 +295,7 @@
     },
     {
       "source": "/I-semestr/I-Semestr",
-      "target": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+      "target": "/I-semestr/Wdi/Wdi",
       "text": "Wdi"
     },
     {
@@ -278,12 +314,12 @@
       "text": "Zapis do pliku"
     },
     {
-      "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+      "source": "/I-semestr/Wdi/Wdi",
       "target": "/I-semestr/Wdi/Binarny/dodawanie",
       "text": "dodawanie"
     },
     {
-      "source": "/I-semestr/Wdi/wprowadzenie-do-informatyki",
+      "source": "/I-semestr/Wdi/Wdi",
       "target": "/I-semestr/Wdi/Binarny/mno%C5%BCenie",
       "text": "mnożenie"
     },

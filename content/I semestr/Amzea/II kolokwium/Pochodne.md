@@ -1,9 +1,7 @@
 ---
 title: "Pochodne"
-date: 2022-12-17
+date: 2022-12-23
+tags:
+-Amzea
+-Zagadnienia
 ---
-$$\begin{vmatrix}a & b\\ c & d \end{vmatrix}=ad-bc$$
-$$\displaystyle \int_{-\infty }^{\infty}f(x)dx$$
-
-
-

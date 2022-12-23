@@ -11,16 +11,34 @@
     "lastmodified": "2022-12-18T14:28:27.849697+01:00",
     "tags": null
   },
+  "/I-semestr/Amzea/Epsilon": {
+    "title": "Epsilon",
+    "content": "\n## Wikipedia\noznaczenie dowolnie małej liczby rzeczywistej dodatniej ε \u003e 0, często stosowane w dowodach twierdzeń.\n\n",
+    "lastmodified": "2022-12-23T01:41:16.2574479+01:00",
+    "tags": null
+  },
   "/I-semestr/Amzea/II-kolokwium/Granica-funkcji": {
     "title": "Granica funkcji",
-    "content": "",
-    "lastmodified": "2022-12-18T14:28:36.8086597+01:00",
+    "content": "\n## Sposoby obliczania\n- ## [Przeciążenie](I%20semestr/Amzea/II%20kolokwium/Przeciążenie.md)\n\n- ## [Rozbicie ze wzorów skróconego mnożenia](I%20semestr/Amzea/II%20kolokwium/Rozbicie%20ze%20wzorów%20skróconego%20mnożenia.md)\n",
+    "lastmodified": "2022-12-23T01:41:22.2682891+01:00",
     "tags": null
   },
   "/I-semestr/Amzea/II-kolokwium/Pochodne": {
     "title": "Pochodne",
-    "content": "$$\\begin{vmatrix}a \u0026 b\\\\ c \u0026 d \\end{vmatrix}=ad-bc$$\n$$\\displaystyle \\int_{-\\infty }^{\\infty}f(x)dx$$\n\n\n\n",
-    "lastmodified": "2022-12-18T02:44:23.3585205+01:00",
+    "content": "fsafafsssssssssssa\n\n\nfsafafs",
+    "lastmodified": "2022-12-23T01:41:18.5042522+01:00",
+    "tags": null
+  },
+  "/I-semestr/Amzea/II-kolokwium/Przeci%C4%85%C5%BCenie": {
+    "title": "Przeciążenie",
+    "content": "\n$$\n\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}=\\left[ \\frac{0}{0} \\right]=\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}\n$$",
+    "lastmodified": "2022-12-23T01:41:17.2633627+01:00",
+    "tags": null
+  },
+  "/I-semestr/Amzea/II-kolokwium/Rozbicie-ze-wzor%C3%B3w-skr%C3%B3conego-mno%C5%BCenia": {
+    "title": "Rozbicie ze wzorów skróconego mnożenia",
+    "content": "\n$$\n\\lim_{ x \\to 2 } \\frac{x^{2}-4 }{x-2}=\\lim_{ x \\to 5 } \\frac{\\cancel{(x-2)} (x+2)}{\\cancel{x-2}}=\\lim_{ x \\to 5 } x+2=4\n$$\n",
+    "lastmodified": "2022-12-23T01:29:34.9820519+01:00",
     "tags": null
   },
   "/I-semestr/Fizyka/%C4%86w2/Modu%C5%82-Younga": {
@@ -43,8 +61,8 @@
   },
   "/I-semestr/Fizyka/%C4%86w2/Wyznaczanie-modulu-younga": {
     "title": "Wyznaczanie modułu younga",
-    "content": "[Naprężenia w ciałach stałych](I%20semestr/Fizyka/Ćw2/Naprężenia%20w%20ciałach%20stałych.md)\n[rodzaje odkształceń sprężystych](I%20semestr/Fizyka/Ćw2/rodzaje%20odkształceń%20sprężystych.md)\n[Prawo Hooke’a](I%20semestr/Fizyka/Ćw2/Prawo%20Hooke’a.md)\n[plastyczność](I%20semestr/Fizyka/Ćw2/plastyczność.md)\n[wytrzymałość na zerwanie](I%20semestr/Fizyka/Ćw2/wytrzymałość%20na%20zerwanie.md)\n[Moduł Younga](I%20semestr/Fizyka/Ćw2/Moduł%20Younga.md)\n\n\n\n\n",
-    "lastmodified": "2022-12-17T17:49:08.823141+01:00",
+    "content": "[Naprężenia w ciałach stałych](I%20semestr/Fizyka/Ćw2/Naprężenia%20w%20ciałach%20stałych.md)\n[rodzaje odkształceń sprężystych](I%20semestr/Fizyka/Ćw2/rodzaje%20odkształceń%20sprężystych.md)\n[Prawo Hooke’a](I%20semestr/Fizyka/Ćw2/Prawo%20Hooke’a.md)\n[plastyczność](I%20semestr/Fizyka/Ćw2/plastyczność.md)\n[wytrzymałość na zerwanie](I%20semestr/Fizyka/Ćw2/wytrzymałość%20na%20zerwanie.md)\n[Moduł Younga](I%20semestr/Fizyka/Ćw2/Moduł%20Younga.md)\n\n\n\n\n\n",
+    "lastmodified": "2022-12-18T21:06:24.5655813+01:00",
     "tags": null
   },
   "/I-semestr/Fizyka/%C4%86w2/plastyczno%C5%9B%C4%87": {
@@ -67,44 +85,44 @@
   },
   "/I-semestr/Fizyka/fizyka": {
     "title": "fizyka",
-    "content": "[Wyznaczanie modulu younga](I%20semestr/Fizyka/Ćw2/Wyznaczanie%20modulu%20younga.md)\n",
-    "lastmodified": "2022-12-17T18:34:09.0020289+01:00",
+    "content": "[Wyznaczanie modulu younga](I%20semestr/Fizyka/Ćw2/Wyznaczanie%20modulu%20younga.md)\n\n\nZagadnienia do egzaminu\n",
+    "lastmodified": "2022-12-23T01:41:23.2946328+01:00",
     "tags": null
   },
   "/I-semestr/I-Semestr": {
     "title": "I Semestr",
-    "content": "## Przedmioty\n### [Fizyka](I%20semestr/Fizyka/fizyka.md)\n### [Wdi](I%20semestr/Wdi/wprowadzenie%20do%20informatyki.md)\n### [Amzea](I%20semestr/Amzea/Analiza%20matematyczna%20z%20elementami%20algebry.md)\n### [Programowanie](I%20semestr/Programowanie/Programowanie.md)\n",
-    "lastmodified": "2022-12-18T10:03:44.0377475+01:00",
+    "content": "## Przedmioty\n### [Fizyka](I%20semestr/Fizyka/fizyka.md)\n### [Wdi](I%20semestr/Wdi/Wdi.md)\n### [Amzea](I%20semestr/Amzea/Analiza%20matematyczna%20z%20elementami%20algebry.md)\n### [Programowanie](I%20semestr/Programowanie/Programowanie.md)\n",
+    "lastmodified": "2022-12-23T00:33:02.9974372+01:00",
     "tags": null
   },
   "/I-semestr/Programowanie/Programowanie": {
     "title": "Programowanie",
-    "content": "Są to dwa moduły ==Podstawy programowania== oraz ==Języki programowania==\nskładające sie z ćwiczeń i wykładów.\n\n## Zagadnienia \n- [Zapis do pliku](I%20semestr/Programowanie/Zapis%20do%20pliku.md)\n- ",
-    "lastmodified": "2022-12-18T12:27:20.83753+01:00",
+    "content": "Są to dwa moduły ==Podstawy programowania== oraz ==Języki programowania==\nskładające sie z ćwiczeń i wykładów.\n\n## Zagadnienia \n- [Zapis do pliku](I%20semestr/Programowanie/Zapis%20do%20pliku.md)\n- coś tam coś tam i tak dalej\n- ",
+    "lastmodified": "2022-12-18T21:07:12.5793454+01:00",
     "tags": null
   },
   "/I-semestr/Programowanie/Zapis-do-pliku": {
     "title": "Zapis do pliku",
     "content": "\n\n",
-    "lastmodified": "2022-12-18T11:02:58.0701282+01:00",
+    "lastmodified": "2022-12-23T01:41:16.2610153+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Binarny/dodawanie": {
     "title": "dodawanie",
     "content": "",
-    "lastmodified": "2022-12-18T10:03:52.7313873+01:00",
+    "lastmodified": "2022-12-23T01:41:02.8393335+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Binarny/mno%C5%BCenie": {
     "title": "mnożenie",
     "content": "",
-    "lastmodified": "2022-12-18T10:03:49.38378+01:00",
+    "lastmodified": "2022-12-23T01:41:27.2593629+01:00",
     "tags": null
   },
-  "/I-semestr/Wdi/wprowadzenie-do-informatyki": {
+  "/I-semestr/Wdi/Wdi": {
     "title": "wprowadzenie do informatyki",
     "content": "\n## Zagadnienia\n\n- [dodawanie](I%20semestr/Wdi/Binarny/dodawanie.md)\n- [mnożenie](I%20semestr/Wdi/Binarny/mnożenie.md)\n- ",
-    "lastmodified": "2022-12-17T23:19:28.6905767+01:00",
+    "lastmodified": "2022-12-23T00:33:31.1010085+01:00",
     "tags": null
   },
   "/private/private-note": {
