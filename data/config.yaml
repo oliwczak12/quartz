@@ -6,7 +6,7 @@ enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
-enableSPA: true
+enableSPA: false
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
@@ -21,3 +21,8 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title: "🪴 My digital garden 🪴"
+links:
+  - link_name: Github
+    link: https://github.com/oliwczak12/
+  - link_name: Insta
+    link: https://www.instagram.com/o.warjatek/

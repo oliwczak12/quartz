@@ -1,6 +1,9 @@
 ---
 title: "Epsilon"
 date: 2022-12-23
+tags:
+- definicja
+- amzea
 ---
 
 ## Wikipedia

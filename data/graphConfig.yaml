@@ -12,9 +12,9 @@ localGraph:
   scale: 1
   repelForce: 2
   centerForce: 1
-  linkDistance: 1.3
+  linkDistance: 1
   fontSize: 0.7
-  opacityScale: 3
+  opacityScale: 10
 
 ### Global Graph ###
 
@@ -25,10 +25,10 @@ globalGraph:
   depth: -1 # set to -1 to show full graph
   scale: 1
   repelForce: 1
-  centerForce: 2
-  linkDistance: 1
-  fontSize: 0.7
-  opacityScale: 3
+  centerForce: 1
+  linkDistance: 2
+  fontSize: 0.5
+  opacityScale: 10
 
 ### For all graphs ###
 

@@ -6,6 +6,11 @@
           "source": "/",
           "target": "/I-semestr/I-Semestr",
           "text": "Notatki z I semestru"
+        },
+        {
+          "source": "/",
+          "target": "/Lista-do-zrobienia",
+          "text": "Lista do zrobienia"
         }
       ],
       "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry": [
@@ -95,16 +100,33 @@
           "text": "Zapis do pliku"
         }
       ],
+      "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
+        {
+          "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/NKB",
+          "text": "NKB"
+        },
+        {
+          "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
+        }
+      ],
       "/I-semestr/Wdi/Wdi": [
         {
           "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/dodawanie",
-          "text": "dodawanie"
+          "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "text": "Dekodowanie"
         },
         {
           "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/mno%C5%BCenie",
-          "text": "mnożenie"
+          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
+          "text": "Dodawanie"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
+          "text": "Mnożenie"
         }
       ]
     },
@@ -214,18 +236,25 @@
           "text": "Zapis do pliku"
         }
       ],
-      "/I-semestr/Wdi/Binarny/dodawanie": [
+      "/I-semestr/Wdi/Binarny/Dodawanie": [
         {
           "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/dodawanie",
-          "text": "dodawanie"
+          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
+          "text": "Dodawanie"
         }
       ],
-      "/I-semestr/Wdi/Binarny/mno%C5%BCenie": [
+      "/I-semestr/Wdi/Binarny/Mno%C5%BCenie": [
         {
           "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/mno%C5%BCenie",
-          "text": "mnożenie"
+          "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
+          "text": "Mnożenie"
+        }
+      ],
+      "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "text": "Dekodowanie"
         }
       ],
       "/I-semestr/Wdi/Wdi": [
@@ -233,6 +262,27 @@
           "source": "/I-semestr/I-Semestr",
           "target": "/I-semestr/Wdi/Wdi",
           "text": "Wdi"
+        }
+      ],
+      "/I-semestr/Wdi/Zagadnienia/NKB": [
+        {
+          "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/NKB",
+          "text": "NKB"
+        }
+      ],
+      "/I-semestr/Wdi/Zagadnienia/ZM": [
+        {
+          "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
+        }
+      ],
+      "/Lista-do-zrobienia": [
+        {
+          "source": "/",
+          "target": "/Lista-do-zrobienia",
+          "text": "Lista do zrobienia"
         }
       ]
     }
@@ -314,19 +364,39 @@
       "text": "Zapis do pliku"
     },
     {
-      "source": "/I-semestr/Wdi/Wdi",
-      "target": "/I-semestr/Wdi/Binarny/dodawanie",
-      "text": "dodawanie"
+      "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+      "target": "/I-semestr/Wdi/Zagadnienia/NKB",
+      "text": "NKB"
+    },
+    {
+      "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+      "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+      "text": "ZM"
     },
     {
       "source": "/I-semestr/Wdi/Wdi",
-      "target": "/I-semestr/Wdi/Binarny/mno%C5%BCenie",
-      "text": "mnożenie"
+      "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+      "text": "Dekodowanie"
+    },
+    {
+      "source": "/I-semestr/Wdi/Wdi",
+      "target": "/I-semestr/Wdi/Binarny/Dodawanie",
+      "text": "Dodawanie"
+    },
+    {
+      "source": "/I-semestr/Wdi/Wdi",
+      "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
+      "text": "Mnożenie"
     },
     {
       "source": "/",
       "target": "/I-semestr/I-Semestr",
       "text": "Notatki z I semestru"
+    },
+    {
+      "source": "/",
+      "target": "/Lista-do-zrobienia",
+      "text": "Lista do zrobienia"
     }
   ]
 }
