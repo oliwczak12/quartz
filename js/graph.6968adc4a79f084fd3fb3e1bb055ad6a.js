@@ -1,14 +1,14 @@
 async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   let {
-  depth,
-  enableDrag,
-  enableLegend,
-  enableZoom,
-  opacityScale,
-  scale,
-  repelForce,
-  fontSize} = graphConfig;
+    depth,
+    enableDrag,
+    enableLegend,
+    enableZoom,
+    opacityScale,
+    scale,
+    repelForce,
+    fontSize } = graphConfig;
 
   const container = document.getElementById("graph-container")
   const { index, links, content } = await fetchData
@@ -85,7 +85,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       d.fy = null
     }
 
-    const noop = () => {}
+    const noop = () => { }
     return d3
       .drag()
       .on("start", enableDrag ? dragstarted : noop)
@@ -190,7 +190,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       // highlight links
       linkNodes.transition().duration(200).attr("stroke", "var(--g-link-active)")
 
-      const bigFont = fontSize*1.5
+      const bigFont = fontSize * 1.5
 
       // show text for self
       d3.select(this.parentNode)
@@ -200,7 +200,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .duration(200)
         .attr('opacityOld', d3.select(this.parentNode).select('text').style("opacity"))
         .style('opacity', 1)
-        .style('font-size', bigFont+'em')
+        .style('font-size', bigFont + 'em')
         .attr('dy', d => nodeRadius(d) + 20 + 'px') // radius is in px
     })
     .on("mouseleave", function (_, d) {
@@ -214,12 +214,12 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       linkNodes.transition().duration(200).attr("stroke", "var(--g-link)")
 
       d3.select(this.parentNode)
-      .select("text")
-      .transition()
-      .duration(200)
-      .style('opacity', d3.select(this.parentNode).select('text').attr("opacityOld"))
-      .style('font-size', fontSize+'em')
-      .attr('dy', d => nodeRadius(d) + 8 + 'px') // radius is in px
+        .select("text")
+        .transition()
+        .duration(200)
+        .style('opacity', d3.select(this.parentNode).select('text').attr("opacityOld"))
+        .style('font-size', fontSize + 'em')
+        .attr('dy', d => nodeRadius(d) + 8 + 'px') // radius is in px
     })
     .call(drag(simulation))
 
@@ -232,7 +232,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .text((d) => content[d.id]?.title || d.id.replace("-", " "))
     .style('opacity', (opacityScale - 1) / 3.75)
     .style("pointer-events", "none")
-    .style('font-size', fontSize+'em')
+    .style('font-size', fontSize + 'em')
     .raise()
     .call(drag(simulation))
 
@@ -252,7 +252,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
           node.attr("transform", transform)
           const scale = transform.k * opacityScale;
           const scaledOpacity = Math.max((scale - 1) / 3.75, 0)
-          labels.attr("transform", transform).style("opacity", scaledOpacity)
+          labels.attr("transform", transform)//.style("opacity", scaledOpacity)
         }),
     )
   }
