@@ -107,16 +107,16 @@
     "lastmodified": "2022-12-23T01:59:17.6079839+01:00",
     "tags": null
   },
-  "/I-semestr/Wdi/Binarny/Mno%C5%BCenie": {
-    "title": "mnożenie",
-    "content": "",
-    "lastmodified": "2022-12-23T17:12:06.0678959+01:00",
+  "/I-semestr/Wdi/Binarny/Dodawanie": {
+    "title": "Dodawanie",
+    "content": "\nasffffffffffffffff",
+    "lastmodified": "2022-12-28T01:29:02.8230975+01:00",
     "tags": null
   },
-  "/I-semestr/Wdi/Binarny/dodawanie": {
-    "title": "dodawanie",
-    "content": "\n",
-    "lastmodified": "2022-12-28T01:09:14.4077125+01:00",
+  "/I-semestr/Wdi/Binarny/Mno%C5%BCenie": {
+    "title": "Mnożenie",
+    "content": "fsafffffffffffffffffsafas",
+    "lastmodified": "2022-12-28T01:29:06.2944998+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Dekodowanie/Dekodowanie": {
@@ -127,8 +127,8 @@
   },
   "/I-semestr/Wdi/Wdi": {
     "title": "Wdi",
-    "content": "\n## Zagadnienia\n- #### Zamiana systemów liczbowych\n\t-  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n- #### Algebra binarna\n\t - [dodawanie](I%20semestr/Wdi/Binarny/dodawanie.md)\n\t - [Mnożenie](I%20semestr/Wdi/Binarny/Mnożenie.md)\n",
-    "lastmodified": "2022-12-28T01:17:27.9358852+01:00",
+    "content": "\n## Zagadnienia\n- #### Zamiana systemów liczbowych\n -  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n- #### Algebra binarna\n - [Dodawanie](I%20semestr/Wdi/Binarny/Dodawanie.md)\n - [Mnożenie](I%20semestr/Wdi/Binarny/Mnożenie.md)\n",
+    "lastmodified": "2022-12-28T01:28:57.107848+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Zagadnienia/NKB": {

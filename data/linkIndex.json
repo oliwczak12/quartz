@@ -120,8 +120,8 @@
         },
         {
           "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/dodawanie",
-          "text": "dodawanie"
+          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
+          "text": "Dodawanie"
         },
         {
           "source": "/I-semestr/Wdi/Wdi",
@@ -236,18 +236,18 @@
           "text": "Zapis do pliku"
         }
       ],
+      "/I-semestr/Wdi/Binarny/Dodawanie": [
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
+          "text": "Dodawanie"
+        }
+      ],
       "/I-semestr/Wdi/Binarny/Mno%C5%BCenie": [
         {
           "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
           "text": "Mnożenie"
-        }
-      ],
-      "/I-semestr/Wdi/Binarny/dodawanie": [
-        {
-          "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/dodawanie",
-          "text": "dodawanie"
         }
       ],
       "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
@@ -380,8 +380,8 @@
     },
     {
       "source": "/I-semestr/Wdi/Wdi",
-      "target": "/I-semestr/Wdi/Binarny/dodawanie",
-      "text": "dodawanie"
+      "target": "/I-semestr/Wdi/Binarny/Dodawanie",
+      "text": "Dodawanie"
     },
     {
       "source": "/I-semestr/Wdi/Wdi",
