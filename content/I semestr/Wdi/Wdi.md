@@ -7,7 +7,7 @@ tags:
 
 ## Zagadnienia
 - #### Zamiana systemów liczbowych
-	-  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)
+ -  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)
 - #### Algebra binarna
-	 - [dodawanie](I%20semestr/Wdi/Binarny/dodawanie.md)
-	 - [Mnożenie](I%20semestr/Wdi/Binarny/Mnożenie.md)
+ - [Dodawanie](I%20semestr/Wdi/Binarny/Dodawanie.md)
+ - [Mnożenie](I%20semestr/Wdi/Binarny/Mnożenie.md)
