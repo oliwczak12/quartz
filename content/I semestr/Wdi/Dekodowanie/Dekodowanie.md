@@ -83,7 +83,7 @@ W przypadku liczb ułamkowych mnożmy przez 2 oraz spisujemy uzyskaną liczbe od
 ![](Pasted%20image%2020221227204246.png)
 
 ### Zmiana systemów przez grupowanie 
-Grupujemy liczbe po prawej i po lewej stonie przecinka w bloki o n-tej wielkości którą pozyskujemy ze wzoru ***q=p<sup>2</sup>*** gdzie ***q*** to podstawa systemu na który zmieniamy a ***p*** to podstawa systemu który jest zmieniany.
+Grupujemy liczbe po prawej i po lewej stonie przecinka w bloki o n-tej wielkości którą pozyskujemy ze wzoru ***q=p<sup>n</sup>*** gdzie ***q*** to podstawa systemu na który zmieniamy a ***p*** to podstawa systemu który jest zmieniany.
 
 przykład:
 

@@ -1,5 +1,5 @@
 ---
-title: "Przeciążenie"
+title: "Sprzężenie"
 date: 2022-12-23
 tags:
 - amzea
