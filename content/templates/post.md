@@ -1,4 +1,6 @@
 ---
 title: "{{title}}"
-date: {{date}}
+created: {{date}}
+
+date: 2022-12-28
 ---

@@ -117,15 +117,34 @@
           "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
           "text": "Dekodowanie"
+        }
+      ],
+      "/Lista-do-zrobienia": [
+        {
+          "source": "/Lista-do-zrobienia",
+          "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "text": "Dekodowanie"
         },
         {
-          "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie",
-          "text": "Sprzężenie"
+          "source": "/Lista-do-zrobienia",
+          "target": "/Granice-funkcji",
+          "text": "Granice funkcji"
+        },
+        {
+          "source": "/Lista-do-zrobienia",
+          "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
+          "text": "Pochodne"
         }
       ]
     },
     "backlinks": {
+      "/Granice-funkcji": [
+        {
+          "source": "/Lista-do-zrobienia",
+          "target": "/Granice-funkcji",
+          "text": "Granice funkcji"
+        }
+      ],
       "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry": [
         {
           "source": "/I-semestr/I-Semestr",
@@ -140,6 +159,13 @@
           "text": "Granica funkcji"
         }
       ],
+      "/I-semestr/Amzea/II-kolokwium/Pochodne": [
+        {
+          "source": "/Lista-do-zrobienia",
+          "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
+          "text": "Pochodne"
+        }
+      ],
       "/I-semestr/Amzea/II-kolokwium/Rozbicie-ze-wzor%C3%B3w-skr%C3%B3conego-mno%C5%BCenia": [
         {
           "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
@@ -150,11 +176,6 @@
       "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie": [
         {
           "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
-          "target": "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie",
-          "text": "Sprzężenie"
-        },
-        {
-          "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie",
           "text": "Sprzężenie"
         }
@@ -239,6 +260,11 @@
       "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
         {
           "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "text": "Dekodowanie"
+        },
+        {
+          "source": "/Lista-do-zrobienia",
           "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
           "text": "Dekodowanie"
         }
@@ -365,9 +391,19 @@
       "text": "Dekodowanie"
     },
     {
-      "source": "/I-semestr/Wdi/Wdi",
-      "target": "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie",
-      "text": "Sprzężenie"
+      "source": "/Lista-do-zrobienia",
+      "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+      "text": "Dekodowanie"
+    },
+    {
+      "source": "/Lista-do-zrobienia",
+      "target": "/Granice-funkcji",
+      "text": "Granice funkcji"
+    },
+    {
+      "source": "/Lista-do-zrobienia",
+      "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
+      "text": "Pochodne"
     },
     {
       "source": "/",

@@ -1,11 +1,29 @@
 ---
 title: "Lista do zrobienia"
-date: 2022-12-26
+created: 2022-12-26
+date: 2022-12-28
+enableToc: false
+tags:
+- główne
 ---
 
-- [x] 
-- [  ] 
-- 
+-  # Wdi
+    - [x] [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)
+    - [ ] Dodawanie
+    - [ ] Odejmowanie
+    - [ ] Mnożenie
+    - [ ] Dzielenie
+    - [ ] Maszyna touringa
+    - [ ] Automaty
+- # Amzea
+    - [ ] I kolos
+        - [ ] gof/fog
+    - [ ] II kolos
+        - [ ] [[Granice funkcji]]
+        - [ ] [Pochodne](I%20semestr/Amzea/II%20kolokwium/Pochodne.md)
+- # strona
+- [ ] ogarnięcie lastmode
+- [ ] kolorowanie grafu za pomocą tagów
 
 
 

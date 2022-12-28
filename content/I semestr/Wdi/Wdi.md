@@ -10,5 +10,5 @@ tags:
 - #### Zamiana systemów liczbowych
  -  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)
 - #### Algebra binarna
- -  [Sprzężenie](I%20semestr/Amzea/II%20kolokwium/Sprzężenie.md)
+ -  
  - 

@@ -1,9 +1,11 @@
 ---
+created:
 title: "I Semestr"
 enableToc: false
 tags:
 - strony-przedmiotów
 - główne
+date: 2022-12-28
 ---
 ## Przedmioty
 ### [Fizyka](I%20semestr/Fizyka/fizyka.md)
