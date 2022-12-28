@@ -19,8 +19,8 @@
   },
   "/I-semestr/Amzea/II-kolokwium/Granica-funkcji": {
     "title": "Granica funkcji",
-    "content": "\n\n## Sposoby obliczania\n- ## [Sprzężenie](I%20semestr/Amzea/II%20kolokwium/Sprzężenie.md)\n\n$$\n\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}=\\left[ \\frac{0}{0} \\right]=\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}\n$$\n\n- ## [Rozbicie ze wzorów skróconego mnożenia](I%20semestr/Amzea/II%20kolokwium/Rozbicie%20ze%20wzorów%20skróconego%20mnożenia.md)\n$$\n\\lim_{ x \\to 2 } \\frac{x^{2}-4 }{x-2}=\\lim_{ x \\to 2 } \\frac{\\cancel{(x-2)} (x+2)}{\\cancel{x-2}}=\\lim_{ x \\to 2 } x+2=4\n$$\n",
-    "lastmodified": "2022-12-28T00:44:53.39041+01:00",
+    "content": "\r\n\r\n## Sposoby obliczania\r\n- ## [Sprzężenie](I%20semestr/Amzea/II%20kolokwium/Sprzężenie.md)\r\n\r\n$$\r\n\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}=\\left[ \\frac{0}{0} \\right]=\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}\r\n$$\r\n\r\n- ## [Rozbicie ze wzorów skróconego mnożenia](I%20semestr/Amzea/II%20kolokwium/Rozbicie%20ze%20wzorów%20skróconego%20mnożenia.md)\r\n$$\r\n\\lim_{ x \\to 2 } \\frac{x^{2}-4 }{x-2}=\\lim_{ x \\to 2 } \\frac{\\cancel{(x-2)} (x+2)}{\\cancel{x-2}}=\\lim_{ x \\to 2 } x+2=4\r\n$$\r\n",
+    "lastmodified": "2022-12-28T01:06:51.8669567+01:00",
     "tags": null
   },
   "/I-semestr/Amzea/II-kolokwium/Pochodne": {
@@ -37,8 +37,8 @@
   },
   "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie": {
     "title": "Sprzężenie",
-    "content": "\n$$\n\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}=\\left[ \\frac{0}{0} \\right]=\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}\n$$",
-    "lastmodified": "2022-12-28T00:42:43.7233987+01:00",
+    "content": "\r\n$$\r\n\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}=\\left[ \\frac{0}{0} \\right]=\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}\r\n$$",
+    "lastmodified": "2022-12-28T01:06:51.8679571+01:00",
     "tags": null
   },
   "/I-semestr/Fizyka/%C4%86w2/Modu%C5%82-Younga": {
@@ -107,28 +107,28 @@
     "lastmodified": "2022-12-23T01:59:17.6079839+01:00",
     "tags": null
   },
-  "/I-semestr/Wdi/Binarny/Dodawanie": {
-    "title": "dodawanie",
-    "content": "\n",
-    "lastmodified": "2022-12-27T23:33:42.778335+01:00",
-    "tags": null
-  },
   "/I-semestr/Wdi/Binarny/Mno%C5%BCenie": {
     "title": "mnożenie",
     "content": "",
     "lastmodified": "2022-12-23T17:12:06.0678959+01:00",
     "tags": null
   },
+  "/I-semestr/Wdi/Binarny/dodawanie": {
+    "title": "dodawanie",
+    "content": "\n",
+    "lastmodified": "2022-12-28T01:09:14.4077125+01:00",
+    "tags": null
+  },
   "/I-semestr/Wdi/Dekodowanie/Dekodowanie": {
     "title": "Dekodowanie",
     "content": "\n## Wzór na dekodowanie NKB\n[NKB](I%20semestr/Wdi/Zagadnienia/NKB.md)\n$$\n\\displaystyle \\sum_{i=-m}^{n-1}a_{i} p^i\n$$\nIndeksujemy każdy znak od prawej strony gdzie najmłodszy znak zawsze ma indeks(wage) 0.\nZnaki po przecinku maleją w prawą strone a pierwszy znak ma indeks(wage) -1.\n$$\n1^3 1^2 1^1 0^0 ,1^{-1} 1^{-2}\n$$\n\nprzykład zamiany systemu dwójkowego na dziesiętny\n\n$$\n(1110,11)=1\\times2^3+1\\times2^2+1\\times2^1+0\\times2^0+1\\times2^{-1}+1\\times2^{-2}=\n$$\n\n$$\n8+4+1+1+\\frac{1}{2}+\\frac{1}{4}=13,75\n$$\n\n## Wzór na dekodowanie z ZM na NKB\n[ZM](I%20semestr/Wdi/Zagadnienia/ZM.md)\n$$\n(1-2a_{n-1})\\displaystyle \\sum_{n=-m}^{n-2}a_{i}p^i=r(a_{n-1})\\displaystyle \\sum_{n=-m}^{n-2}a_{i}p^i\n$$\nW przypadku ZM bit znaku nie jest indeksowany.\n\nprzykład:\n\n$$ \n(1.1110,11)=-1\\times(1\\times2^3+1\\times2^2+1\\times2^1+0\\times2^0+1\\times2^{-1}+1\\times2^{-2})=\n$$\n\n$$=-\\left(8+4+1+1+\\frac{1}{2}+\\frac{1}{2} \\right)= -13,75$$\n## Wzór na zamiane z NKB na system dzięsietny\n\n### Liczby całkowite\nDzielimy przez 2 podaną liczbe dopóki nie uzyskamy 1 przy czym wypisujemy reszte z dzielenia każdej liczby za kreską. Liczby uzyskane za kreska odczytujemy od dołu uzyskójąc liczbe w NKB.\n\nprzykład:\n\n190:2 | 0\n\n95:2   | 1\n\n47:2   | 1\n\n23:2   | 1\n\n11:2   | 1\n\n5:2     | 1\n\n2:2     | 0\n\n1:2     | 1  ⇑\n\nuzyskujemy (10111110)\u003csub\u003e2\u003c/sub\u003e\n\n### Liczby ułamkowe\nW przypadku liczb ułamkowych mnożmy przez 2 oraz spisujemy uzyskaną liczbe od góry. Przy czym mamy 3 możliwe przypadki:\n\n1. Zwykły. Kończymy gdy wynikiem jest 0.\n\n![](Pasted%20image%2020221227203907.png)\n\n2. W okresie. Mnozymy dopóki nie uzyskamy wartości która już wystapiła. Przy spisywaniu na poczatku spisujemy wszystkie wartości przez okresem.\n\n![](Pasted%20image%2020221227203332.png)\n\n\n3. Zwykłe \"długie\". Mnożenie nie kończy sie ani 0 ani okresem po 7 iteracjiach co zapisujemy jak na obrazku.\n\n![](Pasted%20image%2020221227204246.png)\n\n### Zmiana systemów przez grupowanie \nGrupujemy liczbe po prawej i po lewej stonie przecinka w bloki o n-tej wielkości którą pozyskujemy ze wzoru ***q=p\u003csup\u003en\u003c/sup\u003e*** gdzie ***q*** to podstawa systemu na który zmieniamy a ***p*** to podstawa systemu który jest zmieniany.\n\nprzykład:\n\n![](Pasted%20image%2020221227223830.png)\n\n\n\n\n\n\n\n\n\n\n",
-    "lastmodified": "2022-12-27T23:46:07.0133614+01:00",
+    "lastmodified": "2022-12-28T01:11:37.3319683+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Wdi": {
-    "title": "wprowadzenie do informatyki",
-    "content": "\n## Zagadnienia\n- #### Zamiana systemów liczbowych\n\t-  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n- #### Algebra binarna\n\t - [Dodawanie](I%20semestr/Wdi/Binarny/Dodawanie.md)\n\t - [Mnożenie](I%20semestr/Wdi/Binarny/Mnożenie.md)\n",
-    "lastmodified": "2022-12-28T00:44:04.4698233+01:00",
+    "title": "Wdi",
+    "content": "\n## Zagadnienia\n- #### Zamiana systemów liczbowych\n\t-  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n- #### Algebra binarna\n\t - [dodawanie](I%20semestr/Wdi/Binarny/dodawanie.md)\n\t - [Mnożenie](I%20semestr/Wdi/Binarny/Mnożenie.md)\n",
+    "lastmodified": "2022-12-28T01:14:09.6095384+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Zagadnienia/NKB": {
@@ -146,7 +146,7 @@
   "/Lista-do-zrobienia": {
     "title": "Lista do zrobienia",
     "content": "\n- [x] \n- [  ] \n- \n\n\n\n\u003cstyle\u003e\ninput:disabled:checked{\nfilter: invert(55%) sepia(75%) saturate(2122%) hue-rotate(80deg) brightness(115%) contrast(126%);\n}\n\u003c/style\u003e\n\n\n",
-    "lastmodified": "2022-12-27T23:22:43.681748+01:00",
+    "lastmodified": "2022-12-28T01:09:06.7610901+01:00",
     "tags": null
   },
   "/private/private-note": {
