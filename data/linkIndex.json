@@ -120,13 +120,8 @@
         },
         {
           "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
-          "text": "Dodawanie"
-        },
-        {
-          "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
-          "text": "Mnożenie"
+          "target": "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie",
+          "text": "Sprzężenie"
         }
       ]
     },
@@ -155,6 +150,11 @@
       "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie": [
         {
           "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
+          "target": "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie",
+          "text": "Sprzężenie"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie",
           "text": "Sprzężenie"
         }
@@ -234,20 +234,6 @@
           "source": "/I-semestr/Programowanie/Programowanie",
           "target": "/I-semestr/Programowanie/Zapis-do-pliku",
           "text": "Zapis do pliku"
-        }
-      ],
-      "/I-semestr/Wdi/Binarny/Dodawanie": [
-        {
-          "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
-          "text": "Dodawanie"
-        }
-      ],
-      "/I-semestr/Wdi/Binarny/Mno%C5%BCenie": [
-        {
-          "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
-          "text": "Mnożenie"
         }
       ],
       "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
@@ -380,13 +366,8 @@
     },
     {
       "source": "/I-semestr/Wdi/Wdi",
-      "target": "/I-semestr/Wdi/Binarny/Dodawanie",
-      "text": "Dodawanie"
-    },
-    {
-      "source": "/I-semestr/Wdi/Wdi",
-      "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
-      "text": "Mnożenie"
+      "target": "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie",
+      "text": "Sprzężenie"
     },
     {
       "source": "/",

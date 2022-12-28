@@ -19,8 +19,8 @@
   },
   "/I-semestr/Amzea/II-kolokwium/Granica-funkcji": {
     "title": "Granica funkcji",
-    "content": "\r\n\r\n## Sposoby obliczania\r\n- ## [Sprzężenie](I%20semestr/Amzea/II%20kolokwium/Sprzężenie.md)\r\n\r\n$$\r\n\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}=\\left[ \\frac{0}{0} \\right]=\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}\r\n$$\r\n\r\n- ## [Rozbicie ze wzorów skróconego mnożenia](I%20semestr/Amzea/II%20kolokwium/Rozbicie%20ze%20wzorów%20skróconego%20mnożenia.md)\r\n$$\r\n\\lim_{ x \\to 2 } \\frac{x^{2}-4 }{x-2}=\\lim_{ x \\to 2 } \\frac{\\cancel{(x-2)} (x+2)}{\\cancel{x-2}}=\\lim_{ x \\to 2 } x+2=4\r\n$$\r\n",
-    "lastmodified": "2022-12-28T01:06:51.8669567+01:00",
+    "content": "\n\n## Sposoby obliczania\n- ## [Sprzężenie](I%20semestr/Amzea/II%20kolokwium/Sprzężenie.md)\n\n$$\n\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}=\\left[ \\frac{0}{0} \\right]=\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}\n$$\n\n- ## [Rozbicie ze wzorów skróconego mnożenia](I%20semestr/Amzea/II%20kolokwium/Rozbicie%20ze%20wzorów%20skróconego%20mnożenia.md)\n$$\n\\lim_{ x \\to 2 } \\frac{x^{2}-4 }{x-2}=\\lim_{ x \\to 2 } \\frac{\\cancel{(x-2)} (x+2)}{\\cancel{x-2}}=\\lim_{ x \\to 2 } x+2=4\n$$\n",
+    "lastmodified": "2022-12-28T01:35:03.5439862+01:00",
     "tags": null
   },
   "/I-semestr/Amzea/II-kolokwium/Pochodne": {
@@ -37,8 +37,8 @@
   },
   "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie": {
     "title": "Sprzężenie",
-    "content": "\r\n$$\r\n\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}=\\left[ \\frac{0}{0} \\right]=\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}\r\n$$",
-    "lastmodified": "2022-12-28T01:06:51.8679571+01:00",
+    "content": "\n$$\n\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}=\\left[ \\frac{0}{0} \\right]=\\lim_{ x \\to 5 } \\frac{\\sqrt{ x-1}-2}{x-5}\n$$",
+    "lastmodified": "2022-12-28T01:34:46.9270296+01:00",
     "tags": null
   },
   "/I-semestr/Fizyka/%C4%86w2/Modu%C5%82-Younga": {
@@ -127,8 +127,8 @@
   },
   "/I-semestr/Wdi/Wdi": {
     "title": "Wdi",
-    "content": "\n## Zagadnienia\n- #### Zamiana systemów liczbowych\n -  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n- #### Algebra binarna\n - [Dodawanie](I%20semestr/Wdi/Binarny/Dodawanie.md)\n - [Mnożenie](I%20semestr/Wdi/Binarny/Mnożenie.md)\n",
-    "lastmodified": "2022-12-28T01:28:57.107848+01:00",
+    "content": "\n## Zagadnienia\n- #### Zamiana systemów liczbowych\n -  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n- #### Algebra binarna\n -  [Sprzężenie](I%20semestr/Amzea/II%20kolokwium/Sprzężenie.md)\n - \n",
+    "lastmodified": "2022-12-28T01:38:15.8808866+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Zagadnienia/NKB": {
