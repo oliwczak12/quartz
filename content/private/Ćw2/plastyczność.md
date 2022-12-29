@@ -1,4 +1,0 @@
----
-title: "plastyczność"
----
-jest to nieodwracalne odkształcenie ciała stałego które zarazem nie powoduje jego zniszczenia
