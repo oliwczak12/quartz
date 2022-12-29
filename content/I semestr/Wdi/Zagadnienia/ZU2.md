@@ -1,9 +1,9 @@
 ---
-title: "Dodawanie"
+title: "ZU2"
 created: 2022-12-29
-date:
 tags:
 - wdi
+- zagadnienia
 date: 2022-12-29
 ---
 

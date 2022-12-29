@@ -4,7 +4,7 @@ created: 23-12-2022
 enableToc: false
 tags:
 - główne
-date: 2022-12-28
+date: 2022-12-29
 ---
 ## **HEJ👋**
 To mój cyfrowy ogród w którym znajdują się moje notatki ze studiów.

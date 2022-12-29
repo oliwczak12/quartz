@@ -1,6 +1,6 @@
 ---
 title: "{{title}}"
 created: {{date}}
+tags:
 
-date: 2022-12-28
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Dekodowanie"
-date: 2022-12-24
+created: 2022-12-28
+date: 2022-12-29
 tags:
 - wdi
 - dekodowanie

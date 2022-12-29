@@ -1,14 +1,18 @@
 ---
 title: "Lista do zrobienia"
 created: 2022-12-26
-date: 2022-12-28
+date: 2022-12-29
 enableToc: false
 tags:
 - główne
 ---
 
 -  # Wdi
-    - [x] [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)
+    - [x] Dekodowanie
+    - [x] NKB
+    - [x] ZM
+    - [x] ZU1
+    - [ ] ZU2
     - [ ] Dodawanie
     - [ ] Odejmowanie
     - [ ] Mnożenie
@@ -19,11 +23,8 @@ tags:
     - [ ] I kolos
         - [ ] gof/fog
     - [ ] II kolos
-        - [ ] [[Granice funkcji]]
-        - [ ] [Pochodne](I%20semestr/Amzea/II%20kolokwium/Pochodne.md)
-- # strona
-- [ ] ogarnięcie lastmode
-- [ ] kolorowanie grafu za pomocą tagów
+        - [ ] Granice funkcji
+        - [ ] Pochodne
 
 
 

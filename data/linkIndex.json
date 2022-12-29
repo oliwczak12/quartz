@@ -117,34 +117,42 @@
           "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
           "text": "Dekodowanie"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Zagadnienia/NKB",
+          "text": "NKB"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZU1",
+          "text": "ZU1"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZU2",
+          "text": "ZU2"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
+          "text": "Dodawanie"
         }
       ],
-      "/Lista-do-zrobienia": [
+      "/I-semestr/Wdi/Zagadnienia/ZU1": [
         {
-          "source": "/Lista-do-zrobienia",
-          "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
-          "text": "Dekodowanie"
-        },
-        {
-          "source": "/Lista-do-zrobienia",
-          "target": "/Granice-funkcji",
-          "text": "Granice funkcji"
-        },
-        {
-          "source": "/Lista-do-zrobienia",
-          "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
-          "text": "Pochodne"
+          "source": "/I-semestr/Wdi/Zagadnienia/ZU1",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
         }
       ]
     },
     "backlinks": {
-      "/Granice-funkcji": [
-        {
-          "source": "/Lista-do-zrobienia",
-          "target": "/Granice-funkcji",
-          "text": "Granice funkcji"
-        }
-      ],
       "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry": [
         {
           "source": "/I-semestr/I-Semestr",
@@ -157,13 +165,6 @@
           "source": "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry",
           "target": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
           "text": "Granica funkcji"
-        }
-      ],
-      "/I-semestr/Amzea/II-kolokwium/Pochodne": [
-        {
-          "source": "/Lista-do-zrobienia",
-          "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
-          "text": "Pochodne"
         }
       ],
       "/I-semestr/Amzea/II-kolokwium/Rozbicie-ze-wzor%C3%B3w-skr%C3%B3conego-mno%C5%BCenia": [
@@ -257,14 +258,16 @@
           "text": "Zapis do pliku"
         }
       ],
+      "/I-semestr/Wdi/Binarny/Dodawanie": [
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
+          "text": "Dodawanie"
+        }
+      ],
       "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
         {
           "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
-          "text": "Dekodowanie"
-        },
-        {
-          "source": "/Lista-do-zrobienia",
           "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
           "text": "Dekodowanie"
         }
@@ -281,6 +284,11 @@
           "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
           "target": "/I-semestr/Wdi/Zagadnienia/NKB",
           "text": "NKB"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Zagadnienia/NKB",
+          "text": "NKB"
         }
       ],
       "/I-semestr/Wdi/Zagadnienia/ZM": [
@@ -288,6 +296,30 @@
           "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
           "target": "/I-semestr/Wdi/Zagadnienia/ZM",
           "text": "ZM"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
+        },
+        {
+          "source": "/I-semestr/Wdi/Zagadnienia/ZU1",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
+        }
+      ],
+      "/I-semestr/Wdi/Zagadnienia/ZU1": [
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZU1",
+          "text": "ZU1"
+        }
+      ],
+      "/I-semestr/Wdi/Zagadnienia/ZU2": [
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZU2",
+          "text": "ZU2"
         }
       ],
       "/Lista-do-zrobienia": [
@@ -391,19 +423,34 @@
       "text": "Dekodowanie"
     },
     {
-      "source": "/Lista-do-zrobienia",
-      "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
-      "text": "Dekodowanie"
+      "source": "/I-semestr/Wdi/Wdi",
+      "target": "/I-semestr/Wdi/Zagadnienia/NKB",
+      "text": "NKB"
     },
     {
-      "source": "/Lista-do-zrobienia",
-      "target": "/Granice-funkcji",
-      "text": "Granice funkcji"
+      "source": "/I-semestr/Wdi/Wdi",
+      "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+      "text": "ZM"
     },
     {
-      "source": "/Lista-do-zrobienia",
-      "target": "/I-semestr/Amzea/II-kolokwium/Pochodne",
-      "text": "Pochodne"
+      "source": "/I-semestr/Wdi/Wdi",
+      "target": "/I-semestr/Wdi/Zagadnienia/ZU1",
+      "text": "ZU1"
+    },
+    {
+      "source": "/I-semestr/Wdi/Wdi",
+      "target": "/I-semestr/Wdi/Zagadnienia/ZU2",
+      "text": "ZU2"
+    },
+    {
+      "source": "/I-semestr/Wdi/Wdi",
+      "target": "/I-semestr/Wdi/Binarny/Dodawanie",
+      "text": "Dodawanie"
+    },
+    {
+      "source": "/I-semestr/Wdi/Zagadnienia/ZU1",
+      "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+      "text": "ZM"
     },
     {
       "source": "/",

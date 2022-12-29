@@ -1,6 +1,7 @@
 ---
 title: "ZM"
-date: 2022-12-25
+created: 2022-12-25
+date: 2022-12-29
 tags:
 - wdi
 - zagadnienia
