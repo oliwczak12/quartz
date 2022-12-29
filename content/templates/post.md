@@ -1,6 +1,6 @@
 ---
 title: "{{title}}"
-created: {{date}}
+created: {{date}} {{time}}
 tags:
 
 ---

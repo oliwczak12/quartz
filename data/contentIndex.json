@@ -41,52 +41,10 @@
     "lastmodified": "2022-12-28T01:34:46.9270296+01:00",
     "tags": null
   },
-  "/I-semestr/Fizyka/%C4%86w2/Modu%C5%82-Younga": {
-    "title": "Moduł Younga",
-    "content": "\n\ncecha sprężystości która określa opór który stawia materiał poddany ściskaniu oraz rozciąganiu",
-    "lastmodified": "2022-12-17T18:31:41.6978115+01:00",
-    "tags": null
-  },
-  "/I-semestr/Fizyka/%C4%86w2/Napr%C4%99%C5%BCenia-w-cia%C5%82ach-sta%C5%82ych": {
-    "title": "Naprężenia w ciałach stałych",
-    "content": "",
-    "lastmodified": "2022-12-17T14:44:47.4697362+01:00",
-    "tags": null
-  },
-  "/I-semestr/Fizyka/%C4%86w2/Prawo-Hookea": {
-    "title": "Prawo Hooke’a",
-    "content": "zależność naprężenia od odkształcenia\n\nDla dostatecznie małych deformacji, siła potrzebna do odkształcenia jest wprost proporcjonalna do tego odkształcenia",
-    "lastmodified": "2022-12-17T18:31:54.3765676+01:00",
-    "tags": null
-  },
-  "/I-semestr/Fizyka/%C4%86w2/Wyznaczanie-modulu-younga": {
-    "title": "Wyznaczanie modułu younga",
-    "content": "[Naprężenia w ciałach stałych](I%20semestr/Fizyka/Ćw2/Naprężenia%20w%20ciałach%20stałych.md)\n[rodzaje odkształceń sprężystych](I%20semestr/Fizyka/Ćw2/rodzaje%20odkształceń%20sprężystych.md)\n[Prawo Hooke’a](I%20semestr/Fizyka/Ćw2/Prawo%20Hooke’a.md)\n[plastyczność](I%20semestr/Fizyka/Ćw2/plastyczność.md)\n[wytrzymałość na zerwanie](I%20semestr/Fizyka/Ćw2/wytrzymałość%20na%20zerwanie.md)\n[Moduł Younga](I%20semestr/Fizyka/Ćw2/Moduł%20Younga.md)\n\n\n\n\n\n",
-    "lastmodified": "2022-12-18T21:06:24.5655813+01:00",
-    "tags": null
-  },
-  "/I-semestr/Fizyka/%C4%86w2/plastyczno%C5%9B%C4%87": {
-    "title": "plastyczność",
-    "content": "jest to nieodwracalne odkształcenie ciała stałego które zarazem nie powoduje jego zniszczenia",
-    "lastmodified": "2022-12-17T18:31:49.4158536+01:00",
-    "tags": null
-  },
-  "/I-semestr/Fizyka/%C4%86w2/rodzaje-odkszta%C5%82ce%C5%84-spr%C4%99%C5%BCystych": {
-    "title": "rodzaje odkształceń sprężystych",
-    "content": "Odkształceniem sprężystym nazywa się odkształcenie ciała ustępujące po usunięciu siły, która je spowodowała. \n\nNajczęściej spotykanymi układami takich sił są: **rozciąganie, ściskanie, skręcanie**.",
-    "lastmodified": "2022-12-17T18:31:59.2257765+01:00",
-    "tags": null
-  },
-  "/I-semestr/Fizyka/%C4%86w2/wytrzyma%C5%82o%C5%9B%C4%87-na-zerwanie": {
-    "title": "wytrzymałość na zerwanie",
-    "content": "Taka wartość naprężenia wewnętrznego przy której zachodzi rozerwanie danego materiału.",
-    "lastmodified": "2022-12-17T18:32:05.2269021+01:00",
-    "tags": null
-  },
   "/I-semestr/Fizyka/fizyka": {
     "title": "fizyka",
-    "content": "[Wyznaczanie modulu younga](I%20semestr/Fizyka/Ćw2/Wyznaczanie%20modulu%20younga.md)\n\n\nZagadnienia do egzaminu\n",
-    "lastmodified": "2022-12-23T17:10:48.819555+01:00",
+    "content": "Zagadnienia do egzaminu\n",
+    "lastmodified": "2022-12-29T18:02:39.3602998+01:00",
     "tags": null
   },
   "/I-semestr/I-Semestr": {
@@ -110,49 +68,49 @@
   "/I-semestr/Wdi/Binarny/Dodawanie": {
     "title": "Dodawanie",
     "content": "\n\n",
-    "lastmodified": "2022-12-29T14:44:15.5090219+01:00",
+    "lastmodified": "2022-12-29T19:24:12.0752126+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Dekodowanie/Dekodowanie": {
     "title": "Dekodowanie",
     "content": "\n## Wzór na dekodowanie NKB\n[NKB](I%20semestr/Wdi/Zagadnienia/NKB.md)\n$$\n\\displaystyle \\sum_{i=-m}^{n-1}a_{i} p^i\n$$\nIndeksujemy każdy znak od prawej strony gdzie najmłodszy znak zawsze ma indeks(wage) 0.\nZnaki po przecinku maleją w prawą strone a pierwszy znak ma indeks(wage) -1.\n$$\n1^3 1^2 1^1 0^0 ,1^{-1} 1^{-2}\n$$\n\nprzykład zamiany systemu dwójkowego na dziesiętny\n\n$$\n(1110,11)=1\\times2^3+1\\times2^2+1\\times2^1+0\\times2^0+1\\times2^{-1}+1\\times2^{-2}=\n$$\n\n$$\n8+4+1+1+\\frac{1}{2}+\\frac{1}{4}=13,75\n$$\n\n## Wzór na dekodowanie z ZM na NKB\n[ZM](I%20semestr/Wdi/Zagadnienia/ZM.md)\n$$\n(1-2a_{n-1})\\displaystyle \\sum_{n=-m}^{n-2}a_{i}p^i=r(a_{n-1})\\displaystyle \\sum_{n=-m}^{n-2}a_{i}p^i\n$$\nW przypadku ZM bit znaku nie jest indeksowany.\n\nprzykład:\n\n$$ \n(1.1110,11)=-1\\times(1\\times2^3+1\\times2^2+1\\times2^1+0\\times2^0+1\\times2^{-1}+1\\times2^{-2})=\n$$\n\n$$=-\\left(8+4+1+1+\\frac{1}{2}+\\frac{1}{2} \\right)= -13,75$$\n## Wzór na zamiane z NKB na system dzięsietny\n\n### Liczby całkowite\nDzielimy przez 2 podaną liczbe dopóki nie uzyskamy 1 przy czym wypisujemy reszte z dzielenia każdej liczby za kreską. Liczby uzyskane za kreska odczytujemy od dołu uzyskójąc liczbe w NKB.\n\nprzykład:\n\n190:2 | 0\n\n95:2   | 1\n\n47:2   | 1\n\n23:2   | 1\n\n11:2   | 1\n\n5:2     | 1\n\n2:2     | 0\n\n1:2     | 1  ⇑\n\nuzyskujemy (10111110)\u003csub\u003e2\u003c/sub\u003e\n\n### Liczby ułamkowe\nW przypadku liczb ułamkowych mnożmy przez 2 oraz spisujemy uzyskaną liczbe od góry. Przy czym mamy 3 możliwe przypadki:\n\n1. Zwykły. Kończymy gdy wynikiem jest 0.\n\n![](Pasted%20image%2020221227203907.png)\n\n2. W okresie. Mnozymy dopóki nie uzyskamy wartości która już wystapiła. Przy spisywaniu na poczatku spisujemy wszystkie wartości przez okresem.\n\n![](Pasted%20image%2020221227203332.png)\n\n\n3. Zwykłe \"długie\". Mnożenie nie kończy sie ani 0 ani okresem po 7 iteracjiach co zapisujemy jak na obrazku.\n\n![](Pasted%20image%2020221227204246.png)\n\n### Zmiana systemów przez grupowanie \nGrupujemy liczbe po prawej i po lewej stonie przecinka w bloki o n-tej wielkości którą pozyskujemy ze wzoru ***q=p\u003csup\u003en\u003c/sup\u003e*** gdzie ***q*** to podstawa systemu na który zmieniamy a ***p*** to podstawa systemu który jest zmieniany.\n\nprzykład:\n\n![](Pasted%20image%2020221227223830.png)\n\n\n\n\n\n\n\n\n\n\n",
-    "lastmodified": "2022-12-29T16:28:32.3983444+01:00",
+    "lastmodified": "2022-12-29T19:24:25.2328572+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Wdi": {
     "title": "Wdi",
-    "content": "\n## Zagadnienia\n- #### Zamiana systemów liczbowych\n -  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n - [NKB](I%20semestr/Wdi/Zagadnienia/NKB.md)\n - [ZM](I%20semestr/Wdi/Zagadnienia/ZM.md)\n - [ZU1](I%20semestr/Wdi/Zagadnienia/ZU1.md)\n - [ZU2](I%20semestr/Wdi/Zagadnienia/ZU2.md)\n- #### Algebra binarna\n -  [Dodawanie](I%20semestr/Wdi/Binarny/Dodawanie.md)\n - \n",
-    "lastmodified": "2022-12-29T16:28:43.3510105+01:00",
+    "content": "\n## Zagadnienia\n- ### Zamiana systemów liczbowych\n -  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n - [NKB](I%20semestr/Wdi/Zagadnienia/NKB.md)\n - [ZM](I%20semestr/Wdi/Zagadnienia/ZM.md)\n - [ZU1](I%20semestr/Wdi/Zagadnienia/ZU1.md)\n - [ZU2](I%20semestr/Wdi/Zagadnienia/ZU2.md)\n- ### Algebra binarna\n -  [Dodawanie](I%20semestr/Wdi/Binarny/Dodawanie.md)\n - \n",
+    "lastmodified": "2022-12-29T19:24:30.359846+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Zagadnienia/NKB": {
     "title": "NKB",
     "content": "",
-    "lastmodified": "2022-12-29T16:28:43.3479396+01:00",
+    "lastmodified": "2022-12-29T18:02:29.3575736+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Zagadnienia/ZM": {
     "title": "ZM",
     "content": "Kod \"==znak moduł==\" pierwszy bit określa czy liczba jest ujemna czy dodatnia",
-    "lastmodified": "2022-12-29T16:28:32.4247285+01:00",
+    "lastmodified": "2022-12-29T18:02:47.3578326+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Zagadnienia/ZU1": {
     "title": "ZU1",
-    "content": "\nW kodzie ==ZU1== posiada bit znakowy który jest najstarszym bitem i ==oznacza znak +/-== . Do ==ZU1== kodujemy przez zapisanie liczby w kodzie [ZM](I%20semestr/Wdi/Zagadnienia/ZM.md) po czym \n\n- ## W przypadku gdy bit znakowy jest równy ==0==\n\t\n- ## W przypadku gdy bit znakowy jest równy ==1==\n\twszystkie liczby za bitem znakowym są zanegowane 0 ⇒ 1 oraz 1 ⇒ 0. \n\nwszystkie liczby za znakiem są zanegowane 0⇒1 oraz 1⇒0 . \n\n\u003e[!warning] Uwaga!!\n\u003e\n\u003eW ==ZU1== przydzielamy wage bitowi znakowemu\n\n\n\u003e [!example] Przykład\n\u003e (5)\u003csub\u003e2\u003c/sub\u003e ⇒ (0.101)\u003csub\u003ezm\u003c/sub\u003e ⇒ (0.101)\u003csub\u003eZU1\u003c/sub\u003e \n\u003e (-5)\u003csub\u003e2\u003c/sub\u003e ⇒ (1.101)\u003csub\u003ezm\u003c/sub\u003e ⇒ (1.010)\u003csub\u003eZU1\u003c/sub\u003e \n\u003e\n\n",
-    "lastmodified": "2022-12-29T16:28:54.9148379+01:00",
+    "content": "\nW kodzie ==ZU1== posiada bit znakowy który jest najstarszym bitem i ==oznacza znak +/-== . Do ==ZU1== kodujemy przez zapisanie liczby w kodzie [ZM](I%20semestr/Wdi/Zagadnienia/ZM.md) po czym \n\n- ## W przypadku gdy bit znakowy jest równy ==0==\n\tprzepisujemy [ZM](I%20semestr/Wdi/Zagadnienia/ZM.md)\n- ## W przypadku gdy bit znakowy jest równy ==1==\n\twszystkie liczby za bitem znakowym są zanegowane 0 ⇒ 1 oraz 1 ⇒ 0. \n\nwszystkie liczby za znakiem są zanegowane 0⇒1 oraz 1⇒0 . \n\n\u003e[!warning] Uwaga!!\n\u003e\n\u003eW ==ZU1== przydzielamy wage bitowi znakowemu\n\n\n\u003e [!example] Przykład\n\u003e \n\u003e (5)\u003csub\u003e2\u003c/sub\u003e ⇒ (0.101)\u003csub\u003ezm\u003c/sub\u003e ⇒ (0.101)\u003csub\u003eZU1\u003c/sub\u003e \n\u003e \n\u003e (-5)\u003csub\u003e2\u003c/sub\u003e ⇒ (1.101)\u003csub\u003ezm\u003c/sub\u003e ⇒ (1.010)\u003csub\u003eZU1\u003c/sub\u003e \n\u003e\n\n",
+    "lastmodified": "2022-12-29T19:24:12.3792666+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Zagadnienia/ZU2": {
     "title": "ZU2",
     "content": "\n\n",
-    "lastmodified": "2022-12-29T16:28:43.3428401+01:00",
+    "lastmodified": "2022-12-29T18:02:29.3535745+01:00",
     "tags": null
   },
   "/Lista-do-zrobienia": {
     "title": "Lista do zrobienia",
     "content": "\n-  # Wdi\n    - [x] Dekodowanie\n    - [x] NKB\n    - [x] ZM\n    - [x] ZU1\n    - [ ] ZU2\n    - [ ] Dodawanie\n    - [ ] Odejmowanie\n    - [ ] Mnożenie\n    - [ ] Dzielenie\n    - [ ] Maszyna touringa\n    - [ ] Automaty\n- # Amzea\n    - [ ] I kolos\n        - [ ] gof/fog\n    - [ ] II kolos\n        - [ ] Granice funkcji\n        - [ ] Pochodne\n\n\n\n\u003cstyle\u003e\ninput:disabled:checked{\nfilter: invert(55%) sepia(75%) saturate(2122%) hue-rotate(80deg) brightness(115%) contrast(126%);\n}\n\u003c/style\u003e\n\n\n",
-    "lastmodified": "2022-12-29T16:28:34.8383573+01:00",
+    "lastmodified": "2022-12-29T18:02:47.3608341+01:00",
     "tags": null
   },
   "/private/Kyeboard-mods": {
@@ -168,9 +126,9 @@
     "tags": null
   },
   "/templates/post": {
-    "title": "{{title}}",
-    "content": "",
-    "lastmodified": "2022-12-29T14:44:50.3760081+01:00",
+    "title": "Untitled Page",
+    "content": "---\ntitle: \"{{title}}\"\ncreated: {{date}} {{time}}\ntags:\n\n---\n",
+    "lastmodified": "2022-12-29T19:23:46.0781863+01:00",
     "tags": null
   }
 }
