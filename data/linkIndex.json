@@ -61,12 +61,29 @@
           "text": "Zapis do pliku"
         }
       ],
-      "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
+      "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie": [
         {
-          "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
           "target": "/I-semestr/Wdi/Zagadnienia/NKB",
           "text": "NKB"
         },
+        {
+          "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
+        },
+        {
+          "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
+        },
+        {
+          "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZU1",
+          "text": "ZU1"
+        }
+      ],
+      "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
         {
           "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
           "target": "/I-semestr/Wdi/Zagadnienia/ZM",
@@ -101,8 +118,15 @@
         },
         {
           "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
-          "text": "Dodawanie"
+          "target": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+          "text": "Dodawanie i odejmowanie"
+        }
+      ],
+      "/I-semestr/Wdi/Zagadnienia/ZM": [
+        {
+          "source": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "target": "/I-semestr/Wdi/Zagadnienia/NKB",
+          "text": "NKB"
         }
       ],
       "/I-semestr/Wdi/Zagadnienia/ZU1": [
@@ -175,11 +199,11 @@
           "text": "Zapis do pliku"
         }
       ],
-      "/I-semestr/Wdi/Binarny/Dodawanie": [
+      "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie": [
         {
           "source": "/I-semestr/Wdi/Wdi",
-          "target": "/I-semestr/Wdi/Binarny/Dodawanie",
-          "text": "Dodawanie"
+          "target": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+          "text": "Dodawanie i odejmowanie"
         }
       ],
       "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
@@ -198,7 +222,7 @@
       ],
       "/I-semestr/Wdi/Zagadnienia/NKB": [
         {
-          "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+          "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
           "target": "/I-semestr/Wdi/Zagadnienia/NKB",
           "text": "NKB"
         },
@@ -206,9 +230,24 @@
           "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Zagadnienia/NKB",
           "text": "NKB"
+        },
+        {
+          "source": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "target": "/I-semestr/Wdi/Zagadnienia/NKB",
+          "text": "NKB"
         }
       ],
       "/I-semestr/Wdi/Zagadnienia/ZM": [
+        {
+          "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
+        },
+        {
+          "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+          "text": "ZM"
+        },
         {
           "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
           "target": "/I-semestr/Wdi/Zagadnienia/ZM",
@@ -231,6 +270,11 @@
         }
       ],
       "/I-semestr/Wdi/Zagadnienia/ZU1": [
+        {
+          "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+          "target": "/I-semestr/Wdi/Zagadnienia/ZU1",
+          "text": "ZU1"
+        },
         {
           "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Zagadnienia/ZU1",
@@ -295,9 +339,24 @@
       "text": "Zapis do pliku"
     },
     {
-      "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
+      "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
       "target": "/I-semestr/Wdi/Zagadnienia/NKB",
       "text": "NKB"
+    },
+    {
+      "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+      "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+      "text": "ZM"
+    },
+    {
+      "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+      "target": "/I-semestr/Wdi/Zagadnienia/ZM",
+      "text": "ZM"
+    },
+    {
+      "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+      "target": "/I-semestr/Wdi/Zagadnienia/ZU1",
+      "text": "ZU1"
     },
     {
       "source": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
@@ -331,8 +390,13 @@
     },
     {
       "source": "/I-semestr/Wdi/Wdi",
-      "target": "/I-semestr/Wdi/Binarny/Dodawanie",
-      "text": "Dodawanie"
+      "target": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
+      "text": "Dodawanie i odejmowanie"
+    },
+    {
+      "source": "/I-semestr/Wdi/Zagadnienia/ZM",
+      "target": "/I-semestr/Wdi/Zagadnienia/NKB",
+      "text": "NKB"
     },
     {
       "source": "/I-semestr/Wdi/Zagadnienia/ZU1",

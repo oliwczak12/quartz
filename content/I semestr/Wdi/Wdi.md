@@ -15,5 +15,5 @@ tags:
  - [ZU1](I%20semestr/Wdi/Zagadnienia/ZU1.md)
  - [ZU2](I%20semestr/Wdi/Zagadnienia/ZU2.md)
 - ### Algebra binarna
- -  [Dodawanie](I%20semestr/Wdi/Binarny/Dodawanie.md)
+ -  [Dodawanie i odejmowanie](I%20semestr/Wdi/Binarny/Dodawanie%20i%20odejmowanie.md)
  - 

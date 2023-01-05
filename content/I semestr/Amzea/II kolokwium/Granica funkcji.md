@@ -1,6 +1,6 @@
 ---
 title: "Granica funkcji"
-date: 2022-12-23
+date: 2023-01-04T13:35:42+01:00
 tags:
 - amzea
 - zagadnienia
@@ -17,4 +17,8 @@ $$
 - ## [Rozbicie ze wzorów skróconego mnożenia](I%20semestr/Amzea/II%20kolokwium/Rozbicie%20ze%20wzorów%20skróconego%20mnożenia.md)
 $$
 \lim_{ x \to 2 } \frac{x^{2}-4 }{x-2}=\lim_{ x \to 2 } \frac{\cancel{(x-2)} (x+2)}{\cancel{x-2}}=\lim_{ x \to 2 } x+2=4
+$$
+- Wzory
+   - $$
+\lim_{ x \to 0 } e^x=1
 $$
