@@ -1,6 +1,6 @@
 ---
 title: "Granica funkcji"
-date: 2023-01-04T13:35:42+01:00
+date: 2023-01-11T00:55:16+01:00
 tags:
 - amzea
 - zagadnienia
@@ -21,4 +21,13 @@ $$
 - Wzory
    - $$
 \lim_{ x \to 0 } e^x=1
+$$
+$$
+\arctan(\infty)=\frac{\pi}{2}
+$$
+$$
+e^\infty=\infty
+$$
+$$
+e^{-\infty}=0
 $$

@@ -1,11 +1,10 @@
 ---
 title: "Dodawanie i odejmowanie"
 created: 2022-12-29
-date:
 tags:
 - wdi
 - operacjie binarne
-date: 2023-01-03T17:28:03+01:00
+date: 2023-01-15T17:56:40+01:00
 ---
 
 ## Dodawanie w [NKB](I%20semestr/Wdi/Zagadnienia/NKB.md)
@@ -92,6 +91,22 @@ W kodzie ZU1 odejmujemy wraz z bitami znakowymi. algorytm na dekodowanie nie zmi
 >
 >Jeżeli wystąpi pożyczka odejmujemy ją od najmniej zaczącego bitu. Patrz przykład nr.6
 
+>[!example] Przykład
+>
+>A=2 B=-6 
+>
+>zmianiamy na ZM: A=0.10<sub>ZM</sub> B=1.110<sub>ZM</sub>
+>
+>dopisujemy zera z porzodu tak aby liczby miały równą liczbe bitów oraz "k+1"
+>
+>A=0.0010<sub>ZM</sub> B=1.0110<sub>ZM</sub>
+>
+>zamianiamy na ZU1: A=0.0010<sub>ZU1</sub> B=1.1001<sub>ZU1</sub>
+>
+>![](Pasted%20image%2020230115175608.png)
+
+
+## Dodawanie w ZU2
 
 
 >[!note] Następna notatka ⇒ 

@@ -5,3 +5,7 @@ tags:
 - amzea
 - zagadnienia
 ---
+
+$$
+(x^x)'= e^{x\ln x}
+$$
