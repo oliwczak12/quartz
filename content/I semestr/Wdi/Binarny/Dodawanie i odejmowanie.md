@@ -4,8 +4,12 @@ created: 2022-12-29
 tags:
 - wdi
 - operacjie binarne
-date: 2023-01-15T17:56:40+01:00
+date: 2023-01-15T23:54:28+01:00
 ---
+
+## TLDR
+- Kod ZM dodawanie/odejmowanie bez bitu znakowego. Bit znakowy wyniku określaja znaki.
+- Kod ZU1 dodawanie/odejmowanie z bitem znakowym.
 
 ## Dodawanie w [NKB](I%20semestr/Wdi/Zagadnienia/NKB.md)
 Binarnie dodajemy w słupku tak samo jak w systemie dziesietnym róznica jest taka że dodajemy kolejną liczbe do następnego rzędu gdy liczba przekroczy jedynke a nie jak w systemie dziesietnym dziewiątke.
@@ -85,7 +89,7 @@ W kodzie ZU1 dodajemy również bity znakowe. Trzeba pamiętać o algorytmie prz
 
 ## Odejmowenie w ZU1
 
-W kodzie ZU1 odejmujemy wraz z bitami znakowymi. algorytm na dekodowanie nie zmienia sie względem dodawania. Patrz przykład nr.5
+W kodzie ZU1 odejmujemy wraz z bitami znakowymi. Algorytm na dekodowanie nie zmienia sie względem dodawania. Patrz przykład nr.5
 
 >[!warning] Uwaga
 >
@@ -108,5 +112,10 @@ W kodzie ZU1 odejmujemy wraz z bitami znakowymi. algorytm na dekodowanie nie zmi
 
 ## Dodawanie w ZU2
 
+W ZU2 dodajemy z bitem znakowym jeśli wystąpi przepełnienie ignorujemy je.
+
+## Odejmowanie w ZU2
+
+W ZU2 odejmujemy z bitem znakowym jeśli wystąpi pożyczka ignorujemy ją.
 
 >[!note] Następna notatka ⇒ 

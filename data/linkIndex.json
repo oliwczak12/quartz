@@ -59,6 +59,11 @@
           "source": "/I-semestr/Programowanie/Programowanie",
           "target": "/I-semestr/Programowanie/Zapis-do-pliku",
           "text": "Zapis do pliku"
+        },
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/Tablice",
+          "text": "Tablice"
         }
       ],
       "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie": [
@@ -190,6 +195,13 @@
           "source": "/I-semestr/I-Semestr",
           "target": "/I-semestr/Programowanie/Programowanie",
           "text": "Programowanie"
+        }
+      ],
+      "/I-semestr/Programowanie/Tablice": [
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/Tablice",
+          "text": "Tablice"
         }
       ],
       "/I-semestr/Programowanie/Zapis-do-pliku": [
@@ -337,6 +349,11 @@
       "source": "/I-semestr/Programowanie/Programowanie",
       "target": "/I-semestr/Programowanie/Zapis-do-pliku",
       "text": "Zapis do pliku"
+    },
+    {
+      "source": "/I-semestr/Programowanie/Programowanie",
+      "target": "/I-semestr/Programowanie/Tablice",
+      "text": "Tablice"
     },
     {
       "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
