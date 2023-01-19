@@ -32,6 +32,13 @@
           "text": "Rozbicie ze wzorów skróconego mnożenia"
         }
       ],
+      "/I-semestr/Fizyka/fizyka": [
+        {
+          "source": "/I-semestr/Fizyka/fizyka",
+          "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
+          "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
+        }
+      ],
       "/I-semestr/I-Semestr": [
         {
           "source": "/I-semestr/I-Semestr",
@@ -64,6 +71,16 @@
           "source": "/I-semestr/Programowanie/Programowanie",
           "target": "/I-semestr/Programowanie/Tablice",
           "text": "Tablice"
+        },
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/Funkcjie-matematyczne",
+          "text": "Funkcjie matematyczne"
+        },
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/Przetwarzanie-napis%C3%B3w",
+          "text": "Przetwarzanie napisów"
         }
       ],
       "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie": [
@@ -176,6 +193,13 @@
           "text": "Sprzężenie"
         }
       ],
+      "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w": [
+        {
+          "source": "/I-semestr/Fizyka/fizyka",
+          "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
+          "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
+        }
+      ],
       "/I-semestr/Fizyka/fizyka": [
         {
           "source": "/I-semestr/I-Semestr",
@@ -190,11 +214,25 @@
           "text": "Notatki z I semestru"
         }
       ],
+      "/I-semestr/Programowanie/Funkcjie-matematyczne": [
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/Funkcjie-matematyczne",
+          "text": "Funkcjie matematyczne"
+        }
+      ],
       "/I-semestr/Programowanie/Programowanie": [
         {
           "source": "/I-semestr/I-Semestr",
           "target": "/I-semestr/Programowanie/Programowanie",
           "text": "Programowanie"
+        }
+      ],
+      "/I-semestr/Programowanie/Przetwarzanie-napis%C3%B3w": [
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/Przetwarzanie-napis%C3%B3w",
+          "text": "Przetwarzanie napisów"
         }
       ],
       "/I-semestr/Programowanie/Tablice": [
@@ -326,6 +364,11 @@
       "text": "Rozbicie ze wzorów skróconego mnożenia"
     },
     {
+      "source": "/I-semestr/Fizyka/fizyka",
+      "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
+      "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
+    },
+    {
       "source": "/I-semestr/I-Semestr",
       "target": "/I-semestr/Fizyka/fizyka",
       "text": "Fizyka"
@@ -354,6 +397,16 @@
       "source": "/I-semestr/Programowanie/Programowanie",
       "target": "/I-semestr/Programowanie/Tablice",
       "text": "Tablice"
+    },
+    {
+      "source": "/I-semestr/Programowanie/Programowanie",
+      "target": "/I-semestr/Programowanie/Funkcjie-matematyczne",
+      "text": "Funkcjie matematyczne"
+    },
+    {
+      "source": "/I-semestr/Programowanie/Programowanie",
+      "target": "/I-semestr/Programowanie/Przetwarzanie-napis%C3%B3w",
+      "text": "Przetwarzanie napisów"
     },
     {
       "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",

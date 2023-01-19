@@ -41,10 +41,16 @@
     "lastmodified": "2022-12-28T01:34:46.9270296+01:00",
     "tags": null
   },
+  "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w": {
+    "title": "Wektory i skalary.",
+    "content": "\n## Wartości wektorowe\n Wektor opisujemy przez\n- Wartość \n- Kierunek(pion, poziom, skos)\n- zwrot (Prawo, lewo, góra, dół)\n- Punkt przyłożenia\n![](Pasted%20image%2020230119183912.png)\n\n## Współżędne wektora \n\n$$\n\\vec v = [3,4]\n$$\npierwsza współżędna oznacza przesunięcie w osi X a druga w osi Y\n\n## Wartość skalarna\n Wartośc taka jak czas( t ) których nie mozna przedstawić za pomoca wektora ponieważ mają tylko wartość.\n\n## Dodawanie wektorów\n\n\u003e[!example] Wzór\n\u003e\n\u003e$$\n\\vec a + \\vec b = \\vec c\n$$\n\n\n![](Pasted%20image%2020230119183928.png)\n\n## Odejmowanie wektorów\n\n\u003e[!example] Wzór\n\u003e\n\u003e$$\n\\vec a + (\\vec {-b}) = \\vec c\n$$\n\n\n\n![](Pasted%20image%2020230119190608.png)\n\n## Mnożenie przez skalar\n\n![](Pasted%20image%2020230119192103.png)\n\n## Dodawanie wektorów o skośnym zwrocie (wypadkowa)\n\n![](Pasted%20image%2020230119214601.png)\n\n## Iloczyny\n\n### Iloczyn skalary\n\nJest to mnożenie wartości bezwglednych dwóch wektorów i cosinusa kątów między nimi.\n\nWynikiem iloczynu skalarnego jest ==skalar==.\n\n\u003e[!example] Wzór\n\u003e\n\u003e $$\\vec a \\circ \\vec b = \\lvert{\\vec a}\\rvert \\cdot \\lvert{\\vec b}\\rvert \\cdot \\cos \\alpha $$\n\n#### Właściwości iloczynu skalarnego\n\n\u003e[!example] Właściwość\n\u003e\n\u003e$$\nJest \\space przemienny \\space \\vec a \\cdot \\vec b  =\\vec a \\cdot \\vec b\n$$\n\n\u003e[!example] Właściwość\n\u003e\n\u003e$$Jeżeli \\space \\alpha =90^\\circ \\space to \\space \\space \\vec a \\cdot \\vec b = 0 \\space ponieważ \\cos 90^\\circ=0 $$\n\n\u003e[!example] Właściowść\n\u003e\n\u003e$$\\vec a \\cdot \\vec a = a^2$$\n\n\u003e[!example] Właściwość\n\u003e\n\u003e $$\nJeżeli \\space \\alpha \\in (0,90^\\circ) \\space to \u003e 0 \\space a \\space jeżeli \\space \\alpha \\in (90^\\circ,180^\\circ) \\space to \u003c 0\n$$\n\n\n### Iloczyn wektorowy\n\nWynikiem jest wektor.\n\n\u003e[!example] Wzór\n\u003e$$\n\\vec a \\times\\vec b = \\lvert{\\vec a}\\rvert \\cdot \\lvert{\\vec b}\\rvert \\cdot \\sin \\alpha\n$$\n\n#### Właściwości iloczynu skalarnego\n\n\u003e[!example] Jest nieprzemienny\n\u003e \n\u003e $$\n\\vec a \\times \\vec b \\ne \\vec b \\times \\vec a\n$$\n\n\u003e[!example] Iloczyn zeruje sie gdy \n\u003e\n\u003e$$\n\\vec a \\times \\vec a = a \\cdot a\\cdot \\sin 0 =0\n$$\n\n#### Wyznaczanie zwrotu iloczynu wektorowego\n\n\u003e[!warning] Używamy metody prawej dłoni\n\u003e\n\u003e![](Pasted%20image%2020230119213205.png)\n\n\u003e[!example] Zwrot za pole\n\u003e\n\u003e![](Pasted%20image%2020230119213316.png)\n\n\u003e[!example] Zwrot przed pole\n\u003e\n\u003e![](Pasted%20image%2020230119213324.png)\n\n## Przydatne linki\n\n- https://home.agh.edu.pl/~jankowsk/imir/algebra_wektorow.htm\n- https://www.youtube.com/watch?v=JwubZUNWNhI\u0026ab_channel=Zaliczonena5%21\n- https://www.matemaks.pl/iloczyn-skalarny-wektorow.html",
+    "lastmodified": "2023-01-19T21:51:18.0684608+01:00",
+    "tags": null
+  },
   "/I-semestr/Fizyka/fizyka": {
     "title": "fizyka",
-    "content": "## Zagadnienia do egzaminu\n\n-",
-    "lastmodified": "2023-01-16T16:15:53.8747655+01:00",
+    "content": "## Zagadnienia do egzaminu\n\n1. [Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów](I%20semestr/Fizyka/Wektory%20i%20skalary,%20Dodawanie%20wektorów,%20Reprezentacja%20graficzna%20i%20algebraiczna%20wektorów,%20Iloczyn%20skalarny%20i%20wektorowy%20wektorów.md)\n2. Definicja wektora położenia i wektora przemieszczenia cząstki. Wektory prędkości i przyśpieszenia. \n3. Ruch jednostajny i jednostajnie zmienny. \n4. Rzuty. \n5. Ruch po okręgu. Okres, częstotliwość, prędkość kątowa, przyśpieszenie kątowe. Ruch jednostajny po okręgu, przyśpieszenie dośrodkowe. Ruch niejednostajny po okręgu, przyśpieszenie styczne. \n6. Zasady dynamiki Newtona dla punktu materialnego. Definicja pędu i II zasada dynamiki F=dp/dt \n7. Zasada zachowania pędu. Zderzenia sprężyste i niesprężyste. \n8. Siła grawitacji. \n9. Energia potencjalna w pobliżu powierzchni Ziemi i w dużej odległości. \n10. Zależność między energia potencjalną a pracą sił zachowawczych. Twierdzenie o równoważności pracy i energii kinetycznej. Zasada zachowania energii mechanicznej. \n11. Definicja momentu bezwładności, momentu siły i momentu pędu. \n12. II zasada dynamiki dla ruchu obrotowego punktu materialnego i układu punktów materialnych : M=Iε \n13. Zasada zachowania momentu pędu. \n14. Ruch harmoniczny prosty, tłumiony, wymuszony \n15. Równanie stanu gazu doskonałego. \n16. Przemiany gazowe. \n17. Energia wewnętrzna. Entropia. Zasady termodynamiki. \n18. Pole elektrostatyczne. Prawo Coulomba. Wektor natężenia pola elektrycznego E. \n19. Prawo Gaussa dla pola elektrycznego. Zależność między wektorem natężenia pola elektrycznego a potencjałem pola elektrycznego. Strumień pola elektrycznego.\n20. Pole magnetyczne, wektor natężenia pola magnetycznego B i strumień pola B. \n21. Prawo Gaussa dla pola magnetycznego. \n22. Prawo indukcji Faraday’a.\n23. Prawo Ampera –Maxwella. \n24. Ruch falowy. Dyfrakcja i interferencja. \n25. Teoria korpuskularna światła. Efekt fotoelektryczny.",
+    "lastmodified": "2023-01-19T19:23:18.3391843+01:00",
     "tags": null
   },
   "/I-semestr/I-Semestr": {
@@ -53,16 +59,34 @@
     "lastmodified": "2022-12-28T17:54:22.5937796+01:00",
     "tags": null
   },
+  "/I-semestr/Programowanie/ASCII": {
+    "title": "ASCII",
+    "content": "\n## Najpopularniejsze znaki \n\n![](Pasted%20image%2020230118221411.png)",
+    "lastmodified": "2023-01-18T22:14:46.0690992+01:00",
+    "tags": null
+  },
+  "/I-semestr/Programowanie/Funkcjie-matematyczne": {
+    "title": "Funkcjie matematyczne",
+    "content": "\n## Klasa Math\n\nImportowanie klasy Math\n```java\nimport static java.lang.Math.*;\n```\n\n### Przydatne stałe i metody \n\nMetody:\n\n```Java\nMath.sqrt(wartośc) - pierwiastek kwadratowy\nMath.pow(wartość, potęga) - potęgowanie \n```\n\nStałe:\n\n```java\nMath.PI - wartość liczby pi\n```\n",
+    "lastmodified": "2023-01-16T17:10:33.4304754+01:00",
+    "tags": null
+  },
   "/I-semestr/Programowanie/Programowanie": {
     "title": "Programowanie",
-    "content": "Są to dwa moduły ==Podstawy programowania== oraz ==Języki programowania==\nskładające sie z ćwiczeń i wykładów.\n\n## Zagadnienia \n- [Zapis do pliku](I%20semestr/Programowanie/Zapis%20do%20pliku.md)\n- [Tablice](I%20semestr/Programowanie/Tablice.md)\n- \n- ",
-    "lastmodified": "2023-01-16T16:21:52.4568516+01:00",
+    "content": "Są to dwa moduły ==Podstawy programowania== oraz ==Języki programowania==\nskładające sie z ćwiczeń i wykładów.\n\n## Zagadnienia \n- [Zapis do pliku](I%20semestr/Programowanie/Zapis%20do%20pliku.md)\n- [Tablice](I%20semestr/Programowanie/Tablice.md)\n- [Funkcjie matematyczne](I%20semestr/Programowanie/Funkcjie%20matematyczne.md)\n- [Przetwarzanie napisów](I%20semestr/Programowanie/Przetwarzanie%20napisów.md)\n- [[]]",
+    "lastmodified": "2023-01-18T22:12:21.1424162+01:00",
+    "tags": null
+  },
+  "/I-semestr/Programowanie/Przetwarzanie-napis%C3%B3w": {
+    "title": "Przetwarzanie napisów",
+    "content": "\n## Wyświetlanie znaku z tablicy po indeksie\n\nsłuży do tego metoda charAt(index)\n\n```Java\nString str = \"Hello\"\nSystem.out.println(str.charAt(0)); //wyświetla: H\nSystem.out.println(str.charAt(4)); //wyświetla: o\n```\n\n## Zamiana wszystkich liter w łąńcuchu na duże/małe litery\n\nsłuży do tego metoda toLowerCase()/toUpperCase()\n\n```Java \nString str1 = \"Panda\";\nString str2 = \"Dog\";\n\nSystem.out.println(str1.toLowerrCase()); //wyświetla: panda\nSystem.out.println(str2.toUpperCase()); //wyświetla: dog\n```\n\n",
+    "lastmodified": "2023-01-18T22:11:52.5200548+01:00",
     "tags": null
   },
   "/I-semestr/Programowanie/Tablice": {
     "title": "Tablice",
-    "content": "\n## Sposoby tworzenia tablic\n\n```java\ntyp[] nazwa_tablicy = new typ[liczba_elementów];\n```\n\n```Java\ntyp nazwa_tablicy[] = new typ[liczba_elementów];\n```\n\nMożemy również stworzyć tablice odrazu ją inicjalizując\n\n```java\ntyp[] tablica = {wartosc1, wartosc2, wartosc3, ...};\n```\n\n## Indeksowanie tablicy\n\nElementy tablicy indeksujemy od ==0== to znaczy że pierwszy element ma indeks 0 drugi indeks 1 itd.\n\n## Przypisywanie wartości do elementów tablicy \n\n```Java\nnazwa_tablicy[indeks] = wartość;\n//Przykład\nliczby[4] = 10;\n```\n\n",
-    "lastmodified": "2023-01-16T16:33:22.4242196+01:00",
+    "content": "\n## Sposoby tworzenia tablic\n\n```java\ntyp[] nazwa_tablicy = new typ[liczba_elementów];\n```\n\n```Java\ntyp nazwa_tablicy[] = new typ[liczba_elementów];\n```\n\nMożemy również stworzyć tablice odrazu ją inicjalizując\n\n```java\ntyp[] tablica = {wartosc1, wartosc2, wartosc3, ...};\n```\n\n## Indeksowanie tablicy\n\nElementy tablicy indeksujemy od ==0== to znaczy że pierwszy element ma indeks 0 drugi indeks 1 itd.\n\n## Przypisywanie wartości do elementów tablicy \n\n```Java\nnazwa_tablicy[indeks] = wartość;\n//Przykład\nliczby[4] = 10;\n```\n\n## Porównywanie tablic\n\naby sprawdzić czy wartości tablic w dwóch tablicach sa sobie równe trzeba uzyc metody Arrays.equals().\n\n```Java\nimport java.util.Arrays;\n...\narr1[]={1,2,3};\narr2[]={1,2,3};\narr3[]={5,6,7};\n\nArrays.equals(arr1,arr2); //true\nArrays.equals(arr1,arr3); //false\n```\n",
+    "lastmodified": "2023-01-18T21:55:19.7804728+01:00",
     "tags": null
   },
   "/I-semestr/Programowanie/Zapis-do-pliku": {
