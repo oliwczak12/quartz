@@ -32,17 +32,22 @@
           "text": "Rozbicie ze wzorów skróconego mnożenia"
         }
       ],
-      "/I-semestr/Fizyka/fizyka": [
+      "/I-semestr/Fizyka/Fizyka": [
         {
-          "source": "/I-semestr/Fizyka/fizyka",
+          "source": "/I-semestr/Fizyka/Fizyka",
           "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
           "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
+        },
+        {
+          "source": "/I-semestr/Fizyka/Fizyka",
+          "target": "/I-semestr/Fizyka/Definicja-wektora-po%C5%82o%C5%BCenia-i-wektora-przemieszczenia-cz%C4%85stki-Wektory-pr%C4%99dko%C5%9Bci-i-przy%C5%9Bpieszenia",
+          "text": "Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia"
         }
       ],
       "/I-semestr/I-Semestr": [
         {
           "source": "/I-semestr/I-Semestr",
-          "target": "/I-semestr/Fizyka/fizyka",
+          "target": "/I-semestr/Fizyka/Fizyka",
           "text": "Fizyka"
         },
         {
@@ -193,18 +198,25 @@
           "text": "Sprzężenie"
         }
       ],
-      "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w": [
+      "/I-semestr/Fizyka/Definicja-wektora-po%C5%82o%C5%BCenia-i-wektora-przemieszczenia-cz%C4%85stki-Wektory-pr%C4%99dko%C5%9Bci-i-przy%C5%9Bpieszenia": [
         {
-          "source": "/I-semestr/Fizyka/fizyka",
-          "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
-          "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
+          "source": "/I-semestr/Fizyka/Fizyka",
+          "target": "/I-semestr/Fizyka/Definicja-wektora-po%C5%82o%C5%BCenia-i-wektora-przemieszczenia-cz%C4%85stki-Wektory-pr%C4%99dko%C5%9Bci-i-przy%C5%9Bpieszenia",
+          "text": "Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia"
         }
       ],
-      "/I-semestr/Fizyka/fizyka": [
+      "/I-semestr/Fizyka/Fizyka": [
         {
           "source": "/I-semestr/I-Semestr",
-          "target": "/I-semestr/Fizyka/fizyka",
+          "target": "/I-semestr/Fizyka/Fizyka",
           "text": "Fizyka"
+        }
+      ],
+      "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w": [
+        {
+          "source": "/I-semestr/Fizyka/Fizyka",
+          "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
+          "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
         }
       ],
       "/I-semestr/I-Semestr": [
@@ -364,13 +376,18 @@
       "text": "Rozbicie ze wzorów skróconego mnożenia"
     },
     {
-      "source": "/I-semestr/Fizyka/fizyka",
+      "source": "/I-semestr/Fizyka/Fizyka",
       "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
       "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
     },
     {
+      "source": "/I-semestr/Fizyka/Fizyka",
+      "target": "/I-semestr/Fizyka/Definicja-wektora-po%C5%82o%C5%BCenia-i-wektora-przemieszczenia-cz%C4%85stki-Wektory-pr%C4%99dko%C5%9Bci-i-przy%C5%9Bpieszenia",
+      "text": "Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia"
+    },
+    {
       "source": "/I-semestr/I-Semestr",
-      "target": "/I-semestr/Fizyka/fizyka",
+      "target": "/I-semestr/Fizyka/Fizyka",
       "text": "Fizyka"
     },
     {

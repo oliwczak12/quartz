@@ -4,13 +4,13 @@ created: 23-12-2022
 enableToc: false
 tags:
 - główne
-date: 2022-12-29
+date: 2023-01-19T22:00:12+01:00
 ---
 ## **HEJ👋**
-To mój cyfrowy ogród w którym znajdują się moje notatki ze studiów.
+>To mój cyfrowy ogród w którym znajdują się moje notatki ze studiów.
 
 ## Jak używać💻
-**Jest kilka sposobów na poruszanie się po ogrodzie:**
+>**Jest kilka sposobów na poruszanie się po ogrodzie:**
 
 - Przechodzenie od nagłówka do nagłówka 
 - Graf który zawsze znajduje się na końcu strony📈👇

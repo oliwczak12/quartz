@@ -2,9 +2,9 @@
 title: "Wektory i skalary."
 created: 2023-01-19 14:05
 tags:
-- Fizyka
-
-date: 2023-01-19T21:57:02+01:00
+- fizyka
+- egzamin
+date: 2023-01-21T15:54:49+01:00
 ---
 
 ## Wartości wektorowe

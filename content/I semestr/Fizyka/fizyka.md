@@ -1,7 +1,7 @@
 ---
 title: "fizyka"
 enableToc: false
-date: 2023-01-19T19:23:18+01:00
+date: 2023-01-21T22:00:35+01:00
 tags:
 - fizyka
 - główne
@@ -9,9 +9,9 @@ tags:
 ## Zagadnienia do egzaminu
 
 1. [Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów](I%20semestr/Fizyka/Wektory%20i%20skalary,%20Dodawanie%20wektorów,%20Reprezentacja%20graficzna%20i%20algebraiczna%20wektorów,%20Iloczyn%20skalarny%20i%20wektorowy%20wektorów.md)
-2. Definicja wektora położenia i wektora przemieszczenia cząstki. Wektory prędkości i przyśpieszenia. 
-3. Ruch jednostajny i jednostajnie zmienny. 
-4. Rzuty. 
+2. [Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia](I%20semestr/Fizyka/Definicja%20wektora%20położenia%20i%20wektora%20przemieszczenia%20cząstki,%20Wektory%20prędkości%20i%20przyśpieszenia.md)
+3. [Ruch jednostajny i jednostajnie zmienny.](I%20semestr/Fizyka/Ruch%20jednostajny%20i%20jednostajnie%20zmienny..md)
+4. [Rzuty](I%20semestr/Fizyka/Rzuty.md) 
 5. Ruch po okręgu. Okres, częstotliwość, prędkość kątowa, przyśpieszenie kątowe. Ruch jednostajny po okręgu, przyśpieszenie dośrodkowe. Ruch niejednostajny po okręgu, przyśpieszenie styczne. 
 6. Zasady dynamiki Newtona dla punktu materialnego. Definicja pędu i II zasada dynamiki F=dp/dt 
 7. Zasada zachowania pędu. Zderzenia sprężyste i niesprężyste. 
