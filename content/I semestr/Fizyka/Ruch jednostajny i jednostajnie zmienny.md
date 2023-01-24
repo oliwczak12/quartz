@@ -1,11 +1,11 @@
 ---
-title: "Ruch jednostajny i jednostajnie zmienny."
+title: "Ruch jednostajny i jednostajnie zmienny"
 created: 2023-01-21 15:56
 tags:
 - fizyka
 - egazmin
 
-date: 2023-01-21T18:09:25+01:00
+date: 2023-01-22T01:26:17+01:00
 ---
 
 ## Oznaczenia
