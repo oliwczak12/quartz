@@ -4,7 +4,7 @@ created: 2023-01-19 14:05
 tags:
 - fizyka
 - egzamin
-date: 2023-01-21T15:54:49+01:00
+date: 2023-01-29T16:52:35+01:00
 ---
 
 ## Wartości wektorowe
@@ -24,7 +24,7 @@ pierwsza współżędna oznacza przesunięcie w osi X a druga w osi Y
 
 ## Wartość skalarna
  Wartośc taka jak czas( t ) których nie mozna przedstawić za pomoca wektora ponieważ mają tylko wartość.
-
+ 
 ## Dodawanie wektorów
 
 >[!example] Wzór

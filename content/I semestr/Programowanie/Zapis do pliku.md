@@ -1,8 +1,8 @@
 ---
 title: "Zapis do pliku"
-date: 2023-01-16T16:22:09+01:00
+date: 2023-01-25T19:11:15+01:00
 tags:
--
+- programowanie
 ---
 
 

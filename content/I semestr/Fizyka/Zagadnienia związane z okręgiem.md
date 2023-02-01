@@ -4,7 +4,7 @@ created: 2023-01-23 20:02
 tags:
 - fizyka
 - egzamin
-date: 2023-01-24T21:39:30+01:00
+date: 2023-01-25T18:34:10+01:00
 ---
 
 
@@ -51,7 +51,7 @@ Mówi nam o tym jaki kąt jest zataczany po danym okręgu w pewnym okresie
 $$
 \omega = \frac{2 \pi }{T}
 $$
-## Przyspieszenie dośrodkowa
+## Przyspieszenie dośrodkowe
 $$
 a_{d}= \frac{v^2}{r}
 $$
@@ -67,7 +67,7 @@ Czyli przyspieszenie rośnie wraz ze wzrostem prędkości a maleje wraz ze wzros
 
 ## Siła dośrodkowa
 
-Działa do środka okręgu.
+Siła zakrzywiająca tor ruchu w strone środka koła
 
 ![](Pasted%20image%2020230124004410.png)
 
