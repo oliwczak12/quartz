@@ -1,14 +1,14 @@
 ---
 title: "fizyka"
 enableToc: false
-date: 2023-02-01T14:32:18+01:00
+date: 2023-02-02T21:06:48+01:00
 tags:
 - fizyka
 - główne
 ---
 ## Zagadnienia do egzaminu
 
-1. [Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów](I%20semestr/Fizyka/Wektory%20i%20skalary,%20Dodawanie%20wektorów,%20Reprezentacja%20graficzna%20i%20algebraiczna%20wektorów,%20Iloczyn%20skalarny%20i%20wektorowy%20wektorów.md)
+1. [wektory i skalary](I%20semestr/Fizyka/wektory%20i%20skalary.md)
 2. [Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia](I%20semestr/Fizyka/Definicja%20wektora%20położenia%20i%20wektora%20przemieszczenia%20cząstki,%20Wektory%20prędkości%20i%20przyśpieszenia.md)
 3. [Ruch jednostajny i jednostajnie zmienny](I%20semestr/Fizyka/Ruch%20jednostajny%20i%20jednostajnie%20zmienny.md)
 4. [Rzuty](I%20semestr/Fizyka/Rzuty.md) 
@@ -31,5 +31,5 @@ tags:
 21.  [Prawo Gaussa dla pola magnetycznego](I%20semestr/Fizyka/Prawo%20Gaussa%20dla%20pola%20magnetycznego.md)
 22. Prawo indukcji Faraday’a.
 23. Prawo Ampera –Maxwella. 
-24. Ruch falowy. Dyfrakcja i interferencja. 
+24. [Ruch falowy, Dyfrakcja i interferencja](I%20semestr/Fizyka/Ruch%20falowy,%20Dyfrakcja%20i%20interferencja.md)
 25. Teoria korpuskularna światła. Efekt fotoelektryczny.

@@ -35,8 +35,8 @@
       "/I-semestr/Fizyka/Fizyka": [
         {
           "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
-          "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
+          "target": "/I-semestr/Fizyka/wektory-i-skalary",
+          "text": "wektory i skalary"
         },
         {
           "source": "/I-semestr/Fizyka/Fizyka",
@@ -122,6 +122,11 @@
           "source": "/I-semestr/Fizyka/Fizyka",
           "target": "/I-semestr/Fizyka/Prawo-Gaussa-dla-pola-magnetycznego",
           "text": "Prawo Gaussa dla pola magnetycznego"
+        },
+        {
+          "source": "/I-semestr/Fizyka/Fizyka",
+          "target": "/I-semestr/Fizyka/Ruch-falowy-Dyfrakcja-i-interferencja",
+          "text": "Ruch falowy, Dyfrakcja i interferencja"
         }
       ],
       "/I-semestr/I-Semestr": [
@@ -166,6 +171,11 @@
           "source": "/I-semestr/Programowanie/Programowanie",
           "target": "/I-semestr/Programowanie/Przetwarzanie-napis%C3%B3w",
           "text": "Przetwarzanie napisów"
+        },
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/ASCII",
+          "text": "ASCII"
         }
       ],
       "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie": [
@@ -227,6 +237,16 @@
           "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
           "text": "Dodawanie i odejmowanie"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
+          "text": "Mnożenie"
+        },
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/ONP",
+          "text": "ONP"
         }
       ],
       "/I-semestr/Wdi/Zagadnienia/ZM": [
@@ -355,6 +375,13 @@
           "text": "Równanie stanu gazu doskonałego"
         }
       ],
+      "/I-semestr/Fizyka/Ruch-falowy-Dyfrakcja-i-interferencja": [
+        {
+          "source": "/I-semestr/Fizyka/Fizyka",
+          "target": "/I-semestr/Fizyka/Ruch-falowy-Dyfrakcja-i-interferencja",
+          "text": "Ruch falowy, Dyfrakcja i interferencja"
+        }
+      ],
       "/I-semestr/Fizyka/Ruch-jednostajny-i-jednostajnie-zmienny": [
         {
           "source": "/I-semestr/Fizyka/Fizyka",
@@ -374,13 +401,6 @@
           "source": "/I-semestr/Fizyka/Fizyka",
           "target": "/I-semestr/Fizyka/Si%C5%82a-grawitacji",
           "text": "Siła grawitacji"
-        }
-      ],
-      "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
-          "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
         }
       ],
       "/I-semestr/Fizyka/Zagadnienia-zwi%C4%85zane-z-okr%C4%99giem": [
@@ -411,11 +431,25 @@
           "text": "Zasady dynamiki Newtona dla punktu materialnego, Definicja pędu i II zasada dynamiki F=dp przez dt"
         }
       ],
+      "/I-semestr/Fizyka/wektory-i-skalary": [
+        {
+          "source": "/I-semestr/Fizyka/Fizyka",
+          "target": "/I-semestr/Fizyka/wektory-i-skalary",
+          "text": "wektory i skalary"
+        }
+      ],
       "/I-semestr/I-Semestr": [
         {
           "source": "/",
           "target": "/I-semestr/I-Semestr",
           "text": "Notatki z I semestru"
+        }
+      ],
+      "/I-semestr/Programowanie/ASCII": [
+        {
+          "source": "/I-semestr/Programowanie/Programowanie",
+          "target": "/I-semestr/Programowanie/ASCII",
+          "text": "ASCII"
         }
       ],
       "/I-semestr/Programowanie/Funkcjie-matematyczne": [
@@ -460,11 +494,25 @@
           "text": "Dodawanie i odejmowanie"
         }
       ],
+      "/I-semestr/Wdi/Binarny/Mno%C5%BCenie": [
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
+          "text": "Mnożenie"
+        }
+      ],
       "/I-semestr/Wdi/Dekodowanie/Dekodowanie": [
         {
           "source": "/I-semestr/Wdi/Wdi",
           "target": "/I-semestr/Wdi/Dekodowanie/Dekodowanie",
           "text": "Dekodowanie"
+        }
+      ],
+      "/I-semestr/Wdi/ONP": [
+        {
+          "source": "/I-semestr/Wdi/Wdi",
+          "target": "/I-semestr/Wdi/ONP",
+          "text": "ONP"
         }
       ],
       "/I-semestr/Wdi/Wdi": [
@@ -569,8 +617,8 @@
     },
     {
       "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w",
-      "text": "Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów"
+      "target": "/I-semestr/Fizyka/wektory-i-skalary",
+      "text": "wektory i skalary"
     },
     {
       "source": "/I-semestr/Fizyka/Fizyka",
@@ -658,6 +706,11 @@
       "text": "Prawo Gaussa dla pola magnetycznego"
     },
     {
+      "source": "/I-semestr/Fizyka/Fizyka",
+      "target": "/I-semestr/Fizyka/Ruch-falowy-Dyfrakcja-i-interferencja",
+      "text": "Ruch falowy, Dyfrakcja i interferencja"
+    },
+    {
       "source": "/I-semestr/I-Semestr",
       "target": "/I-semestr/Fizyka/Fizyka",
       "text": "Fizyka"
@@ -696,6 +749,11 @@
       "source": "/I-semestr/Programowanie/Programowanie",
       "target": "/I-semestr/Programowanie/Przetwarzanie-napis%C3%B3w",
       "text": "Przetwarzanie napisów"
+    },
+    {
+      "source": "/I-semestr/Programowanie/Programowanie",
+      "target": "/I-semestr/Programowanie/ASCII",
+      "text": "ASCII"
     },
     {
       "source": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
@@ -751,6 +809,16 @@
       "source": "/I-semestr/Wdi/Wdi",
       "target": "/I-semestr/Wdi/Binarny/Dodawanie-i-odejmowanie",
       "text": "Dodawanie i odejmowanie"
+    },
+    {
+      "source": "/I-semestr/Wdi/Wdi",
+      "target": "/I-semestr/Wdi/Binarny/Mno%C5%BCenie",
+      "text": "Mnożenie"
+    },
+    {
+      "source": "/I-semestr/Wdi/Wdi",
+      "target": "/I-semestr/Wdi/ONP",
+      "text": "ONP"
     },
     {
       "source": "/I-semestr/Wdi/Zagadnienia/ZM",

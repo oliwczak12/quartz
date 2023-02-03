@@ -73,14 +73,14 @@
   },
   "/I-semestr/Fizyka/Fizyka": {
     "title": "fizyka",
-    "content": "## Zagadnienia do egzaminu\n\n1. [Wektory i skalary, Dodawanie wektorów, Reprezentacja graficzna i algebraiczna wektorów, Iloczyn skalarny i wektorowy wektorów](I%20semestr/Fizyka/Wektory%20i%20skalary,%20Dodawanie%20wektorów,%20Reprezentacja%20graficzna%20i%20algebraiczna%20wektorów,%20Iloczyn%20skalarny%20i%20wektorowy%20wektorów.md)\n2. [Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia](I%20semestr/Fizyka/Definicja%20wektora%20położenia%20i%20wektora%20przemieszczenia%20cząstki,%20Wektory%20prędkości%20i%20przyśpieszenia.md)\n3. [Ruch jednostajny i jednostajnie zmienny](I%20semestr/Fizyka/Ruch%20jednostajny%20i%20jednostajnie%20zmienny.md)\n4. [Rzuty](I%20semestr/Fizyka/Rzuty.md) \n5. [Zagadnienia związane z okręgiem](I%20semestr/Fizyka/Zagadnienia%20związane%20z%20okręgiem.md)\n6. [Zasady dynamiki Newtona dla punktu materialnego, Definicja pędu i II zasada dynamiki F=dp przez dt](I%20semestr/Fizyka/Zasady%20dynamiki%20Newtona%20dla%20punktu%20materialnego,%20Definicja%20pędu%20i%20II%20zasada%20dynamiki%20F=dp%20przez%20dt.md)\n7. [Zasada zachowania pędu, Zderzenia sprężyste i niesprężyste](I%20semestr/Fizyka/Zasada%20zachowania%20pędu,%20Zderzenia%20sprężyste%20i%20niesprężyste.md)\n8. [Siła grawitacji](I%20semestr/Fizyka/Siła%20grawitacji.md)\n9. [Energia potencjalna w pobliżu powierzchni Ziemi i w dużej odległości](I%20semestr/Fizyka/Energia%20potencjalna%20w%20pobliżu%20powierzchni%20Ziemi%20i%20w%20dużej%20odległości.md)\n10. [Zależność między energia potencjalną a pracą sił zachowawczych Twierdzenie o równoważności pracy i energii kinetycznej Zasada zachowania energii mechanicznej](I%20semestr/Fizyka/Zależność%20między%20energia%20potencjalną%20a%20pracą%20sił%20zachowawczych%20Twierdzenie%20o%20równoważności%20pracy%20i%20energii%20kinetycznej%20Zasada%20zachowania%20energii%20mechanicznej.md)\n11. [Definicja momentu bezwładności, momentu siły i momentu pędu](I%20semestr/Fizyka/Definicja%20momentu%20bezwładności,%20momentu%20siły%20i%20momentu%20pędu.md)\n12. [II zasada dynamiki dla ruchu obrotowego punktu materialnego i układu punktów materialnych  M=Iε](I%20semestr/Fizyka/II%20zasada%20dynamiki%20dla%20ruchu%20obrotowego%20punktu%20materialnego%20i%20układu%20punktów%20materialnych%20%20M=Iε.md)\n13. Zasada zachowania momentu pędu. \n14. Ruch harmoniczny prosty, tłumiony, wymuszony \n15. [Równanie stanu gazu doskonałego](I%20semestr/Fizyka/Równanie%20stanu%20gazu%20doskonałego.md)\n16. [Przemiany gazowe](I%20semestr/Fizyka/Przemiany%20gazowe.md)\n17. [Energia wewnętrzna,Entropia, Zasady termodynamiki](I%20semestr/Fizyka/Energia%20wewnętrzna,Entropia,%20Zasady%20termodynamiki.md)\n18. [Pole elektrostatyczne Prawo Coulomba, Wektor natężenia pola elektrycznego E](I%20semestr/Fizyka/Pole%20elektrostatyczne%20Prawo%20Coulomba,%20Wektor%20natężenia%20pola%20elektrycznego%20E.md)\n19. Prawo Gaussa dla pola elektrycznego. Zależność między wektorem natężenia pola elektrycznego a potencjałem pola elektrycznego. Strumień pola elektrycznego.\n20. [Pole magnetyczne, wektor natężenia pola magnetycznego B i strumień pola B](I%20semestr/Fizyka/Pole%20magnetyczne,%20wektor%20natężenia%20pola%20magnetycznego%20B%20i%20strumień%20pola%20B.md)\n21.  [Prawo Gaussa dla pola magnetycznego](I%20semestr/Fizyka/Prawo%20Gaussa%20dla%20pola%20magnetycznego.md)\n22. Prawo indukcji Faraday’a.\n23. Prawo Ampera –Maxwella. \n24. Ruch falowy. Dyfrakcja i interferencja. \n25. Teoria korpuskularna światła. Efekt fotoelektryczny.",
-    "lastmodified": "2023-02-01T14:32:18.2415354+01:00",
+    "content": "## Zagadnienia do egzaminu\n\n1. [wektory i skalary](I%20semestr/Fizyka/wektory%20i%20skalary.md)\n2. [Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia](I%20semestr/Fizyka/Definicja%20wektora%20położenia%20i%20wektora%20przemieszczenia%20cząstki,%20Wektory%20prędkości%20i%20przyśpieszenia.md)\n3. [Ruch jednostajny i jednostajnie zmienny](I%20semestr/Fizyka/Ruch%20jednostajny%20i%20jednostajnie%20zmienny.md)\n4. [Rzuty](I%20semestr/Fizyka/Rzuty.md) \n5. [Zagadnienia związane z okręgiem](I%20semestr/Fizyka/Zagadnienia%20związane%20z%20okręgiem.md)\n6. [Zasady dynamiki Newtona dla punktu materialnego, Definicja pędu i II zasada dynamiki F=dp przez dt](I%20semestr/Fizyka/Zasady%20dynamiki%20Newtona%20dla%20punktu%20materialnego,%20Definicja%20pędu%20i%20II%20zasada%20dynamiki%20F=dp%20przez%20dt.md)\n7. [Zasada zachowania pędu, Zderzenia sprężyste i niesprężyste](I%20semestr/Fizyka/Zasada%20zachowania%20pędu,%20Zderzenia%20sprężyste%20i%20niesprężyste.md)\n8. [Siła grawitacji](I%20semestr/Fizyka/Siła%20grawitacji.md)\n9. [Energia potencjalna w pobliżu powierzchni Ziemi i w dużej odległości](I%20semestr/Fizyka/Energia%20potencjalna%20w%20pobliżu%20powierzchni%20Ziemi%20i%20w%20dużej%20odległości.md)\n10. [Zależność między energia potencjalną a pracą sił zachowawczych Twierdzenie o równoważności pracy i energii kinetycznej Zasada zachowania energii mechanicznej](I%20semestr/Fizyka/Zależność%20między%20energia%20potencjalną%20a%20pracą%20sił%20zachowawczych%20Twierdzenie%20o%20równoważności%20pracy%20i%20energii%20kinetycznej%20Zasada%20zachowania%20energii%20mechanicznej.md)\n11. [Definicja momentu bezwładności, momentu siły i momentu pędu](I%20semestr/Fizyka/Definicja%20momentu%20bezwładności,%20momentu%20siły%20i%20momentu%20pędu.md)\n12. [II zasada dynamiki dla ruchu obrotowego punktu materialnego i układu punktów materialnych  M=Iε](I%20semestr/Fizyka/II%20zasada%20dynamiki%20dla%20ruchu%20obrotowego%20punktu%20materialnego%20i%20układu%20punktów%20materialnych%20%20M=Iε.md)\n13. Zasada zachowania momentu pędu. \n14. Ruch harmoniczny prosty, tłumiony, wymuszony \n15. [Równanie stanu gazu doskonałego](I%20semestr/Fizyka/Równanie%20stanu%20gazu%20doskonałego.md)\n16. [Przemiany gazowe](I%20semestr/Fizyka/Przemiany%20gazowe.md)\n17. [Energia wewnętrzna,Entropia, Zasady termodynamiki](I%20semestr/Fizyka/Energia%20wewnętrzna,Entropia,%20Zasady%20termodynamiki.md)\n18. [Pole elektrostatyczne Prawo Coulomba, Wektor natężenia pola elektrycznego E](I%20semestr/Fizyka/Pole%20elektrostatyczne%20Prawo%20Coulomba,%20Wektor%20natężenia%20pola%20elektrycznego%20E.md)\n19. Prawo Gaussa dla pola elektrycznego. Zależność między wektorem natężenia pola elektrycznego a potencjałem pola elektrycznego. Strumień pola elektrycznego.\n20. [Pole magnetyczne, wektor natężenia pola magnetycznego B i strumień pola B](I%20semestr/Fizyka/Pole%20magnetyczne,%20wektor%20natężenia%20pola%20magnetycznego%20B%20i%20strumień%20pola%20B.md)\n21.  [Prawo Gaussa dla pola magnetycznego](I%20semestr/Fizyka/Prawo%20Gaussa%20dla%20pola%20magnetycznego.md)\n22. Prawo indukcji Faraday’a.\n23. Prawo Ampera –Maxwella. \n24. [Ruch falowy, Dyfrakcja i interferencja](I%20semestr/Fizyka/Ruch%20falowy,%20Dyfrakcja%20i%20interferencja.md)\n25. Teoria korpuskularna światła. Efekt fotoelektryczny.",
+    "lastmodified": "2023-02-02T21:06:48.1604323+01:00",
     "tags": null
   },
   "/I-semestr/Fizyka/II-zasada-dynamiki-dla-ruchu-obrotowego-punktu-materialnego-i-uk%C5%82adu-punkt%C3%B3w-materialnych-MI%CE%B5": {
-    "title": "II zasada dynamiki dla ruchu obrotowego punktu materialnego i układu punktów materialnych  M=Iε",
+    "title": "II zasada dynamiki dla ruchu obrotowego",
     "content": "\n$$\n\\vec E = \\frac{\\vec M}{I}\n$$",
-    "lastmodified": "2023-01-29T22:45:07.5217797+01:00",
+    "lastmodified": "2023-02-02T21:07:11.9209886+01:00",
     "tags": null
   },
   "/I-semestr/Fizyka/Pole-elektrostatyczne-Prawo-Coulomba-Wektor-nat%C4%99%C5%BCenia-pola-elektrycznego-E": {
@@ -119,6 +119,12 @@
     "lastmodified": "2023-01-24T21:36:17.9835251+01:00",
     "tags": null
   },
+  "/I-semestr/Fizyka/Ruch-falowy-Dyfrakcja-i-interferencja": {
+    "title": "Ruch falowy, Dyfrakcja i interferencja",
+    "content": "\n## Ruch falowy\n",
+    "lastmodified": "2023-02-01T17:05:48.7098753+01:00",
+    "tags": null
+  },
   "/I-semestr/Fizyka/Ruch-jednostajny-i-jednostajnie-zmienny": {
     "title": "Ruch jednostajny i jednostajnie zmienny",
     "content": "\n## Oznaczenia\n\n\u003e[!example] Oznaczenia\n\u003e\n\u003ev = prędkość (m/s)\n\u003es = droga (m)\n\u003et = czas (s)\n\u003ea = przyspieszenie (m/s\u003csup\u003e2\u003c/sup\u003e)\n\n## Ruch jednostajny\n\nOzancza poruszanie sie obiektu ze stałą prędkością.\n\n\u003e[!example] Przykład\n\u003e\n\u003e![](Pasted%20image%2020230121175034.png)\n\n## Ruch jednostajenie przyspieszony\n\nObiekt porusza się ze stałym przyspieszeniem.",
@@ -137,12 +143,6 @@
     "lastmodified": "2023-01-25T18:14:55.1311174+01:00",
     "tags": null
   },
-  "/I-semestr/Fizyka/Wektory-i-skalary-Dodawanie-wektor%C3%B3w-Reprezentacja-graficzna-i-algebraiczna-wektor%C3%B3w-Iloczyn-skalarny-i-wektorowy-wektor%C3%B3w": {
-    "title": "Wektory i skalary.",
-    "content": "\n## Wartości wektorowe\n Wektor opisujemy przez\n- Wartość \n- Kierunek(pion, poziom, skos)\n- zwrot (Prawo, lewo, góra, dół)\n- Punkt przyłożenia\n![](Pasted%20image%2020230119183912.png)\n\n## Współżędne wektora \n\n$$\n\\vec v = [3,4]\n$$\npierwsza współżędna oznacza przesunięcie w osi X a druga w osi Y\n\n## Wartość skalarna\n Wartośc taka jak czas( t ) których nie mozna przedstawić za pomoca wektora ponieważ mają tylko wartość.\n \n## Dodawanie wektorów\n\n\u003e[!example] Wzór\n\u003e\n\u003e$$\n\\vec a + \\vec b = \\vec c\n$$\n\n![](Pasted%20image%2020230119183928.png)\n\n## Odejmowanie wektorów\n\n\u003e[!example] Wzór\n\u003e\n\u003e$$\n\\vec a + (\\vec {-b}) = \\vec c\n$$\n\n![](Pasted%20image%2020230119190608.png)\n\n## Mnożenie przez skalar\n\n![](Pasted%20image%2020230119192103.png)\n\n## Dodawanie wektorów o skośnym zwrocie (wypadkowa)\n\n![](Pasted%20image%2020230119214601.png)\n\n## Iloczyny\n\n### Iloczyn skalary\n\nJest to mnożenie wartości bezwglednych dwóch wektorów i cosinusa kątów między nimi.\n\nWynikiem iloczynu skalarnego jest ==skalar==.\n\n\u003e[!example] Wzór\n\u003e\n\u003e $$\\vec a \\circ \\vec b = \\lvert{\\vec a}\\rvert \\cdot \\lvert{\\vec b}\\rvert \\cdot \\cos \\alpha $$\n\n#### Właściwości iloczynu skalarnego\n\n\u003e[!example] Właściwość\n\u003e\n\u003e$$\nJest \\space przemienny \\space \\vec a \\cdot \\vec b  =\\vec a \\cdot \\vec b\n$$\n\n\u003e[!example] Właściwość\n\u003e\n\u003e$$Jeżeli \\space \\alpha =90^\\circ \\space to \\space \\space \\vec a \\cdot \\vec b = 0 \\space ponieważ \\cos 90^\\circ=0 $$\n\n\u003e[!example] Właściowść\n\u003e\n\u003e$$\\vec a \\cdot \\vec a = a^2$$\n\n\u003e[!example] Właściwość\n\u003e\n\u003e $$\nJeżeli \\space \\alpha \\in (0,90^\\circ) \\space to \u003e 0 \\space a \\space jeżeli \\space \\alpha \\in (90^\\circ,180^\\circ) \\space to \u003c 0\n$$\n\n\n### Iloczyn wektorowy\n\nWynikiem jest wektor.\n\n\u003e[!example] Wzór\n\u003e\n\u003e$$\n\\vec a \\times\\vec b = \\lvert{\\vec a}\\rvert \\cdot \\lvert{\\vec b}\\rvert \\cdot \\sin \\alpha\n$$\n\n#### Właściwości iloczynu skalarnego\n\n\u003e[!example] Jest nieprzemienny\n\u003e \n\u003e $$\n\\vec a \\times \\vec b \\ne \\vec b \\times \\vec a\n$$\n\n\u003e[!example] Iloczyn zeruje sie gdy \n\u003e\n\u003e$$\n\\vec a \\times \\vec a = a \\cdot a\\cdot \\sin 0 =0\n$$\n\n#### Wyznaczanie zwrotu iloczynu wektorowego\n\n\u003e[!warning] Używamy metody prawej dłoni\n\u003e\n\u003e![](Pasted%20image%2020230119213205.png)\n\n\u003e[!example] Zwrot za pole\n\u003e\n\u003e![](Pasted%20image%2020230119213316.png)\n\n\u003e[!example] Zwrot przed pole\n\u003e\n\u003e![](Pasted%20image%2020230119213324.png)\n\n## Przydatne linki\n\n- https://home.agh.edu.pl/~jankowsk/imir/algebra_wektorow.htm\n- https://www.youtube.com/watch?v=JwubZUNWNhI\u0026ab_channel=Zaliczonena5%21\n- https://www.matemaks.pl/iloczyn-skalarny-wektorow.html",
-    "lastmodified": "2023-01-29T16:52:35.0486066+01:00",
-    "tags": null
-  },
   "/I-semestr/Fizyka/Zagadnienia-zwi%C4%85zane-z-okr%C4%99giem": {
     "title": "Zagadnienia związane z okręgiem",
     "content": "\n\n## Jednostki\n\n$$[v]= \\frac{m}{s}$$\n$$[\\omega]=\\frac{1}{s}=\\frac{rad}{s}=\\frac{\\Delta\\alpha}{\\Delta t}$$\n$$[T]-okres = s$$\n$$[f]-częstotliwość=\\frac{1}{s}=Hz$$\n## Okres\n\nJest to czas występujący pomiędzy wystąpieniami tej samej fali.\n\n![](Pasted%20image%2020230124005103.png)\n\n## Częstotliwość\n\nOkreśla liczbe cykli zjawiska okresowego w czasie.\n![](150px-FrequencyAnimation.gif)\n## Ruch po okregu\n\nZajmujemy sie ruchem jednostajnym więc prędkość jest taka sama wszedzie na okręgu.\n\nPrędkośc to wektor wiec wartosci wektorów są takie same zmienia sie jedynie ich kierunek.\n\nPrędkość jest styczna do okręgu wiec jest prostopadła do promienia.\n\n![](Pasted%20image%2020230124004529.png)\n### Prędkość liniowa\n\nJest to obwód przez okres.\n\nCo oznacza że czym bardziej zwiększa się promień(czym dalej czastka jest od środka okregu) tym wieksza jest predkość liniowa\n\n\n$$\nv=\\frac{2 \\pi r}{T}\n$$\n\n### Predkość kątowa \n\nMówi nam o tym jaki kąt jest zataczany po danym okręgu w pewnym okresie\n\n$$\n\\omega = \\frac{2 \\pi }{T}\n$$\n## Przyspieszenie dośrodkowe\n$$\na_{d}= \\frac{v^2}{r}\n$$\n![](Pasted%20image%2020230124114230.png)\n\nPowstaje ponieważ zmienia sie kierunek prędkość.\n\nJest bardzo związane z siłą dośrodkową.\n\nJest wprost proporcjonalne do kwadratu prędkości i odwrotnie proporcjonalne do promienia.\n\nCzyli przyspieszenie rośnie wraz ze wzrostem prędkości a maleje wraz ze wzrostem promienia\n\n## Siła dośrodkowa\n\nSiła zakrzywiająca tor ruchu w strone środka koła\n\n![](Pasted%20image%2020230124004410.png)\n\n## Ruch niejednostajny\n\n$$\nE-przyspieszenie =\\frac{\\Delta \\omega }{\\Delta t}\n$$\n\n\n![](Pasted%20image%2020230124001001.png)\n\nDo wyznaczenia kierunku omegi używamy reguły prawej dłoni.\n\n![](Pasted%20image%2020230119213205.png)\n\n## Przyspieszony i opóźniony ruch po okregu\n\nI. Gdy omega i epsilon maja ten sam kierunek ruch jest przyspieszony.\nII. Gdy omega i epsilon są wzrócone w przeciwnych kierunkach ruch jest opóźniony. \n\nTe ruchy postawją przez nierówną prędkość kole.\n\n![](Pasted%20image%2020230124002357.png)\n\n## Przyspieszenie styczne\n\nJest to przyspieszenie którego wektor sjest styczny do okęgu.\n\n$$\na_{st}=E*t\n$$\n\n![](Pasted%20image%2020230124003436.png)\n\n## Przyspieszenie wypadkowe\n\nWynosi ono wypadkową przyspieszenia stycznego i dośrodkowego które zawsze wystepuja razem.\n\n\n![](Pasted%20image%2020230124003247.png)",
@@ -150,9 +150,9 @@
     "tags": null
   },
   "/I-semestr/Fizyka/Zale%C5%BCno%C5%9B%C4%87-mi%C4%99dzy-energia-potencjaln%C4%85-a-prac%C4%85-si%C5%82-zachowawczych-Twierdzenie-o-r%C3%B3wnowa%C5%BCno%C5%9Bci-pracy-i-energii-kinetycznej-Zasada-zachowania-energii-mechanicznej": {
-    "title": "Zależność między energia potencjalną a pracą sił zachowawczych Twierdzenie o równoważności pracy i energii kinetycznej Zasada zachowania energii mechanicznej",
+    "title": "Zależność między energia potencjalną a pracą sił zachowawczych",
     "content": "\n\n",
-    "lastmodified": "2023-01-25T14:07:12.8318503+01:00",
+    "lastmodified": "2023-02-02T21:07:36.0804636+01:00",
     "tags": null
   },
   "/I-semestr/Fizyka/Zasada-zachowania-momentu-p%C4%99du": {
@@ -179,6 +179,12 @@
     "lastmodified": "2023-01-31T23:12:04.5317378+01:00",
     "tags": null
   },
+  "/I-semestr/Fizyka/wektory-i-skalary": {
+    "title": "Wektory i skalary.",
+    "content": "\n## Wartości wektorowe\n Wektor opisujemy przez\n- Wartość \n- Kierunek(pion, poziom, skos)\n- zwrot (Prawo, lewo, góra, dół)\n- Punkt przyłożenia\n![](Pasted%20image%2020230119183912.png)\n\n## Współżędne wektora \n\n$$\n\\vec v = [3,4]\n$$\npierwsza współżędna oznacza przesunięcie w osi X a druga w osi Y\n\n## Wartość skalarna\n Wartośc taka jak czas( t ) których nie mozna przedstawić za pomoca wektora ponieważ mają tylko wartość.\n \n## Dodawanie wektorów\n\n\u003e[!example] Wzór\n\u003e\n\u003e$$\n\\vec a + \\vec b = \\vec c\n$$\n\n![](Pasted%20image%2020230119183928.png)\n\n## Odejmowanie wektorów\n\n\u003e[!example] Wzór\n\u003e\n\u003e$$\n\\vec a + (\\vec {-b}) = \\vec c\n$$\n\n![](Pasted%20image%2020230119190608.png)\n\n## Mnożenie przez skalar\n\n![](Pasted%20image%2020230119192103.png)\n\n## Dodawanie wektorów o skośnym zwrocie (wypadkowa)\n\n![](Pasted%20image%2020230119214601.png)\n\n## Iloczyny\n\n### Iloczyn skalary\n\nJest to mnożenie wartości bezwglednych dwóch wektorów i cosinusa kątów między nimi.\n\nWynikiem iloczynu skalarnego jest ==skalar==.\n\n\u003e[!example] Wzór\n\u003e\n\u003e $$\\vec a \\circ \\vec b = \\lvert{\\vec a}\\rvert \\cdot \\lvert{\\vec b}\\rvert \\cdot \\cos \\alpha $$\n\n#### Właściwości iloczynu skalarnego\n\n\u003e[!example] Właściwość\n\u003e\n\u003e$$\nJest \\space przemienny \\space \\vec a \\cdot \\vec b  =\\vec a \\cdot \\vec b\n$$\n\n\u003e[!example] Właściwość\n\u003e\n\u003e$$Jeżeli \\space \\alpha =90^\\circ \\space to \\space \\space \\vec a \\cdot \\vec b = 0 \\space ponieważ \\cos 90^\\circ=0 $$\n\n\u003e[!example] Właściowść\n\u003e\n\u003e$$\\vec a \\cdot \\vec a = a^2$$\n\n\u003e[!example] Właściwość\n\u003e\n\u003e $$\nJeżeli \\space \\alpha \\in (0,90^\\circ) \\space to \u003e 0 \\space a \\space jeżeli \\space \\alpha \\in (90^\\circ,180^\\circ) \\space to \u003c 0\n$$\n\n\n### Iloczyn wektorowy\n\nWynikiem jest wektor.\n\n\u003e[!example] Wzór\n\u003e\n\u003e$$\n\\vec a \\times\\vec b = \\lvert{\\vec a}\\rvert \\cdot \\lvert{\\vec b}\\rvert \\cdot \\sin \\alpha\n$$\n\n#### Właściwości iloczynu skalarnego\n\n\u003e[!example] Jest nieprzemienny\n\u003e \n\u003e $$\n\\vec a \\times \\vec b \\ne \\vec b \\times \\vec a\n$$\n\n\u003e[!example] Iloczyn zeruje sie gdy \n\u003e\n\u003e$$\n\\vec a \\times \\vec a = a \\cdot a\\cdot \\sin 0 =0\n$$\n\n#### Wyznaczanie zwrotu iloczynu wektorowego\n\n\u003e[!warning] Używamy metody prawej dłoni\n\u003e\n\u003e![](Pasted%20image%2020230119213205.png)\n\n\u003e[!example] Zwrot za pole\n\u003e\n\u003e![](Pasted%20image%2020230119213316.png)\n\n\u003e[!example] Zwrot przed pole\n\u003e\n\u003e![](Pasted%20image%2020230119213324.png)\n\n## Przydatne linki\n\n- https://home.agh.edu.pl/~jankowsk/imir/algebra_wektorow.htm\n- https://www.youtube.com/watch?v=JwubZUNWNhI\u0026ab_channel=Zaliczonena5%21\n- https://www.matemaks.pl/iloczyn-skalarny-wektorow.html",
+    "lastmodified": "2023-01-29T16:52:35.0486066+01:00",
+    "tags": null
+  },
   "/I-semestr/I-Semestr": {
     "title": "I Semestr",
     "content": "## Przedmioty\n### [Fizyka](I%20semestr/Fizyka/Fizyka.md)\n### [Wdi](I%20semestr/Wdi/Wdi.md)\n### [Amzea](I%20semestr/Amzea/Analiza%20matematyczna%20z%20elementami%20algebry.md)\n### [Programowanie](I%20semestr/Programowanie/Programowanie.md)\n\n\n",
@@ -199,8 +205,8 @@
   },
   "/I-semestr/Programowanie/Programowanie": {
     "title": "Programowanie",
-    "content": "Są to dwa moduły ==Podstawy programowania== oraz ==Języki programowania==\nskładające sie z ćwiczeń i wykładów.\n\n## Zagadnienia \n- [Zapis do pliku](I%20semestr/Programowanie/Zapis%20do%20pliku.md)\n- [Tablice](I%20semestr/Programowanie/Tablice.md)\n- [Funkcjie matematyczne](I%20semestr/Programowanie/Funkcjie%20matematyczne.md)\n- [Przetwarzanie napisów](I%20semestr/Programowanie/Przetwarzanie%20napisów.md)\n- [[]]",
-    "lastmodified": "2023-01-18T22:12:21.1424162+01:00",
+    "content": "Są to dwa moduły ==Podstawy programowania== oraz ==Języki programowania==\nskładające sie z ćwiczeń i wykładów.\n\n## Zagadnienia \n- [Zapis do pliku](I%20semestr/Programowanie/Zapis%20do%20pliku.md)\n- [Tablice](I%20semestr/Programowanie/Tablice.md)\n- [Funkcjie matematyczne](I%20semestr/Programowanie/Funkcjie%20matematyczne.md)\n- [Przetwarzanie napisów](I%20semestr/Programowanie/Przetwarzanie%20napisów.md)\n- [ASCII](I%20semestr/Programowanie/ASCII.md)",
+    "lastmodified": "2023-02-03T18:57:32.2345536+01:00",
     "tags": null
   },
   "/I-semestr/Programowanie/Przetwarzanie-napis%C3%B3w": {
@@ -227,10 +233,16 @@
     "lastmodified": "2023-01-15T23:54:28.4765426+01:00",
     "tags": null
   },
+  "/I-semestr/Wdi/Binarny/Dzielenie": {
+    "title": "Dzielenie",
+    "content": "\n## Metoda porównawcza\n\n\u003e[!info] Informacjie \n\u003e\n\u003eliczby zapisane sa w kodzie ZM\n\u003eoperacjie wykonuje sie na modułach liczb\n\u003epierwsza liczba jest ==dzielnikiem== a druga ==dzielną==\n\u003e",
+    "lastmodified": "2023-02-03T22:03:20.6992776+01:00",
+    "tags": null
+  },
   "/I-semestr/Wdi/Binarny/Mno%C5%BCenie": {
     "title": "Mnożenie",
-    "content": "\n## Mnożenie w ZM\n\n",
-    "lastmodified": "2023-01-22T23:20:07.4190777+01:00",
+    "content": "\n## Mnożenie\n\n\u003e[!info] info\n\u003e\n\u003epierwsza liczba to ==mnożna==\n\u003edruga liczba to ==mnożnik==\n\n### Both I\n\n\u003e[!note] Kroki\n\u003e\n\u003e 1. Konwersja - zamiana na ZU2\n\u003e 2. maskowanie - zostawiamy jedynie znak i część ułamkową\n\u003e 3. do mnożnika dopisujemy 0 na najmniej znaczacej pozycji\n\u003e 4. obliczenia - korzystając z tabelki określamy czy odejmujemy czy dodajemy przy czym operacjie wykonujemy przez dodawanie/odejmowanie 0 od mnożnej\n\u003e 5. używając tabelki analizujemy mnożnik i na jego podstawie wykonujemy przesunięcia i operacjie aż do ostatniej pary(razem z bitem znakowym) której nie przesuwamy ale wykonujemy operacjie \n\n\u003e[!tldr] Tabelka\n\u003e\n\u003e![](Pasted%20image%2020230203170432.png)\n\n\u003e[!example] Przykład\n\u003e\n\u003e![](Pasted%20image%2020230203164304.png)\n\n### Both II\n\u003e[!info] Zmiany wzgledem pierwszej metody\n\u003e\n\u003ezmienia się tabelka \n\u003eoraz zamiast doisywać 0 przesuwamy w prawo mnożną(pierwszą liczbe) \n\n\u003e[!tldr] Tabelka Both II\n\u003e\n\u003e![](Pasted%20image%2020230203193335.png)\n\n\u003e[!example] Przykład\n\u003e\n\u003e![](Pasted%20image%2020230203193056.png)\n\n",
+    "lastmodified": "2023-02-03T19:34:07.3203504+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Dekodowanie/Dekodowanie": {
@@ -239,10 +251,16 @@
     "lastmodified": "2023-01-15T18:00:14.7039298+01:00",
     "tags": null
   },
+  "/I-semestr/Wdi/ONP": {
+    "title": "ONP",
+    "content": "",
+    "lastmodified": "2023-02-02T21:16:33.6653303+01:00",
+    "tags": null
+  },
   "/I-semestr/Wdi/Wdi": {
     "title": "Wdi",
-    "content": "\n## Zagadnienia\n- ### Zamiana systemów liczbowych\n -  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n - [NKB](I%20semestr/Wdi/Zagadnienia/NKB.md)\n - [ZM](I%20semestr/Wdi/Zagadnienia/ZM.md)\n - [ZU1](I%20semestr/Wdi/Zagadnienia/ZU1.md)\n - [ZU2](I%20semestr/Wdi/Zagadnienia/ZU2.md)\n- ### Algebra binarna\n -  [Dodawanie i odejmowanie](I%20semestr/Wdi/Binarny/Dodawanie%20i%20odejmowanie.md)\n - \n",
-    "lastmodified": "2023-01-02T14:28:28.7559679+01:00",
+    "content": "\n## Zagadnienia\n- ### Zamiana systemów liczbowych\n -  [Dekodowanie](I%20semestr/Wdi/Dekodowanie/Dekodowanie.md)\n - [NKB](I%20semestr/Wdi/Zagadnienia/NKB.md)\n - [ZM](I%20semestr/Wdi/Zagadnienia/ZM.md)\n - [ZU1](I%20semestr/Wdi/Zagadnienia/ZU1.md)\n - [ZU2](I%20semestr/Wdi/Zagadnienia/ZU2.md)\n- ### Algebra binarna\n -  [Dodawanie i odejmowanie](I%20semestr/Wdi/Binarny/Dodawanie%20i%20odejmowanie.md)\n - [Mnożenie](I%20semestr/Wdi/Binarny/Mnożenie.md)\n- [ONP](I%20semestr/Wdi/ONP.md) ",
+    "lastmodified": "2023-02-03T18:56:46.1228855+01:00",
     "tags": null
   },
   "/I-semestr/Wdi/Zagadnienia/NKB": {
