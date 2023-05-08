@@ -1,0 +1,42 @@
+---
+title: "zagadnienia I zerówka"
+created: 2023-05-08 16:01
+tags:
+- Programowanie
+- cpp
+date: 2023-05-08T19:56:58+02:00
+---
+
+[Rodzaje translacji programów komputerowych](II%20Semestr/JPO/Rodzaje%20translacji%20programów%20komputerowych.md)
+
+[Kompilacja do kodu pośredniego](II%20Semestr/JPO/Kompilacja%20do%20kodu%20pośredniego.md)
+
+[[Maszyna wirtualna]]
+
+[[Popularne języki programowania a metody ich translacji]]
+
+[[Etapy kompilacji]]
+
+[[Preprocesor]]
+
+[[Konsolidator]]
+
+[[Rola i deklaracjia funkcji main]]
+
+[[Deklarowanie zmiennych]]
+
+[[Zmienne klasy]]
+
+[[Auto]]
+
+[[Static]]
+
+[[Extern]]
+
+[[Proste typy danych]]
+
+[[Operatory arytmetyczne]]
+
+[[Podstawowe instrukcjie i pętle]]
+
+

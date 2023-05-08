@@ -4,7 +4,7 @@ created: 23-12-2022
 enableToc: false
 tags:
 - główne
-date: 2023-01-19T22:00:12+01:00
+date: 2023-03-03T19:08:18+01:00
 ---
 ## **HEJ👋**
 >To mój cyfrowy ogród w którym znajdują się moje notatki ze studiów.
@@ -18,6 +18,7 @@ date: 2023-01-19T22:00:12+01:00
 - Tagi znajdujące się na początku każdej notatki🔝📄
 ## Notatki📙
 - ## [Notatki z I semestru](I%20semestr/I%20Semestr.md)
+- ## [Przedmioty II semestr](II%20Semestr/Przedmioty%20II%20semestr.md)
 
 ## Todo list
 [Lista do zrobienia](Lista%20do%20zrobienia.md)

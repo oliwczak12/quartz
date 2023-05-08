@@ -9,6 +9,11 @@
         },
         {
           "source": "/",
+          "target": "/II-Semestr/Przedmioty-II-semestr",
+          "text": "Przedmioty II semestr"
+        },
+        {
+          "source": "/",
           "target": "/Lista-do-zrobienia",
           "text": "Lista do zrobienia"
         }
@@ -32,109 +37,7 @@
           "text": "Rozbicie ze wzorów skróconego mnożenia"
         }
       ],
-      "/I-semestr/Fizyka/Fizyka": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/wektory-i-skalary",
-          "text": "wektory i skalary"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Definicja-wektora-po%C5%82o%C5%BCenia-i-wektora-przemieszczenia-cz%C4%85stki-Wektory-pr%C4%99dko%C5%9Bci-i-przy%C5%9Bpieszenia",
-          "text": "Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Ruch-jednostajny-i-jednostajnie-zmienny",
-          "text": "Ruch jednostajny i jednostajnie zmienny"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Rzuty",
-          "text": "Rzuty"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Zagadnienia-zwi%C4%85zane-z-okr%C4%99giem",
-          "text": "Zagadnienia związane z okręgiem"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Zasady-dynamiki-Newtona-dla-punktu-materialnego-Definicja-p%C4%99du-i-II-zasada-dynamiki-Fdp-przez-dt",
-          "text": "Zasady dynamiki Newtona dla punktu materialnego, Definicja pędu i II zasada dynamiki F=dp przez dt"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Zasada-zachowania-p%C4%99du-Zderzenia-spr%C4%99%C5%BCyste-i-niespr%C4%99%C5%BCyste",
-          "text": "Zasada zachowania pędu, Zderzenia sprężyste i niesprężyste"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Si%C5%82a-grawitacji",
-          "text": "Siła grawitacji"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Energia-potencjalna-w-pobli%C5%BCu-powierzchni-Ziemi-i-w-du%C5%BCej-odleg%C5%82o%C5%9Bci",
-          "text": "Energia potencjalna w pobliżu powierzchni Ziemi i w dużej odległości"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Zale%C5%BCno%C5%9B%C4%87-mi%C4%99dzy-energia-potencjaln%C4%85-a-prac%C4%85-si%C5%82-zachowawczych-Twierdzenie-o-r%C3%B3wnowa%C5%BCno%C5%9Bci-pracy-i-energii-kinetycznej-Zasada-zachowania-energii-mechanicznej",
-          "text": "Zależność między energia potencjalną a pracą sił zachowawczych Twierdzenie o równoważności pracy i energii kinetycznej Zasada zachowania energii mechanicznej"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Definicja-momentu-bezw%C5%82adno%C5%9Bci-momentu-si%C5%82y-i-momentu-p%C4%99du",
-          "text": "Definicja momentu bezwładności, momentu siły i momentu pędu"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/II-zasada-dynamiki-dla-ruchu-obrotowego-punktu-materialnego-i-uk%C5%82adu-punkt%C3%B3w-materialnych-MI%CE%B5",
-          "text": "II zasada dynamiki dla ruchu obrotowego punktu materialnego i układu punktów materialnych  M=Iε"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/R%C3%B3wnanie-stanu-gazu-doskona%C5%82ego",
-          "text": "Równanie stanu gazu doskonałego"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Przemiany-gazowe",
-          "text": "Przemiany gazowe"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Energia-wewn%C4%99trznaEntropia-Zasady-termodynamiki",
-          "text": "Energia wewnętrzna,Entropia, Zasady termodynamiki"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Pole-elektrostatyczne-Prawo-Coulomba-Wektor-nat%C4%99%C5%BCenia-pola-elektrycznego-E",
-          "text": "Pole elektrostatyczne Prawo Coulomba, Wektor natężenia pola elektrycznego E"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Pole-magnetyczne-wektor-nat%C4%99%C5%BCenia-pola-magnetycznego-B-i-strumie%C5%84-pola-B",
-          "text": "Pole magnetyczne, wektor natężenia pola magnetycznego B i strumień pola B"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Prawo-Gaussa-dla-pola-magnetycznego",
-          "text": "Prawo Gaussa dla pola magnetycznego"
-        },
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Ruch-falowy-Dyfrakcja-i-interferencja",
-          "text": "Ruch falowy, Dyfrakcja i interferencja"
-        }
-      ],
       "/I-semestr/I-Semestr": [
-        {
-          "source": "/I-semestr/I-Semestr",
-          "target": "/I-semestr/Fizyka/Fizyka",
-          "text": "Fizyka"
-        },
         {
           "source": "/I-semestr/I-Semestr",
           "target": "/I-semestr/Wdi/Wdi",
@@ -267,9 +170,193 @@
           "target": "/I-semestr/Wdi/Zagadnienia/ZM",
           "text": "ZM"
         }
+      ],
+      "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego": [
+        {
+          "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
+          "text": "Kod pośredni"
+        },
+        {
+          "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy",
+          "text": "kod źródłowy i kod wynikowy"
+        },
+        {
+          "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+          "target": "/II-Semestr/JPO/Maszyna-wirtualna",
+          "text": "Maszyna wirtualna"
+        }
+      ],
+      "/II-Semestr/JPO/Maszyna-wirtualna": [
+        {
+          "source": "/II-Semestr/JPO/Maszyna-wirtualna",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
+          "text": "Kod pośredni"
+        }
+      ],
+      "/II-Semestr/JPO/Programowanie-obiektowe": [
+        {
+          "source": "/II-Semestr/JPO/Programowanie-obiektowe",
+          "target": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "text": "zagadnienia I zerówka"
+        }
+      ],
+      "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych": [
+        {
+          "source": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/Asembler",
+          "text": "Asembler"
+        },
+        {
+          "source": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+          "target": "/II-Semestr/JPO/Maszyna-wirtualna",
+          "text": "Maszyna wirtualna"
+        },
+        {
+          "source": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy",
+          "text": "kod źródłowy i kod wynikowy"
+        }
+      ],
+      "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni": [
+        {
+          "source": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
+          "target": "/II-Semestr/JPO/Maszyna-wirtualna",
+          "text": "Maszyna wirtualna"
+        }
+      ],
+      "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy": [
+        {
+          "source": "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/Pami%C4%99%C4%87-operacyjna",
+          "text": "Pamięć operacyjna"
+        }
+      ],
+      "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+          "text": "Rodzaje translacji programów komputerowych"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+          "text": "Kompilacja do kodu pośredniego"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Maszyna-wirtualna",
+          "text": "Maszyna wirtualna"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji",
+          "text": "Popularne języki programowania a metody ich translacji"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Etapy-kompilacji",
+          "text": "Etapy kompilacji"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Preprocesor",
+          "text": "Preprocesor"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Konsolidator",
+          "text": "Konsolidator"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Rola-i-deklaracjia-funkcji-main",
+          "text": "Rola i deklaracjia funkcji main"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Deklarowanie-zmiennych",
+          "text": "Deklarowanie zmiennych"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Zmienne-klasy",
+          "text": "Zmienne klasy"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Auto",
+          "text": "Auto"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Static",
+          "text": "Static"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Extern",
+          "text": "Extern"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Proste-typy-danych",
+          "text": "Proste typy danych"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Operatory-arytmetyczne",
+          "text": "Operatory arytmetyczne"
+        },
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Podstawowe-instrukcjie-i-p%C4%99tle",
+          "text": "Podstawowe instrukcjie i pętle"
+        }
+      ],
+      "/II-Semestr/Przedmioty-II-semestr": [
+        {
+          "source": "/II-Semestr/Przedmioty-II-semestr",
+          "target": "/II-Semestr/Mn/Metody-numeryczne",
+          "text": "Metody numeryczne"
+        },
+        {
+          "source": "/II-Semestr/Przedmioty-II-semestr",
+          "target": "/II-Semestr/JPO/Programowanie-obiektowe",
+          "text": "Programowanie obiektowe"
+        }
       ]
     },
     "backlinks": {
+      "/Auto": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Auto",
+          "text": "Auto"
+        }
+      ],
+      "/Deklarowanie-zmiennych": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Deklarowanie-zmiennych",
+          "text": "Deklarowanie zmiennych"
+        }
+      ],
+      "/Etapy-kompilacji": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Etapy-kompilacji",
+          "text": "Etapy kompilacji"
+        }
+      ],
+      "/Extern": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Extern",
+          "text": "Extern"
+        }
+      ],
       "/I-semestr/Amzea/Analiza-matematyczna-z-elementami-algebry": [
         {
           "source": "/I-semestr/I-Semestr",
@@ -296,146 +383,6 @@
           "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
           "target": "/I-semestr/Amzea/II-kolokwium/Sprz%C4%99%C5%BCenie",
           "text": "Sprzężenie"
-        }
-      ],
-      "/I-semestr/Fizyka/Definicja-momentu-bezw%C5%82adno%C5%9Bci-momentu-si%C5%82y-i-momentu-p%C4%99du": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Definicja-momentu-bezw%C5%82adno%C5%9Bci-momentu-si%C5%82y-i-momentu-p%C4%99du",
-          "text": "Definicja momentu bezwładności, momentu siły i momentu pędu"
-        }
-      ],
-      "/I-semestr/Fizyka/Definicja-wektora-po%C5%82o%C5%BCenia-i-wektora-przemieszczenia-cz%C4%85stki-Wektory-pr%C4%99dko%C5%9Bci-i-przy%C5%9Bpieszenia": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Definicja-wektora-po%C5%82o%C5%BCenia-i-wektora-przemieszczenia-cz%C4%85stki-Wektory-pr%C4%99dko%C5%9Bci-i-przy%C5%9Bpieszenia",
-          "text": "Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia"
-        }
-      ],
-      "/I-semestr/Fizyka/Energia-potencjalna-w-pobli%C5%BCu-powierzchni-Ziemi-i-w-du%C5%BCej-odleg%C5%82o%C5%9Bci": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Energia-potencjalna-w-pobli%C5%BCu-powierzchni-Ziemi-i-w-du%C5%BCej-odleg%C5%82o%C5%9Bci",
-          "text": "Energia potencjalna w pobliżu powierzchni Ziemi i w dużej odległości"
-        }
-      ],
-      "/I-semestr/Fizyka/Energia-wewn%C4%99trznaEntropia-Zasady-termodynamiki": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Energia-wewn%C4%99trznaEntropia-Zasady-termodynamiki",
-          "text": "Energia wewnętrzna,Entropia, Zasady termodynamiki"
-        }
-      ],
-      "/I-semestr/Fizyka/Fizyka": [
-        {
-          "source": "/I-semestr/I-Semestr",
-          "target": "/I-semestr/Fizyka/Fizyka",
-          "text": "Fizyka"
-        }
-      ],
-      "/I-semestr/Fizyka/II-zasada-dynamiki-dla-ruchu-obrotowego-punktu-materialnego-i-uk%C5%82adu-punkt%C3%B3w-materialnych-MI%CE%B5": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/II-zasada-dynamiki-dla-ruchu-obrotowego-punktu-materialnego-i-uk%C5%82adu-punkt%C3%B3w-materialnych-MI%CE%B5",
-          "text": "II zasada dynamiki dla ruchu obrotowego punktu materialnego i układu punktów materialnych  M=Iε"
-        }
-      ],
-      "/I-semestr/Fizyka/Pole-elektrostatyczne-Prawo-Coulomba-Wektor-nat%C4%99%C5%BCenia-pola-elektrycznego-E": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Pole-elektrostatyczne-Prawo-Coulomba-Wektor-nat%C4%99%C5%BCenia-pola-elektrycznego-E",
-          "text": "Pole elektrostatyczne Prawo Coulomba, Wektor natężenia pola elektrycznego E"
-        }
-      ],
-      "/I-semestr/Fizyka/Pole-magnetyczne-wektor-nat%C4%99%C5%BCenia-pola-magnetycznego-B-i-strumie%C5%84-pola-B": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Pole-magnetyczne-wektor-nat%C4%99%C5%BCenia-pola-magnetycznego-B-i-strumie%C5%84-pola-B",
-          "text": "Pole magnetyczne, wektor natężenia pola magnetycznego B i strumień pola B"
-        }
-      ],
-      "/I-semestr/Fizyka/Prawo-Gaussa-dla-pola-magnetycznego": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Prawo-Gaussa-dla-pola-magnetycznego",
-          "text": "Prawo Gaussa dla pola magnetycznego"
-        }
-      ],
-      "/I-semestr/Fizyka/Przemiany-gazowe": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Przemiany-gazowe",
-          "text": "Przemiany gazowe"
-        }
-      ],
-      "/I-semestr/Fizyka/R%C3%B3wnanie-stanu-gazu-doskona%C5%82ego": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/R%C3%B3wnanie-stanu-gazu-doskona%C5%82ego",
-          "text": "Równanie stanu gazu doskonałego"
-        }
-      ],
-      "/I-semestr/Fizyka/Ruch-falowy-Dyfrakcja-i-interferencja": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Ruch-falowy-Dyfrakcja-i-interferencja",
-          "text": "Ruch falowy, Dyfrakcja i interferencja"
-        }
-      ],
-      "/I-semestr/Fizyka/Ruch-jednostajny-i-jednostajnie-zmienny": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Ruch-jednostajny-i-jednostajnie-zmienny",
-          "text": "Ruch jednostajny i jednostajnie zmienny"
-        }
-      ],
-      "/I-semestr/Fizyka/Rzuty": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Rzuty",
-          "text": "Rzuty"
-        }
-      ],
-      "/I-semestr/Fizyka/Si%C5%82a-grawitacji": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Si%C5%82a-grawitacji",
-          "text": "Siła grawitacji"
-        }
-      ],
-      "/I-semestr/Fizyka/Zagadnienia-zwi%C4%85zane-z-okr%C4%99giem": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Zagadnienia-zwi%C4%85zane-z-okr%C4%99giem",
-          "text": "Zagadnienia związane z okręgiem"
-        }
-      ],
-      "/I-semestr/Fizyka/Zale%C5%BCno%C5%9B%C4%87-mi%C4%99dzy-energia-potencjaln%C4%85-a-prac%C4%85-si%C5%82-zachowawczych-Twierdzenie-o-r%C3%B3wnowa%C5%BCno%C5%9Bci-pracy-i-energii-kinetycznej-Zasada-zachowania-energii-mechanicznej": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Zale%C5%BCno%C5%9B%C4%87-mi%C4%99dzy-energia-potencjaln%C4%85-a-prac%C4%85-si%C5%82-zachowawczych-Twierdzenie-o-r%C3%B3wnowa%C5%BCno%C5%9Bci-pracy-i-energii-kinetycznej-Zasada-zachowania-energii-mechanicznej",
-          "text": "Zależność między energia potencjalną a pracą sił zachowawczych Twierdzenie o równoważności pracy i energii kinetycznej Zasada zachowania energii mechanicznej"
-        }
-      ],
-      "/I-semestr/Fizyka/Zasada-zachowania-p%C4%99du-Zderzenia-spr%C4%99%C5%BCyste-i-niespr%C4%99%C5%BCyste": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Zasada-zachowania-p%C4%99du-Zderzenia-spr%C4%99%C5%BCyste-i-niespr%C4%99%C5%BCyste",
-          "text": "Zasada zachowania pędu, Zderzenia sprężyste i niesprężyste"
-        }
-      ],
-      "/I-semestr/Fizyka/Zasady-dynamiki-Newtona-dla-punktu-materialnego-Definicja-p%C4%99du-i-II-zasada-dynamiki-Fdp-przez-dt": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/Zasady-dynamiki-Newtona-dla-punktu-materialnego-Definicja-p%C4%99du-i-II-zasada-dynamiki-Fdp-przez-dt",
-          "text": "Zasady dynamiki Newtona dla punktu materialnego, Definicja pędu i II zasada dynamiki F=dp przez dt"
-        }
-      ],
-      "/I-semestr/Fizyka/wektory-i-skalary": [
-        {
-          "source": "/I-semestr/Fizyka/Fizyka",
-          "target": "/I-semestr/Fizyka/wektory-i-skalary",
-          "text": "wektory i skalary"
         }
       ],
       "/I-semestr/I-Semestr": [
@@ -590,11 +537,178 @@
           "text": "ZU2"
         }
       ],
+      "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+          "text": "Kompilacja do kodu pośredniego"
+        }
+      ],
+      "/II-Semestr/JPO/Maszyna-wirtualna": [
+        {
+          "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+          "target": "/II-Semestr/JPO/Maszyna-wirtualna",
+          "text": "Maszyna wirtualna"
+        },
+        {
+          "source": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+          "target": "/II-Semestr/JPO/Maszyna-wirtualna",
+          "text": "Maszyna wirtualna"
+        },
+        {
+          "source": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
+          "target": "/II-Semestr/JPO/Maszyna-wirtualna",
+          "text": "Maszyna wirtualna"
+        }
+      ],
+      "/II-Semestr/JPO/Programowanie-obiektowe": [
+        {
+          "source": "/II-Semestr/Przedmioty-II-semestr",
+          "target": "/II-Semestr/JPO/Programowanie-obiektowe",
+          "text": "Programowanie obiektowe"
+        }
+      ],
+      "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+          "text": "Rodzaje translacji programów komputerowych"
+        }
+      ],
+      "/II-Semestr/JPO/poj%C4%99cia/Asembler": [
+        {
+          "source": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/Asembler",
+          "text": "Asembler"
+        }
+      ],
+      "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni": [
+        {
+          "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
+          "text": "Kod pośredni"
+        },
+        {
+          "source": "/II-Semestr/JPO/Maszyna-wirtualna",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
+          "text": "Kod pośredni"
+        }
+      ],
+      "/II-Semestr/JPO/poj%C4%99cia/Pami%C4%99%C4%87-operacyjna": [
+        {
+          "source": "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/Pami%C4%99%C4%87-operacyjna",
+          "text": "Pamięć operacyjna"
+        }
+      ],
+      "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy": [
+        {
+          "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy",
+          "text": "kod źródłowy i kod wynikowy"
+        },
+        {
+          "source": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+          "target": "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy",
+          "text": "kod źródłowy i kod wynikowy"
+        }
+      ],
+      "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka": [
+        {
+          "source": "/II-Semestr/JPO/Programowanie-obiektowe",
+          "target": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "text": "zagadnienia I zerówka"
+        }
+      ],
+      "/II-Semestr/Mn/Metody-numeryczne": [
+        {
+          "source": "/II-Semestr/Przedmioty-II-semestr",
+          "target": "/II-Semestr/Mn/Metody-numeryczne",
+          "text": "Metody numeryczne"
+        }
+      ],
+      "/II-Semestr/Przedmioty-II-semestr": [
+        {
+          "source": "/",
+          "target": "/II-Semestr/Przedmioty-II-semestr",
+          "text": "Przedmioty II semestr"
+        }
+      ],
+      "/Konsolidator": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Konsolidator",
+          "text": "Konsolidator"
+        }
+      ],
       "/Lista-do-zrobienia": [
         {
           "source": "/",
           "target": "/Lista-do-zrobienia",
           "text": "Lista do zrobienia"
+        }
+      ],
+      "/Maszyna-wirtualna": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Maszyna-wirtualna",
+          "text": "Maszyna wirtualna"
+        }
+      ],
+      "/Operatory-arytmetyczne": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Operatory-arytmetyczne",
+          "text": "Operatory arytmetyczne"
+        }
+      ],
+      "/Podstawowe-instrukcjie-i-p%C4%99tle": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Podstawowe-instrukcjie-i-p%C4%99tle",
+          "text": "Podstawowe instrukcjie i pętle"
+        }
+      ],
+      "/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji",
+          "text": "Popularne języki programowania a metody ich translacji"
+        }
+      ],
+      "/Preprocesor": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Preprocesor",
+          "text": "Preprocesor"
+        }
+      ],
+      "/Proste-typy-danych": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Proste-typy-danych",
+          "text": "Proste typy danych"
+        }
+      ],
+      "/Rola-i-deklaracjia-funkcji-main": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Rola-i-deklaracjia-funkcji-main",
+          "text": "Rola i deklaracjia funkcji main"
+        }
+      ],
+      "/Static": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Static",
+          "text": "Static"
+        }
+      ],
+      "/Zmienne-klasy": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/Zmienne-klasy",
+          "text": "Zmienne klasy"
         }
       ]
     }
@@ -614,106 +728,6 @@
       "source": "/I-semestr/Amzea/II-kolokwium/Granica-funkcji",
       "target": "/I-semestr/Amzea/II-kolokwium/Rozbicie-ze-wzor%C3%B3w-skr%C3%B3conego-mno%C5%BCenia",
       "text": "Rozbicie ze wzorów skróconego mnożenia"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/wektory-i-skalary",
-      "text": "wektory i skalary"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Definicja-wektora-po%C5%82o%C5%BCenia-i-wektora-przemieszczenia-cz%C4%85stki-Wektory-pr%C4%99dko%C5%9Bci-i-przy%C5%9Bpieszenia",
-      "text": "Definicja wektora położenia i wektora przemieszczenia cząstki, Wektory prędkości i przyśpieszenia"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Ruch-jednostajny-i-jednostajnie-zmienny",
-      "text": "Ruch jednostajny i jednostajnie zmienny"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Rzuty",
-      "text": "Rzuty"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Zagadnienia-zwi%C4%85zane-z-okr%C4%99giem",
-      "text": "Zagadnienia związane z okręgiem"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Zasady-dynamiki-Newtona-dla-punktu-materialnego-Definicja-p%C4%99du-i-II-zasada-dynamiki-Fdp-przez-dt",
-      "text": "Zasady dynamiki Newtona dla punktu materialnego, Definicja pędu i II zasada dynamiki F=dp przez dt"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Zasada-zachowania-p%C4%99du-Zderzenia-spr%C4%99%C5%BCyste-i-niespr%C4%99%C5%BCyste",
-      "text": "Zasada zachowania pędu, Zderzenia sprężyste i niesprężyste"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Si%C5%82a-grawitacji",
-      "text": "Siła grawitacji"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Energia-potencjalna-w-pobli%C5%BCu-powierzchni-Ziemi-i-w-du%C5%BCej-odleg%C5%82o%C5%9Bci",
-      "text": "Energia potencjalna w pobliżu powierzchni Ziemi i w dużej odległości"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Zale%C5%BCno%C5%9B%C4%87-mi%C4%99dzy-energia-potencjaln%C4%85-a-prac%C4%85-si%C5%82-zachowawczych-Twierdzenie-o-r%C3%B3wnowa%C5%BCno%C5%9Bci-pracy-i-energii-kinetycznej-Zasada-zachowania-energii-mechanicznej",
-      "text": "Zależność między energia potencjalną a pracą sił zachowawczych Twierdzenie o równoważności pracy i energii kinetycznej Zasada zachowania energii mechanicznej"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Definicja-momentu-bezw%C5%82adno%C5%9Bci-momentu-si%C5%82y-i-momentu-p%C4%99du",
-      "text": "Definicja momentu bezwładności, momentu siły i momentu pędu"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/II-zasada-dynamiki-dla-ruchu-obrotowego-punktu-materialnego-i-uk%C5%82adu-punkt%C3%B3w-materialnych-MI%CE%B5",
-      "text": "II zasada dynamiki dla ruchu obrotowego punktu materialnego i układu punktów materialnych  M=Iε"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/R%C3%B3wnanie-stanu-gazu-doskona%C5%82ego",
-      "text": "Równanie stanu gazu doskonałego"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Przemiany-gazowe",
-      "text": "Przemiany gazowe"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Energia-wewn%C4%99trznaEntropia-Zasady-termodynamiki",
-      "text": "Energia wewnętrzna,Entropia, Zasady termodynamiki"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Pole-elektrostatyczne-Prawo-Coulomba-Wektor-nat%C4%99%C5%BCenia-pola-elektrycznego-E",
-      "text": "Pole elektrostatyczne Prawo Coulomba, Wektor natężenia pola elektrycznego E"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Pole-magnetyczne-wektor-nat%C4%99%C5%BCenia-pola-magnetycznego-B-i-strumie%C5%84-pola-B",
-      "text": "Pole magnetyczne, wektor natężenia pola magnetycznego B i strumień pola B"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Prawo-Gaussa-dla-pola-magnetycznego",
-      "text": "Prawo Gaussa dla pola magnetycznego"
-    },
-    {
-      "source": "/I-semestr/Fizyka/Fizyka",
-      "target": "/I-semestr/Fizyka/Ruch-falowy-Dyfrakcja-i-interferencja",
-      "text": "Ruch falowy, Dyfrakcja i interferencja"
-    },
-    {
-      "source": "/I-semestr/I-Semestr",
-      "target": "/I-semestr/Fizyka/Fizyka",
-      "text": "Fizyka"
     },
     {
       "source": "/I-semestr/I-Semestr",
@@ -836,9 +850,154 @@
       "text": "ZM"
     },
     {
+      "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+      "target": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
+      "text": "Kod pośredni"
+    },
+    {
+      "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+      "target": "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy",
+      "text": "kod źródłowy i kod wynikowy"
+    },
+    {
+      "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+      "target": "/II-Semestr/JPO/Maszyna-wirtualna",
+      "text": "Maszyna wirtualna"
+    },
+    {
+      "source": "/II-Semestr/JPO/Maszyna-wirtualna",
+      "target": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
+      "text": "Kod pośredni"
+    },
+    {
+      "source": "/II-Semestr/JPO/Programowanie-obiektowe",
+      "target": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "text": "zagadnienia I zerówka"
+    },
+    {
+      "source": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+      "target": "/II-Semestr/JPO/poj%C4%99cia/Asembler",
+      "text": "Asembler"
+    },
+    {
+      "source": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+      "target": "/II-Semestr/JPO/Maszyna-wirtualna",
+      "text": "Maszyna wirtualna"
+    },
+    {
+      "source": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+      "target": "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy",
+      "text": "kod źródłowy i kod wynikowy"
+    },
+    {
+      "source": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
+      "target": "/II-Semestr/JPO/Maszyna-wirtualna",
+      "text": "Maszyna wirtualna"
+    },
+    {
+      "source": "/II-Semestr/JPO/poj%C4%99cia/kod-%C5%BAr%C3%B3d%C5%82owy-i-kod-wynikowy",
+      "target": "/II-Semestr/JPO/poj%C4%99cia/Pami%C4%99%C4%87-operacyjna",
+      "text": "Pamięć operacyjna"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/II-Semestr/JPO/Rodzaje-translacji-program%C3%B3w-komputerowych",
+      "text": "Rodzaje translacji programów komputerowych"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
+      "text": "Kompilacja do kodu pośredniego"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Maszyna-wirtualna",
+      "text": "Maszyna wirtualna"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji",
+      "text": "Popularne języki programowania a metody ich translacji"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Etapy-kompilacji",
+      "text": "Etapy kompilacji"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Preprocesor",
+      "text": "Preprocesor"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Konsolidator",
+      "text": "Konsolidator"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Rola-i-deklaracjia-funkcji-main",
+      "text": "Rola i deklaracjia funkcji main"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Deklarowanie-zmiennych",
+      "text": "Deklarowanie zmiennych"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Zmienne-klasy",
+      "text": "Zmienne klasy"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Auto",
+      "text": "Auto"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Static",
+      "text": "Static"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Extern",
+      "text": "Extern"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Proste-typy-danych",
+      "text": "Proste typy danych"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Operatory-arytmetyczne",
+      "text": "Operatory arytmetyczne"
+    },
+    {
+      "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+      "target": "/Podstawowe-instrukcjie-i-p%C4%99tle",
+      "text": "Podstawowe instrukcjie i pętle"
+    },
+    {
+      "source": "/II-Semestr/Przedmioty-II-semestr",
+      "target": "/II-Semestr/Mn/Metody-numeryczne",
+      "text": "Metody numeryczne"
+    },
+    {
+      "source": "/II-Semestr/Przedmioty-II-semestr",
+      "target": "/II-Semestr/JPO/Programowanie-obiektowe",
+      "text": "Programowanie obiektowe"
+    },
+    {
       "source": "/",
       "target": "/I-semestr/I-Semestr",
       "text": "Notatki z I semestru"
+    },
+    {
+      "source": "/",
+      "target": "/II-Semestr/Przedmioty-II-semestr",
+      "text": "Przedmioty II semestr"
     },
     {
       "source": "/",
