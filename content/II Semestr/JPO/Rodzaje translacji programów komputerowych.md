@@ -4,7 +4,7 @@ created: 2023-05-08 16:24
 tags:
 - Programowanie
 - cpp
-date: 2023-05-08T20:01:54+02:00
+date: 2023-05-08T20:37:59+02:00
 ---
 
 Procesor przyjmuje instrukcje przekazane do niego jako zera i jedynki (kod maszynowy/źródłowy).
@@ -23,11 +23,11 @@ Kod wynikowy/maszynowy[^3]  jest wynikiem przetworzenia przez [Asembler](II%20Se
   Droga kodu źródłowego do procesora
 >[!info] Pierwsza opcja
 >
->  kod źródłowy => kompilator=>kod maszynowy=>procesor 
+>  kod źródłowy => kompilator=>kod maszynowy=>pamięć operacyjna=>procesor 
 
 >[!info] Druga opcja
 >
->kod źródłowy => kompilator=>kod pośredni=>maszyna wirtualna=>kod maszynowy=>procesor
+>kod źródłowy => kompilator=>kod pośredni=>maszyna wirtualna=>kod maszynowy=>pamięć operacyjna=>procesor
 
 
   pierwsza opcja jest szybsza lecz trudniejsza w utrzymaniu druga jest wolnijsza lecz prostsza w utrzymaniu

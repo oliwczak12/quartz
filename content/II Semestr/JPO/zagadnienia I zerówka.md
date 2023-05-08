@@ -4,7 +4,7 @@ created: 2023-05-08 16:01
 tags:
 - Programowanie
 - cpp
-date: 2023-05-08T19:56:58+02:00
+date: 2023-05-08T21:15:25+02:00
 ---
 
 [Rodzaje translacji programów komputerowych](II%20Semestr/JPO/Rodzaje%20translacji%20programów%20komputerowych.md)
@@ -13,13 +13,13 @@ date: 2023-05-08T19:56:58+02:00
 
 [[Maszyna wirtualna]]
 
-[[Popularne języki programowania a metody ich translacji]]
+[Popularne języki programowania a metody ich translacji](II%20Semestr/JPO/Popularne%20języki%20programowania%20a%20metody%20ich%20translacji.md)
 
-[[Etapy kompilacji]]
+[Etapy kompilacji](Etapy%20kompilacji)
 
 [[Preprocesor]]
 
-[[Konsolidator]]
+[Konsolidator](II%20Semestr/JPO/Konsolidator.md)
 
 [[Rola i deklaracjia funkcji main]]
 
