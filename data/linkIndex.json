@@ -251,7 +251,7 @@
         },
         {
           "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
-          "target": "/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji",
+          "target": "/II-Semestr/JPO/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji",
           "text": "Popularne języki programowania a metody ich translacji"
         },
         {
@@ -266,7 +266,7 @@
         },
         {
           "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
-          "target": "/Konsolidator",
+          "target": "/II-Semestr/JPO/Konsolidator",
           "text": "Konsolidator"
         },
         {
@@ -544,6 +544,13 @@
           "text": "Kompilacja do kodu pośredniego"
         }
       ],
+      "/II-Semestr/JPO/Konsolidator": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/II-Semestr/JPO/Konsolidator",
+          "text": "Konsolidator"
+        }
+      ],
       "/II-Semestr/JPO/Maszyna-wirtualna": [
         {
           "source": "/II-Semestr/JPO/Kompilacja-do-kodu-po%C5%9Bredniego",
@@ -559,6 +566,13 @@
           "source": "/II-Semestr/JPO/poj%C4%99cia/Kod-po%C5%9Bredni",
           "target": "/II-Semestr/JPO/Maszyna-wirtualna",
           "text": "Maszyna wirtualna"
+        }
+      ],
+      "/II-Semestr/JPO/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji": [
+        {
+          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
+          "target": "/II-Semestr/JPO/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji",
+          "text": "Popularne języki programowania a metody ich translacji"
         }
       ],
       "/II-Semestr/JPO/Programowanie-obiektowe": [
@@ -634,13 +648,6 @@
           "text": "Przedmioty II semestr"
         }
       ],
-      "/Konsolidator": [
-        {
-          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
-          "target": "/Konsolidator",
-          "text": "Konsolidator"
-        }
-      ],
       "/Lista-do-zrobienia": [
         {
           "source": "/",
@@ -667,13 +674,6 @@
           "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
           "target": "/Podstawowe-instrukcjie-i-p%C4%99tle",
           "text": "Podstawowe instrukcjie i pętle"
-        }
-      ],
-      "/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji": [
-        {
-          "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
-          "target": "/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji",
-          "text": "Popularne języki programowania a metody ich translacji"
         }
       ],
       "/Preprocesor": [
@@ -916,7 +916,7 @@
     },
     {
       "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
-      "target": "/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji",
+      "target": "/II-Semestr/JPO/Popularne-j%C4%99zyki-programowania-a-metody-ich-translacji",
       "text": "Popularne języki programowania a metody ich translacji"
     },
     {
@@ -931,7 +931,7 @@
     },
     {
       "source": "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka",
-      "target": "/Konsolidator",
+      "target": "/II-Semestr/JPO/Konsolidator",
       "text": "Konsolidator"
     },
     {
