@@ -229,6 +229,14 @@
       "kodowanie"
     ]
   },
+  "/II-Semestr/JPO/Auto": {
+    "title": "Auto",
+    "content": "\nZmienna \"auto\" przyjmuje typ zadeklarowanej zmiennej.",
+    "lastmodified": "2023-05-09T00:21:00.218112+02:00",
+    "tags": [
+      "Programowanie"
+    ]
+  },
   "/II-Semestr/JPO/Etapy-kompilacji": {
     "title": "Etapy kompilacji",
     "content": "\n# Etapy\n\n1. Analiza leksykalna\n2. Analiza syntaktyczna\n3. Generacjia kodu",
@@ -247,8 +255,8 @@
   },
   "/II-Semestr/JPO/Konsolidator": {
     "title": "Konsolidator",
-    "content": "\n# Konsolidator\n\nProgram łączący wszystkie elementy programu tworzący odpowiedzni kod wykonywalny",
-    "lastmodified": "2023-05-08T21:15:09.0621782+02:00",
+    "content": "\n# Konsolidator\n\nProgram łączący wszystkie elementy programu tworzący odpowiedzni kod wykonywalny.",
+    "lastmodified": "2023-05-09T00:21:46.48216+02:00",
     "tags": [
       "Programowanie"
     ]
@@ -296,8 +304,16 @@
   },
   "/II-Semestr/JPO/Rola-i-deklaracjia-funkcji-main": {
     "title": "Rola i deklaracjia funkcji main",
-    "content": "\nfunkcjia main jest główną funkcją od której program zaczyna swoje działanie ",
-    "lastmodified": "2023-05-08T23:19:09.6848534+02:00",
+    "content": "\nFunkcjia main jest główną funkcją od której program zaczyna swoje działanie .",
+    "lastmodified": "2023-05-09T00:21:19.3812488+02:00",
+    "tags": [
+      "Programowanie"
+    ]
+  },
+  "/II-Semestr/JPO/Static": {
+    "title": "Static",
+    "content": "\nZa pomocą klucza static tworzymy statyczną zmienną lub metode która jest powiązana z klasą a nie obiektem.  ",
+    "lastmodified": "2023-05-09T00:20:09.6017272+02:00",
     "tags": [
       "Programowanie"
     ]
@@ -348,8 +364,8 @@
   },
   "/II-Semestr/JPO/zagadnienia-I-zer%C3%B3wka": {
     "title": "zagadnienia I zerówka",
-    "content": "\n[Rodzaje translacji programów komputerowych](II%20Semestr/JPO/Rodzaje%20translacji%20programów%20komputerowych.md)\n\n[Kompilacja do kodu pośredniego](II%20Semestr/JPO/Kompilacja%20do%20kodu%20pośredniego.md)\n\n[[Maszyna wirtualna]]\n\n[Popularne języki programowania a metody ich translacji](II%20Semestr/JPO/Popularne%20języki%20programowania%20a%20metody%20ich%20translacji.md)\n\n[Etapy kompilacji](Etapy%20kompilacji)\n\n[[Preprocesor]]\n\n[Konsolidator](II%20Semestr/JPO/Konsolidator.md)\n\n[[Rola i deklaracjia funkcji main]]\n\n[[Deklarowanie zmiennych]]\n\n[[Zmienne klasy]]\n\n[[Auto]]\n\n[[Static]]\n\n[[Extern]]\n\n[[Proste typy danych]]\n\n[[Operatory arytmetyczne]]\n\n[[Podstawowe instrukcjie i pętle]]\n\n\n",
-    "lastmodified": "2023-05-08T23:39:51.6997559+02:00",
+    "content": "\n# [Rodzaje translacji programów komputerowych](II%20Semestr/JPO/Rodzaje%20translacji%20programów%20komputerowych.md)\n\nProcesor przyjmuje instrukcje przekazane do niego jako zera i jedynki (kod maszynowy/źródłowy).\n\nKod wynikowy/maszynowy[^3]  jest wynikiem przetworzenia przez [Asembler](II%20Semestr/JPO/pojęcia/Asembler.md) języka symbolicznego[^3] .\n\n## Sposoby zamiany kodu na kod maszynowy\n\n- ### Kompilator\n\n  generuje kod maszynowy dla danego procesora lub procesora wirtualnego[^2] różni się od asemblera tym że kod piszemy tak samo dla różnych platform\n  aczkolwiek do każdej platformy dobieramy inny kompilator.\n\n  Kompilator przed wykonaniem kodu sprawdza jego poprawność.\n\n  Droga kodu źródłowego do procesora\n\u003e[!info] Pierwsza opcja\n\u003e\n\u003e  kod źródłowy =\u003e kompilator=\u003ekod maszynowy=\u003epamięć operacyjna=\u003eprocesor \n\n\u003e[!info] Druga opcja\n\u003e\n\u003ekod źródłowy =\u003e kompilator=\u003ekod pośredni=\u003emaszyna wirtualna=\u003ekod maszynowy=\u003epamięć operacyjna=\u003eprocesor\n\n\n  pierwsza opcja jest szybsza lecz trudniejsza w utrzymaniu druga jest wolnijsza lecz prostsza w utrzymaniu\n\n  \u003e[!example] Przykład\n  \u003e\n  \u003ec++\n  \u003e\n\n- ### Interpreter\n\n  W przypadku języków interpretowanych interpreter tłumaczy \u003cu\u003e***instrukcjie***\u003c/u\u003e[^1]\n  kodu źródłowego robi to pojedyńczo instrukcja po instrukcji oraz na bierząco przez co może wykonać niepoprawny kod do momentu aż sie nie wysypie.\n  \n\n\n\n[^1]: Prawidłowa terminologia to instrukcjie nie linie\n[^2]: [Maszyna wirtualna](II%20Semestr/JPO/Maszyna%20wirtualna.md)\n[^3]: [kod źródłowy i kod wynikowy](II%20Semestr/JPO/pojęcia/kod%20źródłowy%20i%20kod%20wynikowy.md)\n\n# [Kompilacja do kodu pośredniego](II%20Semestr/JPO/Kompilacja%20do%20kodu%20pośredniego.md)\n\nKompilator generuje [Kod pośredni](II%20Semestr/JPO/pojęcia/Kod%20pośredni.md) z kodu źródłowego[^10] który to jest na bierząco przetwarzany przez wirtualny procesor[^20] do kodu maszynowego dla danego procesora. \n\n[^10]: [kod źródłowy i kod wynikowy](II%20Semestr/JPO/pojęcia/kod%20źródłowy%20i%20kod%20wynikowy.md)\n[^20]: [Maszyna wirtualna](II%20Semestr/JPO/Maszyna%20wirtualna.md)\n\n\n# [Maszyna wirtualna](II%20Semestr/JPO/Maszyna%20wirtualna.md)\n\nJest to wirtualny procesor który przetwarza [Kod pośredni](II%20Semestr/JPO/pojęcia/Kod%20pośredni.md) który dostaje od kompilatora na konkretny predefiniowany procesor\n\n\n# [Popularne języki programowania a metody ich translacji](II%20Semestr/JPO/Popularne%20języki%20programowania%20a%20metody%20ich%20translacji.md)\n\n# [Etapy kompilacji](Etapy%20kompilacji)\n\n1. Analiza leksykalna\n2. Analiza syntaktyczna\n3. Generacjia kodu\n\n# [Preprocesor](II%20Semestr/JPO/Preprocesor.md)\n\nProgram który wstepnie przetwarza kod źródłowy który wstępnie przetwarza kod przed przekazaniem do kompilatora.\n\n# [Konsolidator](II%20Semestr/JPO/Konsolidator.md)\n\nProgram łączący wszystkie elementy programu tworzący odpowiedzni kod wykonywalny.\n\n# [Rola i deklaracjia funkcji main](II%20Semestr/JPO/Rola%20i%20deklaracjia%20funkcji%20main.md)\n\nFunkcjia main jest główną funkcją od której program zaczyna swoje działanie .\n\n# [[Deklarowanie zmiennych]]\n\n# [[Zmienne klasy]]\n\n# [Auto](II%20Semestr/JPO/Auto.md)\n\nZmienna \"auto\" przyjmuje typ zadeklarowanej zmiennej.\n\n# [Static](II%20Semestr/JPO/Static.md)\n\nZa pomocą klucza static tworzymy statyczną zmienną lub metode która jest powiązana z klasą a nie obiektem.  \n\n# [[Extern]]\n\n# [[Proste typy danych]]\n\n# [[Operatory arytmetyczne]]\n\n# [[Podstawowe instrukcjie i pętle]]\n\n\n",
+    "lastmodified": "2023-05-09T00:24:53.6463163+02:00",
     "tags": [
       "Programowanie",
       "cpp"
